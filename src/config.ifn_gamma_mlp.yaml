@@ -1,0 +1,70 @@
+data:
+  dataset: dong_2023 # Supported pertpy dataset name; used only when path is null.
+  path: data/dong_2023.h5ad # Local AnnData file; relative paths resolve from the repository root.
+  minimum_cells_per_condition: 20 # Minimum control and IFNg cells required per cell type.
+
+metadata:
+  condition: perturbation # .obs column containing the condition labels.
+  cell_type: cell_type0528 # .obs column used to group cells and stratify CINEMA-OT.
+
+conditions:
+  control: "No stimulation" # Control label in metadata.condition.
+  ifng: "IFNg" # IFNg-treated label in metadata.condition.
+
+expression:
+  gene_list: highly_variable # Currently unused; selection follows n_hvg or .var['highly_variable'].
+  source_scale: log1p # Read from .raw and model reclosed log1p values; scaled mode reads .X.
+  n_hvg: 5000 # Select this many HVGs from training cells; requires log1p and .raw.
+  scale_factor: 8 # Scales model inputs/outputs and sets the log1p prediction ceiling.
+  target_sum: 2856 # Linear-space sum used when reclosing each selected-gene profile.
+
+splits:
+  train_fraction: 0.7 # Fraction of each cell type/condition's source cells for training.
+  validation_fraction: 0.15 # Fraction of source cells reserved for early stopping.
+  test_fraction: 0.15 # Fraction of source cells reserved for held-out evaluation.
+
+pretraining:
+  pairs_per_cell_type: 2000 # Random control/IFNg pseudo-pair draws, split by the fractions above.
+  learning_rate: 0.0001 # AdamW learning rate for population-pair pretraining.
+  batch_size: 128 # Number of pseudo-pairs per training batch.
+  max_epochs: 1000 # Maximum pretraining epochs; early stopping may end training sooner.
+  patience: 100 # Stop after this many epochs without sufficient validation improvement.
+  min_delta: 0.00001 # Minimum validation-loss decrease counted as an improvement.
+  weight_decay: 0.0001 # AdamW weight-decay coefficient for pretraining.
+
+cinema_ot:
+  n_pcs: 20 # Requested PCA components; capped by the available data rank.
+  dim: 20 # Maximum ICA dimensions; capped by PCA dimensions and cell counts.
+  threshold: 0.15 # Rank-dependence threshold for identifying confounder components.
+  smoothness: 0.0001 # Smoothness coefficient for the entropic optimal-transport problem.
+  eps: 0.001 # Error tolerance passed to the optimal-transport solver.
+  solver: Sinkhorn # OTT-JAX solver: Sinkhorn or LRSinkhorn.
+
+fine_tuning:
+  learning_rate: 0.00001 # AdamW learning rate for CINEMA-OT fine-tuning.
+  batch_size: 64 # Number of CINEMA-OT pairs per training batch.
+  max_epochs: 100 # Maximum fine-tuning epochs; early stopping may end training sooner.
+  patience: 20 # Stop after this many epochs without sufficient validation improvement.
+  min_delta: 0.00001 # Minimum validation-loss decrease counted as an improvement.
+  weight_decay: 0.0001 # AdamW weight-decay coefficient for fine-tuning.
+  use_match_weights: true # Weight fine-tuning losses by CINEMA-OT match confidence.
+
+evaluation:
+  batch_size: 256 # Number of profiles per prediction batch during evaluation.
+  max_points_per_cell_type: 10000 # Currently unused; plots sample whole profiles via n_sample_plot.
+  n_sample_plot: 3 # Number of complete held-out profiles shown per cell type in each test plot.
+  n_sample_plot_seed: 0 # Seed for reproducible test-plot profile sampling.
+
+model:
+  # Predict a bounded change and add it to the input; full predicts directly.
+  prediction_target: residual
+  hidden_dims: [512, 512, 512] # Width of each hidden MLP layer.
+  dropout: 0.3 # Dropout probability applied in each hidden layer.
+
+random_state: 0 # Seed for source splits, pair sampling, model initialization, and CINEMA-OT.
+device: auto # Select CUDA, then MPS, then CPU; or provide an explicit PyTorch device.
+
+outputs:
+  # Relative to the repository root; all run artifacts are written here.
+  directory: results/ifn_gamma_mlp_log1p_residual_5000hvg_dropout0.3
+  overwrite: false # Allow writing into a non-empty directory; existing files are not cleaned.

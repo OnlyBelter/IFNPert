@@ -1,0 +1,19 @@
+name: inf_pert
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - anndata
+  - scanpy
+  - scikit-learn
+  - pytorch=2.13.*
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - pyyaml
+  - tabulate
+  - pytest
+  - pip
+  - pip:
+      - pertpy[jax]
