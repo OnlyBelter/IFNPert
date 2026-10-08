@@ -1,0 +1,60 @@
+data:
+  dataset: dong_2023
+  path: data/dong_2023.h5ad
+  minimum_cells_per_condition: 20
+metadata:
+  condition: perturbation
+  cell_type: cell_type0528
+conditions:
+  control: No stimulation
+  ifng: IFNg
+expression:
+  gene_list: highly_variable
+  source_scale: log1p
+  n_hvg: 5000
+  scale_factor: 8
+  target_sum: 2856
+splits:
+  train_fraction: 0.7
+  validation_fraction: 0.15
+  test_fraction: 0.15
+pretraining:
+  pairs_per_cell_type: 2000
+  learning_rate: 0.0001
+  batch_size: 128
+  max_epochs: 1000
+  patience: 100
+  min_delta: 1.0e-05
+  weight_decay: 0.0001
+cinema_ot:
+  n_pcs: 20
+  dim: 20
+  threshold: 0.15
+  smoothness: 0.0001
+  eps: 0.001
+  solver: Sinkhorn
+fine_tuning:
+  learning_rate: 1.0e-05
+  batch_size: 64
+  max_epochs: 100
+  patience: 20
+  min_delta: 1.0e-05
+  weight_decay: 0.0001
+  use_match_weights: true
+evaluation:
+  batch_size: 256
+  max_points_per_cell_type: 10000
+  n_sample_plot: 3
+  n_sample_plot_seed: 0
+model:
+  prediction_target: residual
+  hidden_dims:
+  - 512
+  - 512
+  - 512
+  dropout: 0.3
+random_state: 0
+device: auto
+outputs:
+  directory: results/ifn_gamma_mlp_log1p_residual_5000hvg_dropout0.3
+  overwrite: false

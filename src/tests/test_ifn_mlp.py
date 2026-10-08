@@ -495,3 +495,79 @@ def test_stage_two_plot_samples_complete_profiles_reproducibly(monkeypatch, tmp_
     finally:
         for fig in figures:
             plt.close(fig)
+
+
+def test_stage_pearson_plot_uses_shared_axis_and_data_range(monkeypatch, tmp_path):
+    values = {
+        ("population_pretraining", "B", "mlp"): 0.2,
+        ("population_pretraining", "B", "cell_type_mean"): 0.3,
+        ("population_pretraining", "B", "identity"): 0.4,
+        ("population_pretraining", "NK", "mlp"): 0.5,
+        ("population_pretraining", "NK", "cell_type_mean"): 0.6,
+        ("population_pretraining", "NK", "identity"): 0.7,
+        ("cinema_finetuning", "B", "mlp"): 0.3,
+        ("cinema_finetuning", "B", "cell_type_mean"): 0.4,
+        ("cinema_finetuning", "B", "identity"): 0.5,
+        ("cinema_finetuning", "NK", "mlp"): 0.6,
+        ("cinema_finetuning", "NK", "cell_type_mean"): 0.7,
+        ("cinema_finetuning", "NK", "identity"): 0.8,
+    }
+    metrics = pd.DataFrame(
+        [
+            {
+                "stage": stage,
+                "cell_type": cell_type,
+                "method": method,
+                "mean_profile_pearson_r": value,
+            }
+            for (stage, cell_type, method), value in values.items()
+        ]
+    )
+    figures = []
+    monkeypatch.setattr(
+        report,
+        "_write_figure",
+        lambda fig, path: figures.append(fig),
+    )
+
+    report._plot_stage_pearson(metrics, tmp_path / "pearson.png")
+
+    fig = figures[0]
+    try:
+        assert len(fig.axes) == 2
+        assert [ax.get_title() for ax in fig.axes] == [
+            "Population pretraining",
+            "CINEMA-OT fine-tuning",
+        ]
+        assert fig.axes[0].get_shared_x_axes().joined(fig.axes[0], fig.axes[1])
+        assert [label.get_text() for label in fig.axes[1].get_xticklabels()] == [
+            "B",
+            "NK",
+        ]
+        assert all(len(ax.collections) == 3 for ax in fig.axes)
+        for ax in fig.axes:
+            separators = [
+                line for line in ax.lines if line.get_linestyle() == ":"
+            ]
+            assert len(separators) == 1
+            np.testing.assert_allclose(separators[0].get_xdata(), [0.5, 0.5])
+            assert separators[0].get_zorder() < ax.collections[0].get_zorder()
+        assert [
+            label.get_text()
+            for label in fig.axes[0].get_legend().get_texts()
+        ] == ["MLP", "Cell-type mean", "Identity"]
+        assert fig.axes[1].get_legend() is None
+        assert not fig.legends
+        assert len(
+            {
+                tuple(collection.get_facecolors()[0])
+                for collection in fig.axes[0].collections
+            }
+        ) == 3
+        np.testing.assert_allclose(fig.axes[0].get_ylim(), (0.17, 0.83))
+        np.testing.assert_allclose(
+            fig.axes[0].get_ylim(),
+            fig.axes[1].get_ylim(),
+        )
+    finally:
+        plt.close(fig)

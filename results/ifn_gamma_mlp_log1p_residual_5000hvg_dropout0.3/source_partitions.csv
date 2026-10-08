@@ -1,0 +1,4171 @@
+cell_id,cell_type,condition,partition
+CCGTTCAAGCAATATG-1,B,No stimulation,train
+TCGTAGACACGAAAGC-1,B,No stimulation,train
+AAGTCTGAGAGTAAGG-1,B,No stimulation,train
+ACTGATGCATCGGGTC-1,B,No stimulation,train
+CTGCTGTTCTTAGAGC-1,B,No stimulation,train
+AGGGTGAGTACTCAAC-1,B,No stimulation,train
+TTAGGCACAGTTCATG-1,B,No stimulation,train
+CCCAATCAGCGGATCA-1,B,No stimulation,train
+CTGAAACGTACCTACA-1,B,No stimulation,train
+CAAGATCGTTACTGAC-1,B,No stimulation,train
+AGAGTGGGTTGGACCC-1,B,No stimulation,train
+TTCCCAGTCTTGCAAG-1,B,No stimulation,train
+ACGGGCTCACCGAATT-1,B,No stimulation,train
+ACGATGTTCGTTTAGG-1,B,No stimulation,train
+GCTGCAGTCACTTACT-1,B,No stimulation,train
+ACATGGTTCGGATGTT-1,B,No stimulation,train
+TAGGCATCACGACTCG-1,B,No stimulation,train
+ACGAGGACATCACGTA-1,B,No stimulation,train
+TGCGGGTCATTGCGGC-1,B,No stimulation,train
+AGGGAGTCATCACCCT-1,B,No stimulation,train
+TGACTAGAGGAACTGC-1,B,No stimulation,train
+GTTCGGGGTACCGAGA-1,B,No stimulation,train
+GCACATACACTTAAGC-1,B,No stimulation,train
+GGCTGGTCATCCGCGA-1,B,No stimulation,train
+CGCGGTATCTTTAGGG-1,B,No stimulation,train
+AAGACCTTCGTTACAG-1,B,No stimulation,train
+CAACCTCCAGTCGTGC-1,B,No stimulation,train
+CTTAGGATCACTCTTA-1,B,No stimulation,train
+GTCGGGTGTTTGTTGG-1,B,No stimulation,train
+GATCAGTGTACACCGC-1,B,No stimulation,train
+ATCCACCCACAGACTT-1,B,No stimulation,train
+CGGTTAATCTGCGGCA-1,B,No stimulation,train
+CGCTTCAAGAGTTGGC-1,B,No stimulation,train
+CTGGTCTCAAGCGCTC-1,B,No stimulation,train
+TACTTACCAGCGTAAG-1,B,No stimulation,train
+GGCTGGTGTATGAATG-1,B,No stimulation,train
+GACCTGGTCTTCGAGA-1,B,No stimulation,train
+AGAGCTTAGCTGAACG-1,B,No stimulation,train
+CACAGTACAAACTGCT-1,B,No stimulation,train
+AACTTTCAGTGCCAGA-1,B,No stimulation,train
+CCGGTAGGTTAAAGAC-1,B,No stimulation,train
+CGGAGTCCAAGTAATG-1,B,No stimulation,train
+AGCCTAACACTGTTAG-1,B,No stimulation,train
+GTCAAGTGTATCAGTC-1,B,No stimulation,train
+CACAAACTCTGTCTCG-1,B,No stimulation,train
+TAGTTGGGTACGAAAT-1,B,No stimulation,train
+AGCTTGACAGTAAGCG-1,B,No stimulation,train
+GTCTCGTTCAGCACAT-1,B,No stimulation,train
+AAGACCTTCGCCAAAT-1,B,No stimulation,train
+AACCGCGGTGGTCTCG-1,B,No stimulation,train
+GAACGGATCTCTAGGA-1,B,No stimulation,train
+ATCTACTGTCACCTAA-1,B,No stimulation,train
+GCAATCATCCCTTGCA-1,B,No stimulation,train
+AGGGTGATCGGAATCT-1,B,No stimulation,train
+CTAAGACCAAGCTGTT-1,B,No stimulation,train
+AACCATGCACCAGATT-1,B,No stimulation,train
+ACACCCTCATTTCACT-1,B,No stimulation,train
+TCGGTAACAGATCCAT-1,B,No stimulation,train
+CGTAGGCAGGACACCA-1,B,No stimulation,train
+ATCACGATCCACTGGG-1,B,No stimulation,train
+CAACTAGCACGGCTAC-1,B,No stimulation,train
+CTGCTGTAGTACGACG-1,B,No stimulation,train
+CCTACCAAGAGGTTAT-1,B,No stimulation,train
+TAGCCGGAGTAATCCC-1,B,No stimulation,train
+CTCGTACTCTAACGGT-1,B,No stimulation,train
+GTTCGGGCAAAGGAAG-1,B,No stimulation,train
+TCTTCGGAGCAGCGTA-1,B,No stimulation,train
+TGTCCCACAGGAATCG-1,B,No stimulation,train
+CGCTGGACACAGTCGC-1,B,No stimulation,validation
+GACGTTACACGAAACG-1,B,No stimulation,validation
+ACTGAACTCCACTGGG-1,B,No stimulation,validation
+CATGACACAGGTCTCG-1,B,No stimulation,validation
+TGTGTTTTCGTCTGAA-1,B,No stimulation,validation
+CGTGTAACAGCCTATA-1,B,No stimulation,validation
+GAAGCAGAGGGTTTCT-1,B,No stimulation,validation
+AGAATAGGTGCAGACA-1,B,No stimulation,validation
+GTGGGTCAGACAGAGA-1,B,No stimulation,validation
+CGAACATAGCTGTCTA-1,B,No stimulation,validation
+TCAGCAATCACCTTAT-1,B,No stimulation,validation
+CAGATCACAACCGCCA-1,B,No stimulation,validation
+TCCCGATCATGACATC-1,B,No stimulation,validation
+CTACATTCATCGACGC-1,B,No stimulation,validation
+TAAGCGTAGCCACCTG-1,B,No stimulation,test
+GTTCGGGTCCACGTGG-1,B,No stimulation,test
+ACATACGGTGTTGGGA-1,B,No stimulation,test
+GATGAGGGTCAGATAA-1,B,No stimulation,test
+GTACGTATCCCTAATT-1,B,No stimulation,test
+TACACGAGTTATCCGA-1,B,No stimulation,test
+GACCAATAGGCTCAGA-1,B,No stimulation,test
+CTTAGGAGTGGTCCGT-1,B,No stimulation,test
+CACACCTGTCTAAAGA-1,B,No stimulation,test
+CGCTGGACAGACTCGC-1,B,No stimulation,test
+GAAATGATCAGGCAAG-1,B,No stimulation,test
+CATTATCCATCCCATC-1,B,No stimulation,test
+TACAGTGTCTGATACG-1,B,No stimulation,test
+TTTGGTTTCTAGCACA-1,B,No stimulation,test
+AAGGAGCTCCTCAACC-1,B,IFNg,train
+GATCGTACATGCAACT-1,B,IFNg,train
+TGTGTTTAGTCCGTAT-1,B,IFNg,train
+GCATGATCACTTCTGC-1,B,IFNg,train
+CCAATCCCAAAGCAAT-1,B,IFNg,train
+TGGTTCCGTACCCAAT-1,B,IFNg,train
+CACCTTGAGCGTGAGT-1,B,IFNg,train
+CTACATTTCTGCGGCA-1,B,IFNg,train
+GGGAATGCACGGTTTA-1,B,IFNg,train
+ATCGAGTGTCCGAATT-1,B,IFNg,train
+CATCCACAGCAGATCG-1,B,IFNg,train
+GATCGATAGGAGTCTG-1,B,IFNg,train
+TGTGTTTTCCGTAGGC-1,B,IFNg,train
+GACCAATCACGGATAG-1,B,IFNg,train
+GTAGTCAAGGTGGGTT-1,B,IFNg,train
+GTTACAGTCAACTCTT-1,B,IFNg,train
+TTGGAACCAGGGTACA-1,B,IFNg,train
+TACGGTAGTAGCTTGT-1,B,IFNg,train
+CTAGAGTCACTTCTGC-1,B,IFNg,train
+CCACTACCAGGCGATA-1,B,IFNg,train
+GGAACTTGTATTCGTG-1,B,IFNg,train
+ACTGTCCGTCGCGAAA-1,B,IFNg,train
+GGGTTGCCATCACGTA-1,B,IFNg,train
+TACACGACAAGTTGTC-1,B,IFNg,train
+ATCTACTAGGAACTGC-1,B,IFNg,train
+GTGCAGCGTTTGGCGC-1,B,IFNg,train
+GTTAAGCTCCTTTACA-1,B,IFNg,train
+AAAGTAGAGTGTGGCA-1,B,IFNg,train
+TTCTACATCAGTCAGT-1,B,IFNg,train
+GCGCAGTAGAGGGCTT-1,B,IFNg,train
+CTAAGACAGTCATGCT-1,B,IFNg,train
+GACAGAGCACCATCCT-1,B,IFNg,train
+TGCTGCTGTAGCGATG-1,B,IFNg,train
+ATAACGCCAATGAATG-1,B,IFNg,train
+CTCTAATGTGCAACGA-1,B,IFNg,train
+GCATGATCATAGGATA-1,B,IFNg,train
+CACAGGCCAGCCTTGG-1,B,IFNg,train
+TCTGAGAGTTATGCGT-1,B,IFNg,train
+CTTACCGGTGTAATGA-1,B,IFNg,train
+CTCGGGAAGGATGGTC-1,B,IFNg,train
+AACTCTTTCAACACGT-1,B,IFNg,train
+CTCGGAGTCTCGGACG-1,B,IFNg,train
+CTAGAGTCACCAGTTA-1,B,IFNg,train
+TTCTTAGCAATGGATA-1,B,IFNg,train
+GACTGCGAGGTGATTA-1,B,IFNg,train
+GCTTCCACAGGTGGAT-1,B,IFNg,train
+AAGACCTCAGGGCATA-1,B,IFNg,train
+CGATTGATCTCGTTTA-1,B,IFNg,train
+CAGCATATCGCCGTGA-1,B,IFNg,train
+GGTGTTATCTGAAAGA-1,B,IFNg,train
+CGCGTTTAGATGTGTA-1,B,IFNg,train
+TTGTAGGGTGGGTCAA-1,B,IFNg,train
+GGGACCTTCCTTTCGG-1,B,IFNg,train
+TGAGGGAAGCCGGTAA-1,B,IFNg,train
+GCTGGGTCAACTGCTA-1,B,IFNg,train
+ACGATGTGTGGCTCCA-1,B,IFNg,train
+CTGCTGTAGGGAAACA-1,B,IFNg,train
+GTCAAGTTCTCCAGGG-1,B,IFNg,train
+ACGGGTCTCTTGTTTG-1,B,IFNg,train
+TGCACCTGTGCAGGTA-1,B,IFNg,train
+CAGCGACAGAGTACAT-1,B,IFNg,train
+CTCGAGGCAAGTTCTG-1,B,IFNg,train
+CTGTGCTGTCACTGGC-1,B,IFNg,train
+ATTACTCCAGGGCATA-1,B,IFNg,train
+ATCCACCAGGGTGTTG-1,B,IFNg,train
+GTCACAATCGAGAGCA-1,B,IFNg,train
+GATCGTAGTATTAGCC-1,B,IFNg,train
+TTAGGACGTCCAGTTA-1,B,IFNg,train
+TAAACCGAGCGTTGCC-1,B,IFNg,train
+GTTCTCGTCTGTTTGT-1,B,IFNg,train
+TGTCCCATCCGCTGTT-1,B,IFNg,train
+GTCACGGCACCGATAT-1,B,IFNg,train
+CCTACCAGTCGCCATG-1,B,IFNg,train
+ACGTCAACATGGATGG-1,B,IFNg,train
+AGCTCTCAGCGAAGGG-1,B,IFNg,train
+GGATGTTCAAGCCATT-1,B,IFNg,train
+CGTTGGGTCGTAGATC-1,B,IFNg,train
+TGAGGGAGTCTCCACT-1,B,IFNg,train
+CGGAGCTAGAAACCAT-1,B,IFNg,train
+TCGCGTTTCGCCTGAG-1,B,IFNg,train
+CACAGTAAGCGTCAAG-1,B,IFNg,train
+ACGATACGTCCAACTA-1,B,IFNg,train
+CAACCAATCCAGAAGG-1,B,IFNg,train
+TTGTAGGTCTTAACCT-1,B,IFNg,train
+AGCATACTCGCATGGC-1,B,IFNg,train
+TGGCTGGCACGTCTCT-1,B,IFNg,train
+ATAAGAGTCAGTTCGA-1,B,IFNg,train
+AACTCCCAGCAACGGT-1,B,IFNg,train
+TCAGCAAAGTCCATAC-1,B,IFNg,validation
+ACTGATGGTAGCGTCC-1,B,IFNg,validation
+CGCTATCGTAGCCTCG-1,B,IFNg,validation
+CCTTACGTCAAGGTAA-1,B,IFNg,validation
+TGCCCATTCGAGCCCA-1,B,IFNg,validation
+ACACCCTGTTATCGGT-1,B,IFNg,validation
+GGGATGAAGTTCGCGC-1,B,IFNg,validation
+CTGTTTACAGTAAGAT-1,B,IFNg,validation
+GCGCCAAGTCGGATCC-1,B,IFNg,validation
+GGCGTGTCATTGCGGC-1,B,IFNg,validation
+CAAGGCCCATGGGACA-1,B,IFNg,validation
+TATCTCACAAAGTCAA-1,B,IFNg,validation
+GAAACTCTCGATCCCT-1,B,IFNg,validation
+TGACTAGTCGCCATAA-1,B,IFNg,validation
+CAAGAAACAGATCTGT-1,B,IFNg,validation
+CGATCGGCACACCGCA-1,B,IFNg,validation
+AAATGCCCAATGAATG-1,B,IFNg,validation
+GACACGCCAGCCTGTG-1,B,IFNg,validation
+AACTCAGGTCAGCTAT-1,B,IFNg,validation
+TCATTTGTCTGGAGCC-1,B,IFNg,test
+ACGGGTCAGTTAGGTA-1,B,IFNg,test
+CGCTTCAGTTACCAGT-1,B,IFNg,test
+ACGCAGCAGTGTCTCA-1,B,IFNg,test
+TGTCCCATCATCTGTT-1,B,IFNg,test
+TCAGGTACATGGTCTA-1,B,IFNg,test
+CGCTTCACAGATGGCA-1,B,IFNg,test
+CATGACAAGCGTTTAC-1,B,IFNg,test
+CGTGTAATCGTACCGG-1,B,IFNg,test
+CGGGTCATCGGTGTCG-1,B,IFNg,test
+ACTGAACGTCTCGTTC-1,B,IFNg,test
+GTACTTTAGCTAGTGG-1,B,IFNg,test
+ACACCAACACTTCGAA-1,B,IFNg,test
+ATAGACCTCACCTCGT-1,B,IFNg,test
+TGAGCCGTCTTACCTA-1,B,IFNg,test
+CCACGGAAGTACTTGC-1,B,IFNg,test
+AGCTCTCTCAGTCAGT-1,B,IFNg,test
+CATGGCGAGTCGCCGT-1,B,IFNg,test
+TACTCGCCAAGGGTCA-1,B,IFNg,test
+GTAGTCACATCTGGTA-1,CD4 T,No stimulation,train
+CTGTTTAAGCACGCCT-1,CD4 T,No stimulation,train
+GACGTGCAGGCGCTCT-1,CD4 T,No stimulation,train
+CTTCTCTGTGTGAATA-1,CD4 T,No stimulation,train
+AAGACCTAGGCATGGT-1,CD4 T,No stimulation,train
+AACTCTTTCCTCAACC-1,CD4 T,No stimulation,train
+AAACGGGCATACAGCT-1,CD4 T,No stimulation,train
+TGACGGCAGATCCCGC-1,CD4 T,No stimulation,train
+CGAGCACTCACAAACC-1,CD4 T,No stimulation,train
+GAAATGAGTTGGTAAA-1,CD4 T,No stimulation,train
+TCAATCTAGCAAATCA-1,CD4 T,No stimulation,train
+GGGTTGCTCTACTCAT-1,CD4 T,No stimulation,train
+GCATACAAGCTCTCGG-1,CD4 T,No stimulation,train
+TTCTACATCCTTTCTC-1,CD4 T,No stimulation,train
+GGAACTTTCGAGAGCA-1,CD4 T,No stimulation,train
+CTCTGGTTCCTCTAGC-1,CD4 T,No stimulation,train
+GATCTAGAGTTCGATC-1,CD4 T,No stimulation,train
+GCATGTAAGATGTAAC-1,CD4 T,No stimulation,train
+CCTAGCTCAGGTCTCG-1,CD4 T,No stimulation,train
+AGATTGCCAATGACCT-1,CD4 T,No stimulation,train
+ACCTTTAAGCAGCGTA-1,CD4 T,No stimulation,train
+TGACGGCTCTCCGGTT-1,CD4 T,No stimulation,train
+TGCTGCTGTCGACTAT-1,CD4 T,No stimulation,train
+AGAGTGGGTCTAAAGA-1,CD4 T,No stimulation,train
+ACACCAAGTTTCGCTC-1,CD4 T,No stimulation,train
+ACCCACTCACCCAGTG-1,CD4 T,No stimulation,train
+GTAGTCAAGTTCCACA-1,CD4 T,No stimulation,train
+GATCGCGCACTATCTT-1,CD4 T,No stimulation,train
+GCGCCAACACGTGAGA-1,CD4 T,No stimulation,train
+CCGTACTCAACGCACC-1,CD4 T,No stimulation,train
+AAAGATGCATGCAACT-1,CD4 T,No stimulation,train
+ACTTTCATCACCACCT-1,CD4 T,No stimulation,train
+CTGTGCTAGTGATCGG-1,CD4 T,No stimulation,train
+GTGCGGTAGTCATCCA-1,CD4 T,No stimulation,train
+GCCTCTATCCTACAGA-1,CD4 T,No stimulation,train
+AAGGAGCTCAGCATGT-1,CD4 T,No stimulation,train
+TGGCTGGGTCAGGACA-1,CD4 T,No stimulation,train
+TACGGTACAAGGTTTC-1,CD4 T,No stimulation,train
+TAAGAGAGTTGGTTTG-1,CD4 T,No stimulation,train
+CATTCGCCAGGCGATA-1,CD4 T,No stimulation,train
+AGCATACTCAGCAACT-1,CD4 T,No stimulation,train
+CATGGCGGTTGTACAC-1,CD4 T,No stimulation,train
+AGAGCTTAGGACAGCT-1,CD4 T,No stimulation,train
+CAGATCAAGAGGTTAT-1,CD4 T,No stimulation,train
+CTAGTGAGTCATATCG-1,CD4 T,No stimulation,train
+ATCGAGTGTAGCTAAA-1,CD4 T,No stimulation,train
+TTTATGCAGAGCTATA-1,CD4 T,No stimulation,train
+TCATTACAGCTCCTTC-1,CD4 T,No stimulation,train
+ACGAGGACAAATCCGT-1,CD4 T,No stimulation,train
+GTCTTCGAGTTCGCAT-1,CD4 T,No stimulation,train
+AGTGGGATCCAGATCA-1,CD4 T,No stimulation,train
+GCGACCACAAAGGTGC-1,CD4 T,No stimulation,train
+GTATTCTGTTGGAGGT-1,CD4 T,No stimulation,train
+CTGGTCTAGACAATAC-1,CD4 T,No stimulation,train
+AACTCAGTCTCTAAGG-1,CD4 T,No stimulation,train
+ATTGGACGTGTCTGAT-1,CD4 T,No stimulation,train
+CTGCTGTCATATGCTG-1,CD4 T,No stimulation,train
+ACATCAGGTTAGATGA-1,CD4 T,No stimulation,train
+TGACAACGTGACTACT-1,CD4 T,No stimulation,train
+AGGCCGTTCTTGAGAC-1,CD4 T,No stimulation,train
+ACATGGTTCATACGGT-1,CD4 T,No stimulation,train
+CTCGAAATCAGCATGT-1,CD4 T,No stimulation,train
+TCAGGTATCAGTTTGG-1,CD4 T,No stimulation,train
+TCAGGTATCGGTCTAA-1,CD4 T,No stimulation,train
+TAAACCGCAGGGTATG-1,CD4 T,No stimulation,train
+CGTTGGGGTGCAACGA-1,CD4 T,No stimulation,train
+AAGCCGCCAGTATCTG-1,CD4 T,No stimulation,train
+GGCTCGAAGTGAATTG-1,CD4 T,No stimulation,train
+CTTAACTAGGGAGTAA-1,CD4 T,No stimulation,train
+ACGCCAGTCTTCATGT-1,CD4 T,No stimulation,train
+CGAGCCAGTTGATTCG-1,CD4 T,No stimulation,train
+GTCATTTAGTCTCCTC-1,CD4 T,No stimulation,train
+AGCTCCTCATGCTAGT-1,CD4 T,No stimulation,train
+CGTCTACCACTTGGAT-1,CD4 T,No stimulation,train
+AGGGAGTAGTATGACA-1,CD4 T,No stimulation,train
+GGGAGATAGATGTGTA-1,CD4 T,No stimulation,train
+AAGGTTCAGTGCCATT-1,CD4 T,No stimulation,train
+CATCCACCATGTCGAT-1,CD4 T,No stimulation,train
+ACACCGGGTCCAAGTT-1,CD4 T,No stimulation,train
+GGACAAGTCGGACAAG-1,CD4 T,No stimulation,train
+GGGTCTGGTTCACCTC-1,CD4 T,No stimulation,train
+AGGTCATAGAATGTGT-1,CD4 T,No stimulation,train
+GGCCGATCAAGCCGTC-1,CD4 T,No stimulation,train
+AAAGCAATCCGCGTTT-1,CD4 T,No stimulation,train
+CGTTAGATCATACGGT-1,CD4 T,No stimulation,train
+CGAACATGTGCGATAG-1,CD4 T,No stimulation,train
+GGGAATGTCGTAGATC-1,CD4 T,No stimulation,train
+AGGTCCGAGGCTCATT-1,CD4 T,No stimulation,train
+CTCTACGAGCGATTCT-1,CD4 T,No stimulation,train
+GAGCAGAAGGATCGCA-1,CD4 T,No stimulation,train
+CTGATCCGTGCACTTA-1,CD4 T,No stimulation,train
+TGACTAGGTAGGGACT-1,CD4 T,No stimulation,train
+CACATTTAGCTGTTCA-1,CD4 T,No stimulation,train
+ACGGGCTGTACTTCTT-1,CD4 T,No stimulation,train
+AGGCCGTAGCTACCGC-1,CD4 T,No stimulation,train
+CAGTCCTTCCTGCCAT-1,CD4 T,No stimulation,train
+TGGACGCTCATTATCC-1,CD4 T,No stimulation,train
+GTAACTGGTCGTCTTC-1,CD4 T,No stimulation,train
+GCGGGTTTCTTGTTTG-1,CD4 T,No stimulation,train
+CTCTACGAGTGTGGCA-1,CD4 T,No stimulation,train
+AACGTTGCATGTAGTC-1,CD4 T,No stimulation,train
+CACAGGCAGAAGAAGC-1,CD4 T,No stimulation,train
+AGTGAGGAGGTAGCTG-1,CD4 T,No stimulation,train
+CAGTCCTGTACCGTTA-1,CD4 T,No stimulation,train
+ATAGACCGTCTCACCT-1,CD4 T,No stimulation,train
+AAAGATGGTGGCAAAC-1,CD4 T,No stimulation,train
+AAATGCCCATGACATC-1,CD4 T,No stimulation,train
+TTTGCGCAGTAGCGGT-1,CD4 T,No stimulation,train
+TCAGATGTCAAGGCTT-1,CD4 T,No stimulation,train
+TTATGCTTCACTTACT-1,CD4 T,No stimulation,train
+TGCTGCTCATGCCACG-1,CD4 T,No stimulation,train
+GGACAGACACCCAGTG-1,CD4 T,No stimulation,train
+GACAGAGGTCTTGATG-1,CD4 T,No stimulation,train
+TCGAGGCCACGGTAGA-1,CD4 T,No stimulation,train
+TCATTTGCAGCTCGCA-1,CD4 T,No stimulation,train
+AGCAGCCTCGGTCTAA-1,CD4 T,No stimulation,train
+ATTTCTGTCATGTAGC-1,CD4 T,No stimulation,train
+CACAGGCCACCGAAAG-1,CD4 T,No stimulation,train
+CGAGCACCATGGAATA-1,CD4 T,No stimulation,train
+TCAACGACACCCAGTG-1,CD4 T,No stimulation,train
+GGGATGAAGTTCCACA-1,CD4 T,No stimulation,train
+ATCATGGCAATTGCTG-1,CD4 T,No stimulation,train
+TGCGTGGGTGATGTGG-1,CD4 T,No stimulation,train
+CCTACACCAAACAACA-1,CD4 T,No stimulation,train
+CGGTTAATCCAAATGC-1,CD4 T,No stimulation,train
+GGCCGATGTTCCAACA-1,CD4 T,No stimulation,train
+GCGGGTTCACCATCCT-1,CD4 T,No stimulation,train
+GGTATTGCACCACGTG-1,CD4 T,No stimulation,train
+CTGTTTATCTACGAGT-1,CD4 T,No stimulation,train
+CAGGTGCGTAGCGCTC-1,CD4 T,No stimulation,train
+CTGATAGAGCACCGCT-1,CD4 T,No stimulation,train
+ACCAGTAGTCTAACGT-1,CD4 T,No stimulation,train
+GGGATGAAGGACTGGT-1,CD4 T,No stimulation,train
+GATGCTACAAGCGTAG-1,CD4 T,No stimulation,train
+ACTTGTTAGTTGTAGA-1,CD4 T,No stimulation,train
+TGTCCCAAGACTTTCG-1,CD4 T,No stimulation,train
+TTGTAGGCAGCTGTAT-1,CD4 T,No stimulation,train
+GTACTTTTCTGGGCCA-1,CD4 T,No stimulation,train
+CAGCTGGAGCCACCTG-1,CD4 T,No stimulation,train
+TGGCCAGAGCGTAATA-1,CD4 T,No stimulation,train
+GTATTCTAGTGAACAT-1,CD4 T,No stimulation,train
+GAGGTGATCTCGTATT-1,CD4 T,No stimulation,train
+ACGGAGACACATTCGA-1,CD4 T,No stimulation,train
+GATGAAAAGTAGCGGT-1,CD4 T,No stimulation,train
+TCAGCAATCGTACCGG-1,CD4 T,No stimulation,train
+ACGGGCTTCGGTTAAC-1,CD4 T,No stimulation,train
+CGAACATAGCTAGTTC-1,CD4 T,No stimulation,train
+CATGGCGAGATGCCAG-1,CD4 T,No stimulation,train
+ATAACGCTCTGGTGTA-1,CD4 T,No stimulation,train
+ACACTGAGTGACGCCT-1,CD4 T,No stimulation,train
+ACGGCCAGTTTGTGTG-1,CD4 T,No stimulation,train
+TGAGGGAAGGACATTA-1,CD4 T,No stimulation,train
+GTCACGGGTACCGCTG-1,CD4 T,No stimulation,train
+CCGTGGAGTACCGTTA-1,CD4 T,No stimulation,train
+AGGTCCGGTCGAAAGC-1,CD4 T,No stimulation,train
+CACCAGGGTATGCTTG-1,CD4 T,No stimulation,train
+CTCAGAAAGTTATCGC-1,CD4 T,No stimulation,train
+ATGAGGGGTGAAGGCT-1,CD4 T,No stimulation,train
+CCGTACTGTAAATGTG-1,CD4 T,No stimulation,train
+CAGCATAAGCCTATGT-1,CD4 T,No stimulation,train
+CCATTCGTCGTCTGCT-1,CD4 T,No stimulation,train
+TCATTACAGACACGAC-1,CD4 T,No stimulation,train
+GGTGCGTCAGCGAACA-1,CD4 T,No stimulation,train
+GGATGTTCAGGGTTAG-1,CD4 T,No stimulation,train
+TTAGGCAGTGTCGCTG-1,CD4 T,No stimulation,train
+CAGTAACAGCGTCAAG-1,CD4 T,No stimulation,train
+GTTCTCGTCGAGCCCA-1,CD4 T,No stimulation,train
+CACATTTAGGGAAACA-1,CD4 T,No stimulation,train
+CATGGCGTCACGCATA-1,CD4 T,No stimulation,train
+CGAACATTCAGCTTAG-1,CD4 T,No stimulation,train
+CTCGAAAAGCCAGGAT-1,CD4 T,No stimulation,train
+GTGCAGCCAGGAACGT-1,CD4 T,No stimulation,train
+CGGACTGGTTAAGACA-1,CD4 T,No stimulation,train
+CACACCTTCACCGGGT-1,CD4 T,No stimulation,train
+TTGCGTCCATTGGGCC-1,CD4 T,No stimulation,train
+CGATGTACATAGAAAC-1,CD4 T,No stimulation,train
+ATGCGATGTCCTAGCG-1,CD4 T,No stimulation,train
+GCACTCTGTTTCCACC-1,CD4 T,No stimulation,train
+GATCAGTGTCTGCCAG-1,CD4 T,No stimulation,train
+GCAGTTAGTCCAGTAT-1,CD4 T,No stimulation,train
+ATTCTACGTAACGACG-1,CD4 T,No stimulation,train
+GCATGTATCAAGAAGT-1,CD4 T,No stimulation,train
+TCCACACGTTCCACAA-1,CD4 T,No stimulation,train
+GACTAACAGACGACGT-1,CD4 T,No stimulation,train
+GAGGTGAAGCAGCCTC-1,CD4 T,No stimulation,train
+GAATAAGAGGTGTTAA-1,CD4 T,No stimulation,train
+GTATCTTAGTTTAGGA-1,CD4 T,No stimulation,train
+CAGCTAAGTTGTCGCG-1,CD4 T,No stimulation,train
+ATGAGGGAGGTGCTAG-1,CD4 T,No stimulation,train
+GGAGCAACAGTCCTTC-1,CD4 T,No stimulation,train
+CGTTAGATCTTCATGT-1,CD4 T,No stimulation,train
+CGAACATCAAGCCGCT-1,CD4 T,No stimulation,train
+GACCTGGTCATATCGG-1,CD4 T,No stimulation,train
+GTTAAGCAGGACGAAA-1,CD4 T,No stimulation,train
+AACTCCCAGCCGCCTA-1,CD4 T,No stimulation,train
+GCTGGGTCAAGGACAC-1,CD4 T,No stimulation,train
+ATAAGAGTCGCAAGCC-1,CD4 T,No stimulation,train
+GTATCTTAGTCCAGGA-1,CD4 T,No stimulation,train
+CAGAATCCAACACCCG-1,CD4 T,No stimulation,train
+ACGCCAGCAGTTAACC-1,CD4 T,No stimulation,train
+CGGTTAATCTTTCCTC-1,CD4 T,No stimulation,train
+TACGGGCAGTGTCTCA-1,CD4 T,No stimulation,train
+TTCTCAAGTATAGGTA-1,CD4 T,No stimulation,train
+CGATGGCCAAAGGTGC-1,CD4 T,No stimulation,train
+CACATAGCACGACTCG-1,CD4 T,No stimulation,train
+CCTAAAGTCCAAATGC-1,CD4 T,No stimulation,train
+AGCTTGAGTATATCCG-1,CD4 T,No stimulation,train
+AAACCTGCATTATCTC-1,CD4 T,No stimulation,train
+TGCCAAATCCCAACGG-1,CD4 T,No stimulation,train
+TGCGTGGGTACCAGTT-1,CD4 T,No stimulation,train
+CAAGGCCAGTACGCGA-1,CD4 T,No stimulation,train
+AGAGCTTTCATGGTCA-1,CD4 T,No stimulation,train
+ATAAGAGAGGTGTGGT-1,CD4 T,No stimulation,train
+GTCATTTTCACCGTAA-1,CD4 T,No stimulation,train
+AGATCTGTCAGTCCCT-1,CD4 T,No stimulation,train
+TCCCGATCATGCGCAC-1,CD4 T,No stimulation,train
+GCGGGTTTCCTTTCGG-1,CD4 T,No stimulation,train
+GCTGCAGCAAGCTGGA-1,CD4 T,No stimulation,train
+AACTGGTAGATAGGAG-1,CD4 T,No stimulation,train
+GGCCGATTCGGCTACG-1,CD4 T,No stimulation,train
+ACACCAAAGGCTCAGA-1,CD4 T,No stimulation,train
+GTGTGCGTCTGCGGCA-1,CD4 T,No stimulation,train
+AACTCTTGTTACTGAC-1,CD4 T,No stimulation,train
+TCTGGAAGTGGGTCAA-1,CD4 T,No stimulation,train
+TAGGCATTCATCTGCC-1,CD4 T,No stimulation,train
+CCTTACGTCTGCGGCA-1,CD4 T,No stimulation,train
+AACTGGTTCGGCGCAT-1,CD4 T,No stimulation,train
+GACGTTAAGCGCCTCA-1,CD4 T,No stimulation,train
+GTTCGGGCACCTCGGA-1,CD4 T,No stimulation,train
+CGGCTAGTCAGCGACC-1,CD4 T,No stimulation,train
+AAAGATGCAGCTTAAC-1,CD4 T,No stimulation,train
+GACACGCGTGCCTGTG-1,CD4 T,No stimulation,train
+TTATGCTGTGGCGAAT-1,CD4 T,No stimulation,train
+GCATGATTCCTGTACC-1,CD4 T,No stimulation,train
+CGGGTCAGTCTAGGTT-1,CD4 T,No stimulation,train
+GTCACAAGTCATCCCT-1,CD4 T,No stimulation,train
+AGAATAGAGCTAGCCC-1,CD4 T,No stimulation,train
+ACGATGTAGAATGTTG-1,CD4 T,No stimulation,train
+AGGTCATAGCTGATAA-1,CD4 T,No stimulation,train
+ATCACGACACTCTGTC-1,CD4 T,No stimulation,train
+GAACGGATCCCTAATT-1,CD4 T,No stimulation,train
+CCTACACTCCTGTAGA-1,CD4 T,No stimulation,train
+CACAAACGTGCACTTA-1,CD4 T,No stimulation,train
+GTACTTTTCAGTACGT-1,CD4 T,No stimulation,train
+ATTACTCTCACTCCTG-1,CD4 T,No stimulation,train
+TGGGCGTCAAAGTCAA-1,CD4 T,No stimulation,train
+GACACGCAGGAGTCTG-1,CD4 T,No stimulation,train
+CGAATGTTCCAGATCA-1,CD4 T,No stimulation,train
+CTTCTCTTCAGCTGGC-1,CD4 T,No stimulation,train
+TGACTTTCACCGGAAA-1,CD4 T,No stimulation,train
+AGATCTGGTAGCGTCC-1,CD4 T,No stimulation,train
+CATGACAGTAGCTTGT-1,CD4 T,No stimulation,train
+CGGCTAGGTTCTGAAC-1,CD4 T,No stimulation,train
+TCGGGACGTAGCAAAT-1,CD4 T,No stimulation,train
+CGATCGGGTTCAGACT-1,CD4 T,No stimulation,train
+TACTTACCAGCCAATT-1,CD4 T,No stimulation,train
+CCAATCCCAGATAATG-1,CD4 T,No stimulation,train
+AGCATACTCCATGAAC-1,CD4 T,No stimulation,train
+GTAGGCCCAAATACAG-1,CD4 T,No stimulation,train
+TTATGCTGTCTGCGGT-1,CD4 T,No stimulation,train
+CATATGGTCATGCATG-1,CD4 T,No stimulation,train
+TGTGTTTTCCGCATCT-1,CD4 T,No stimulation,train
+TTAGGACCATCCTTGC-1,CD4 T,No stimulation,train
+CGAATGTCATATGGTC-1,CD4 T,No stimulation,train
+TTCTCCTAGCAGCGTA-1,CD4 T,No stimulation,train
+CGACCTTCAATGGAAT-1,CD4 T,No stimulation,train
+ATGCGATGTCTGCGGT-1,CD4 T,No stimulation,train
+ACCTTTAAGACACGAC-1,CD4 T,No stimulation,train
+GTTCATTCACGGTGTC-1,CD4 T,No stimulation,train
+CAAGATCAGGGTATCG-1,CD4 T,No stimulation,train
+GGACGTCTCTCGAGTA-1,CD4 T,No stimulation,train
+GAACCTACAAGGCTCC-1,CD4 T,No stimulation,train
+GACGTGCAGCTGATAA-1,CD4 T,No stimulation,train
+GTACGTAAGTGGGTTG-1,CD4 T,No stimulation,train
+TCTCATAAGGGCACTA-1,CD4 T,No stimulation,train
+GGGAGATAGGACACCA-1,CD4 T,No stimulation,train
+CTAACTTCATATGAGA-1,CD4 T,No stimulation,train
+AGGGAGTTCAGGCCCA-1,CD4 T,No stimulation,train
+GTGCGGTAGGCGCTCT-1,CD4 T,No stimulation,train
+ATTGGTGAGTATTGGA-1,CD4 T,No stimulation,train
+TTGAACGAGGCTCTTA-1,CD4 T,No stimulation,train
+GTCATTTTCGTACCGG-1,CD4 T,No stimulation,train
+ACGGAGATCCAGATCA-1,CD4 T,No stimulation,train
+GACGGCTTCATAAAGG-1,CD4 T,No stimulation,train
+GTAACGTCATAGAAAC-1,CD4 T,No stimulation,train
+CCTAGCTAGATGGGTC-1,CD4 T,No stimulation,train
+CTCTACGGTTACAGAA-1,CD4 T,No stimulation,train
+ACTGCTCGTGCAGGTA-1,CD4 T,No stimulation,train
+CGAACATGTATTCGTG-1,CD4 T,No stimulation,train
+ACTGATGTCTACTATC-1,CD4 T,No stimulation,train
+CTGGTCTGTACCAGTT-1,CD4 T,No stimulation,train
+CGTCAGGTCAGTGCAT-1,CD4 T,No stimulation,train
+AGCTCTCGTACCGTTA-1,CD4 T,No stimulation,train
+CGACCTTTCCTTTACA-1,CD4 T,No stimulation,train
+CATTCGCGTAGTACCT-1,CD4 T,No stimulation,train
+AAGGCAGTCGTTTAGG-1,CD4 T,No stimulation,train
+AGCTCCTTCCTGCAGG-1,CD4 T,No stimulation,train
+CTACACCAGCCAGAAC-1,CD4 T,No stimulation,train
+CTAGAGTTCTACTCAT-1,CD4 T,No stimulation,train
+TTCTCCTAGGGCACTA-1,CD4 T,No stimulation,train
+GACTGCGAGCGTAATA-1,CD4 T,No stimulation,train
+TCACGAATCTCGTTTA-1,CD4 T,No stimulation,train
+GGATTACCAGACACTT-1,CD4 T,No stimulation,train
+GTATTCTCATGTAGTC-1,CD4 T,No stimulation,train
+GTTAAGCTCGCATGGC-1,CD4 T,No stimulation,train
+ACACTGATCTGGTTCC-1,CD4 T,No stimulation,train
+CAACCAAAGCTAGCCC-1,CD4 T,No stimulation,train
+TATTACCCAAAGGAAG-1,CD4 T,No stimulation,train
+GCAATCATCCTTTACA-1,CD4 T,No stimulation,train
+CGCTGGAAGCTGAACG-1,CD4 T,No stimulation,train
+GCTGGGTAGTGAAGTT-1,CD4 T,No stimulation,train
+GATGCTAGTTCGCTAA-1,CD4 T,No stimulation,train
+CTCACACTCGTGACAT-1,CD4 T,No stimulation,train
+ACACCGGGTAGGGACT-1,CD4 T,No stimulation,train
+GATTCAGCAGTAGAGC-1,CD4 T,No stimulation,train
+CGATGGCGTTAAGACA-1,CD4 T,No stimulation,train
+AGTGTCAGTCTTGTCC-1,CD4 T,No stimulation,train
+CATGGCGAGTTTAGGA-1,CD4 T,No stimulation,train
+AACTCTTAGAAACCAT-1,CD4 T,No stimulation,train
+CAGAGAGAGAACTGTA-1,CD4 T,No stimulation,train
+CTTTGCGGTGGTACAG-1,CD4 T,No stimulation,train
+CGCTGGAGTCAGAAGC-1,CD4 T,No stimulation,train
+ACGAGCCGTAACGCGA-1,CD4 T,No stimulation,train
+CATCAGATCGGCGGTT-1,CD4 T,No stimulation,train
+CCTTTCTGTCATGCAT-1,CD4 T,No stimulation,train
+AACTTTCCACGTCAGC-1,CD4 T,No stimulation,train
+CACACAATCCATGAGT-1,CD4 T,No stimulation,train
+AACGTTGCACCGGAAA-1,CD4 T,No stimulation,train
+GTAACGTTCTTACCTA-1,CD4 T,No stimulation,train
+CTCGAGGGTTTACTCT-1,CD4 T,No stimulation,train
+CCAATCCGTACCGGCT-1,CD4 T,No stimulation,train
+ACACCCTTCAGGCCCA-1,CD4 T,No stimulation,train
+GACTAACCAGATTGCT-1,CD4 T,No stimulation,train
+CACCACTTCATGCATG-1,CD4 T,No stimulation,train
+GTCGGGTTCAACACAC-1,CD4 T,No stimulation,train
+GACAGAGTCAAAGTAG-1,CD4 T,No stimulation,train
+GAGGTGAAGGACCACA-1,CD4 T,No stimulation,train
+ATCCGAAGTGCCTGTG-1,CD4 T,No stimulation,train
+TATCTCAGTACAAGTA-1,CD4 T,No stimulation,train
+AGAGCTTAGGGTCTCC-1,CD4 T,No stimulation,train
+CAACTAGCATGCCCGA-1,CD4 T,No stimulation,train
+TACAGTGTCCTCATTA-1,CD4 T,No stimulation,train
+GGTGAAGTCTGCCAGG-1,CD4 T,No stimulation,train
+CGGTTAAAGCAGACTG-1,CD4 T,No stimulation,train
+GACGTTACATGCCTTC-1,CD4 T,No stimulation,train
+TGCCCATAGTGCCAGA-1,CD4 T,No stimulation,train
+AACACGTCAGGCTCAC-1,CD4 T,No stimulation,train
+CAGAATCGTAAAGTCA-1,CD4 T,No stimulation,train
+TGAAAGAAGCTTATCG-1,CD4 T,No stimulation,train
+GGGTTGCCAAGCGAGT-1,CD4 T,No stimulation,train
+CTTCTCTCAGCCAGAA-1,CD4 T,No stimulation,train
+TGCGCAGCAATCAGAA-1,CD4 T,No stimulation,train
+CTACGTCCACGACTCG-1,CD4 T,No stimulation,train
+AGCGGTCGTATGCTTG-1,CD4 T,No stimulation,train
+GACCTGGAGATCGGGT-1,CD4 T,No stimulation,train
+CCACGGATCTAAGCCA-1,CD4 T,No stimulation,train
+CCACTACCAGTGACAG-1,CD4 T,No stimulation,train
+AGCATACCAAGTTAAG-1,CD4 T,No stimulation,train
+CTCCTAGCAAATACAG-1,CD4 T,No stimulation,train
+GTCACAAGTACCTACA-1,CD4 T,No stimulation,train
+TTGGCAACAGCTTAAC-1,CD4 T,No stimulation,train
+TCATTACCACAGATTC-1,CD4 T,No stimulation,train
+CGATGGCTCGAGCCCA-1,CD4 T,No stimulation,train
+TCGCGAGAGTAGGCCA-1,CD4 T,No stimulation,train
+TACGGTATCATCATTC-1,CD4 T,No stimulation,train
+ATTACTCTCATCGATG-1,CD4 T,No stimulation,train
+AATCCAGGTGTTCGAT-1,CD4 T,No stimulation,train
+ACAGCTACAAAGTCAA-1,CD4 T,No stimulation,train
+TAAACCGGTTTGTTTC-1,CD4 T,No stimulation,train
+CTAGTGAGTTGAGGTG-1,CD4 T,No stimulation,train
+GGGATGACAGCTCCGA-1,CD4 T,No stimulation,train
+GTTCATTAGAACAATC-1,CD4 T,No stimulation,train
+CAAGTTGGTTCCCGAG-1,CD4 T,No stimulation,train
+TGCCCTAGTGGTCCGT-1,CD4 T,No stimulation,train
+TTTCCTCGTCTAAACC-1,CD4 T,No stimulation,train
+TGTGGTAAGGGAACGG-1,CD4 T,No stimulation,train
+CAGCAGCGTTCTGAAC-1,CD4 T,No stimulation,train
+CATTCGCAGATCGGGT-1,CD4 T,No stimulation,train
+GATCTAGAGTATCTCG-1,CD4 T,No stimulation,train
+CGCTGGAGTACTTCTT-1,CD4 T,No stimulation,train
+ACACCCTTCCGTCATC-1,CD4 T,No stimulation,train
+TACTCATCAAGAAAGG-1,CD4 T,No stimulation,train
+TAGTGGTGTAGATTAG-1,CD4 T,No stimulation,train
+GTGCAGCCATCCCATC-1,CD4 T,No stimulation,train
+CCAGCGAGTTCGTGAT-1,CD4 T,No stimulation,train
+TATCAGGCACAGGCCT-1,CD4 T,No stimulation,train
+GCACATATCATTATCC-1,CD4 T,No stimulation,train
+AAGCCGCCAGATCGGA-1,CD4 T,No stimulation,train
+AGCGTCGGTCTTGCGG-1,CD4 T,No stimulation,train
+TCTGAGAAGGAATTAC-1,CD4 T,No stimulation,train
+ACTTTCATCCCTTGCA-1,CD4 T,No stimulation,train
+GATCGCGTCAATCACG-1,CD4 T,No stimulation,train
+AGCGGTCGTCAGAGGT-1,CD4 T,No stimulation,train
+TACAGTGCAGTTTACG-1,CD4 T,No stimulation,train
+CTGATCCTCACTTATC-1,CD4 T,No stimulation,train
+CCCAATCTCTGCGGCA-1,CD4 T,No stimulation,train
+GATCGCGTCACGAAGG-1,CD4 T,No stimulation,train
+CTCTACGCATTAACCG-1,CD4 T,No stimulation,train
+GTTCGGGCATCTCGCT-1,CD4 T,No stimulation,train
+TGACTAGCAAGTTGTC-1,CD4 T,No stimulation,validation
+GTGTTAGGTAAATGAC-1,CD4 T,No stimulation,validation
+AGTGTCAAGTCAATAG-1,CD4 T,No stimulation,validation
+TATTACCAGCCTTGAT-1,CD4 T,No stimulation,validation
+GTGAAGGGTACCTACA-1,CD4 T,No stimulation,validation
+TACCTATGTTTACTCT-1,CD4 T,No stimulation,validation
+GGGCACTGTCGGCTCA-1,CD4 T,No stimulation,validation
+ACATGGTTCGGAAACG-1,CD4 T,No stimulation,validation
+CTGCCTACATTAACCG-1,CD4 T,No stimulation,validation
+ACGGAGATCAACACAC-1,CD4 T,No stimulation,validation
+AAGGTTCTCTAACTGG-1,CD4 T,No stimulation,validation
+GTACTCCAGTACATGA-1,CD4 T,No stimulation,validation
+CTTCTCTCAACACCCG-1,CD4 T,No stimulation,validation
+TAAGTGCTCCATGCTC-1,CD4 T,No stimulation,validation
+TTCTTAGGTAACGACG-1,CD4 T,No stimulation,validation
+ACGGCCAGTATATCCG-1,CD4 T,No stimulation,validation
+GCATGTAAGGGTCTCC-1,CD4 T,No stimulation,validation
+CTTAGGACATGAAGTA-1,CD4 T,No stimulation,validation
+TGACTTTAGTACCGGA-1,CD4 T,No stimulation,validation
+TCTCATAAGGATGGTC-1,CD4 T,No stimulation,validation
+TACTTGTAGTGTCCCG-1,CD4 T,No stimulation,validation
+TTTGTCATCCTATTCA-1,CD4 T,No stimulation,validation
+TGACTTTAGTAGGCCA-1,CD4 T,No stimulation,validation
+AGAGCGAAGAAACCAT-1,CD4 T,No stimulation,validation
+CCTTCGACACAGAGGT-1,CD4 T,No stimulation,validation
+GGGTCTGGTTACGACT-1,CD4 T,No stimulation,validation
+CGCTGGATCCCTTGCA-1,CD4 T,No stimulation,validation
+GTTCATTGTCATATCG-1,CD4 T,No stimulation,validation
+GTCACAAGTCTAACGT-1,CD4 T,No stimulation,validation
+ATTGGTGGTAGAGTGC-1,CD4 T,No stimulation,validation
+AAACCTGCACATCTTT-1,CD4 T,No stimulation,validation
+TCGGGACAGGTCATCT-1,CD4 T,No stimulation,validation
+TAGTGGTCAGATAATG-1,CD4 T,No stimulation,validation
+GCAATCACACGTGAGA-1,CD4 T,No stimulation,validation
+CGGCTAGAGTCTTGCA-1,CD4 T,No stimulation,validation
+CTGGTCTCATCGTCGG-1,CD4 T,No stimulation,validation
+TTGTAGGAGCGTCTAT-1,CD4 T,No stimulation,validation
+CTCAGAATCACTCTTA-1,CD4 T,No stimulation,validation
+CTAACTTGTTACCAGT-1,CD4 T,No stimulation,validation
+TGGTTAGTCGCCATAA-1,CD4 T,No stimulation,validation
+TGCTACCAGTACGACG-1,CD4 T,No stimulation,validation
+GAAATGACAGCGAACA-1,CD4 T,No stimulation,validation
+GAGCAGAGTTCCTCCA-1,CD4 T,No stimulation,validation
+CGGCTAGTCCGTCATC-1,CD4 T,No stimulation,validation
+GGTATTGAGGATGTAT-1,CD4 T,No stimulation,validation
+GCTCCTAAGCAAATCA-1,CD4 T,No stimulation,validation
+AGAGCTTGTCCGTTAA-1,CD4 T,No stimulation,validation
+CAAGAAAAGCAGCGTA-1,CD4 T,No stimulation,validation
+CCACTACAGGGAACGG-1,CD4 T,No stimulation,validation
+GAGTCCGGTCTTTCAT-1,CD4 T,No stimulation,validation
+AAGGTTCTCTCTGCTG-1,CD4 T,No stimulation,validation
+AATCCAGGTAAAGTCA-1,CD4 T,No stimulation,validation
+GTATTCTTCGCCTGAG-1,CD4 T,No stimulation,validation
+TACTCATTCTGTTTGT-1,CD4 T,No stimulation,validation
+TACTCGCAGTGTTGAA-1,CD4 T,No stimulation,validation
+GGCGTGTTCTGTACGA-1,CD4 T,No stimulation,validation
+CAGCGACCATGAGCGA-1,CD4 T,No stimulation,validation
+CGAATGTGTGGCGAAT-1,CD4 T,No stimulation,validation
+CGCTTCACACCAGGTC-1,CD4 T,No stimulation,validation
+GATCGCGAGACCGGAT-1,CD4 T,No stimulation,validation
+AGTGTCAGTTTGACAC-1,CD4 T,No stimulation,validation
+GACTAACCAAGCTGGA-1,CD4 T,No stimulation,validation
+TGCCCATAGTTACCCA-1,CD4 T,No stimulation,validation
+GCATGCGCAAGACGTG-1,CD4 T,No stimulation,validation
+CACAGTAAGCTAAACA-1,CD4 T,No stimulation,validation
+TTCTTAGTCAAGAAGT-1,CD4 T,No stimulation,validation
+GCTGCGATCCTAGAAC-1,CD4 T,No stimulation,validation
+CCTATTATCAGGCCCA-1,CD4 T,No stimulation,validation
+ATCTGCCGTCCAACTA-1,CD4 T,No stimulation,validation
+TCAGCAAAGGGCACTA-1,CD4 T,No stimulation,validation
+CCATTCGCATGCAACT-1,CD4 T,No stimulation,validation
+AGTGAGGGTTAAGATG-1,CD4 T,No stimulation,validation
+CTTTGCGAGGTGCTAG-1,CD4 T,No stimulation,validation
+GCCAAATAGGAACTGC-1,CD4 T,No stimulation,validation
+CAGCCGATCACAGGCC-1,CD4 T,No stimulation,validation
+GACCAATGTGAGGCTA-1,CD4 T,No stimulation,validation
+GTTTCTAGTGACGCCT-1,CD4 T,No stimulation,validation
+CACAGTACATCCCATC-1,CD4 T,No stimulation,validation
+GTTCGGGCACTGCCAG-1,CD4 T,No stimulation,validation
+CTACACCAGAAACGCC-1,CD4 T,No stimulation,validation
+GACGGCTTCCGCAAGC-1,CD4 T,No stimulation,validation
+ACAGCCGAGAAGGTGA-1,CD4 T,No stimulation,validation
+CGTTCTGGTCAAGCGA-1,CD4 T,No stimulation,validation
+CCGGTAGGTTTGTGTG-1,CD4 T,No stimulation,validation
+GGACAGATCAGCGATT-1,CD4 T,No stimulation,validation
+CCGGTAGTCATCTGCC-1,CD4 T,No stimulation,test
+GAACATCAGGACGAAA-1,CD4 T,No stimulation,test
+TAAGAGATCGTAGATC-1,CD4 T,No stimulation,test
+TTAGGACGTTACCAGT-1,CD4 T,No stimulation,test
+TAAACCGAGTGACATA-1,CD4 T,No stimulation,test
+CAGCGACGTCGAAAGC-1,CD4 T,No stimulation,test
+CGGACGTTCCCACTTG-1,CD4 T,No stimulation,test
+GGACAGAGTGCAACTT-1,CD4 T,No stimulation,test
+TCTGGAAAGACAATAC-1,CD4 T,No stimulation,test
+CCACGGATCAGCTTAG-1,CD4 T,No stimulation,test
+CCGTTCACACACCGAC-1,CD4 T,No stimulation,test
+GACACGCTCTGTTGAG-1,CD4 T,No stimulation,test
+TAGTGGTAGAATGTTG-1,CD4 T,No stimulation,test
+CGAGCACAGAAGGGTA-1,CD4 T,No stimulation,test
+CGGCTAGAGCCACGCT-1,CD4 T,No stimulation,test
+TCTTCGGGTCGGATCC-1,CD4 T,No stimulation,test
+CCTCTGAAGTTTAGGA-1,CD4 T,No stimulation,test
+CCACTACTCAGTTAGC-1,CD4 T,No stimulation,test
+AACCATGGTCTAACGT-1,CD4 T,No stimulation,test
+CTCGAAAGTATCTGCA-1,CD4 T,No stimulation,test
+GCAAACTGTGCACGAA-1,CD4 T,No stimulation,test
+TTTACTGGTCCGAATT-1,CD4 T,No stimulation,test
+GCAGTTACATTCCTCG-1,CD4 T,No stimulation,test
+TTAGGCAAGGCGTACA-1,CD4 T,No stimulation,test
+GATCAGTGTATGGTTC-1,CD4 T,No stimulation,test
+GACTGCGTCCAAGCCG-1,CD4 T,No stimulation,test
+AATCGGTAGTGGAGAA-1,CD4 T,No stimulation,test
+CGTAGCGCACAGACAG-1,CD4 T,No stimulation,test
+AACTCCCAGAACTCGG-1,CD4 T,No stimulation,test
+GATCTAGTCTCGTTTA-1,CD4 T,No stimulation,test
+TCGGGACGTAGTAGTA-1,CD4 T,No stimulation,test
+AAGGTTCCAACTTGAC-1,CD4 T,No stimulation,test
+ACGCCGAAGGCTACGA-1,CD4 T,No stimulation,test
+CCCTCCTAGTAGGTGC-1,CD4 T,No stimulation,test
+GTGCATACACTGCCAG-1,CD4 T,No stimulation,test
+GAATGAAAGGCCGAAT-1,CD4 T,No stimulation,test
+GAGGTGATCTCTAAGG-1,CD4 T,No stimulation,test
+TTCGAAGAGAGTCGGT-1,CD4 T,No stimulation,test
+ATTGGTGGTAGCTTGT-1,CD4 T,No stimulation,test
+GCTCCTACAAGGTTTC-1,CD4 T,No stimulation,test
+CGAGCCAGTTTAAGCC-1,CD4 T,No stimulation,test
+CATTCGCGTATCACCA-1,CD4 T,No stimulation,test
+CATCGGGTCTGGTATG-1,CD4 T,No stimulation,test
+GGACAGAGTCTAGCGC-1,CD4 T,No stimulation,test
+ATCACGATCATTTGGG-1,CD4 T,No stimulation,test
+GCTTGAACACACTGCG-1,CD4 T,No stimulation,test
+TCAGCAAGTATCACCA-1,CD4 T,No stimulation,test
+CGATCGGGTTCTCATT-1,CD4 T,No stimulation,test
+CTGTGCTGTACGACCC-1,CD4 T,No stimulation,test
+TTCGAAGAGACATAAC-1,CD4 T,No stimulation,test
+TCATTACGTCGTCTTC-1,CD4 T,No stimulation,test
+GGTATTGCACCGCTAG-1,CD4 T,No stimulation,test
+TACAGTGCAGGACCCT-1,CD4 T,No stimulation,test
+GGGACCTGTATATGAG-1,CD4 T,No stimulation,test
+GCTGCAGCAGGAATCG-1,CD4 T,No stimulation,test
+AGGGATGCATTGGGCC-1,CD4 T,No stimulation,test
+GCTGCGACAAGCCTAT-1,CD4 T,No stimulation,test
+TTTGTCAAGGACTGGT-1,CD4 T,No stimulation,test
+GCCTCTATCAGCTCGG-1,CD4 T,No stimulation,test
+CTAGCCTAGCTCTCGG-1,CD4 T,No stimulation,test
+CAACTAGAGACAATAC-1,CD4 T,No stimulation,test
+CGAACATCATCAGTCA-1,CD4 T,No stimulation,test
+AGACGTTCACAGGAGT-1,CD4 T,No stimulation,test
+CTCGAAAAGTCGAGTG-1,CD4 T,No stimulation,test
+CGACCTTCAGACACTT-1,CD4 T,No stimulation,test
+CTGCGGACACGAAATA-1,CD4 T,No stimulation,test
+CAGATCATCGTCACGG-1,CD4 T,No stimulation,test
+GTGCGGTAGAGTCTGG-1,CD4 T,No stimulation,test
+GATTCAGTCGTGGGAA-1,CD4 T,No stimulation,test
+CCTTACGCACACATGT-1,CD4 T,No stimulation,test
+TGGTTAGCATCACGTA-1,CD4 T,No stimulation,test
+TGAGCATCAAACAACA-1,CD4 T,No stimulation,test
+GCTGGGTGTAAACACA-1,CD4 T,No stimulation,test
+GACTACACACGAAGCA-1,CD4 T,No stimulation,test
+AACTCCCTCTAGCACA-1,CD4 T,No stimulation,test
+TTTACTGCATGGGAAC-1,CD4 T,No stimulation,test
+CTCGGAGCAGGAATCG-1,CD4 T,No stimulation,test
+TGCGTGGGTAGAAAGG-1,CD4 T,No stimulation,test
+ACTATCTGTGCAGGTA-1,CD4 T,No stimulation,test
+TCAGGTACATTTCAGG-1,CD4 T,No stimulation,test
+CTGGTCTCAATGAAAC-1,CD4 T,No stimulation,test
+AGTGAGGAGGACAGAA-1,CD4 T,No stimulation,test
+GGGAGATCAAGCTGAG-1,CD4 T,No stimulation,test
+GCTTCCAAGCTGGAAC-1,CD4 T,No stimulation,test
+AAAGCAAAGGACGAAA-1,CD4 T,No stimulation,test
+ACGATACCAAATTGCC-1,CD4 T,IFNg,train
+GGACATTTCGGAAACG-1,CD4 T,IFNg,train
+CCACGGAGTCCGACGT-1,CD4 T,IFNg,train
+GCGCAGTGTCACCCAG-1,CD4 T,IFNg,train
+AGGCCGTTCAGCTCGG-1,CD4 T,IFNg,train
+TACGGGCAGACAAAGG-1,CD4 T,IFNg,train
+CTCCTAGCACATGGGA-1,CD4 T,IFNg,train
+CGCCAAGGTGAAAGAG-1,CD4 T,IFNg,train
+CTGGTCTAGGACGAAA-1,CD4 T,IFNg,train
+GTTTCTAGTGAGGCTA-1,CD4 T,IFNg,train
+AGAATAGCACATGGGA-1,CD4 T,IFNg,train
+CAAGTTGGTAACGCGA-1,CD4 T,IFNg,train
+AAACCTGGTTCGGCAC-1,CD4 T,IFNg,train
+CTAACTTAGACAGAGA-1,CD4 T,IFNg,train
+TTGGCAAAGCGCTCCA-1,CD4 T,IFNg,train
+GGCTGGTGTCAGATAA-1,CD4 T,IFNg,train
+CTTTGCGAGGCAAAGA-1,CD4 T,IFNg,train
+TTGTAGGCATATACCG-1,CD4 T,IFNg,train
+TCATTACAGTAGGTGC-1,CD4 T,IFNg,train
+TATGCCCGTCATCGGC-1,CD4 T,IFNg,train
+GACCTGGGTAATCGTC-1,CD4 T,IFNg,train
+CACCAGGCACCCATGG-1,CD4 T,IFNg,train
+TGTCCCACAGCGATCC-1,CD4 T,IFNg,train
+GACAGAGTCACGATGT-1,CD4 T,IFNg,train
+ATTGGACCATTCTCAT-1,CD4 T,IFNg,train
+AAACGGGAGAGACTAT-1,CD4 T,IFNg,train
+TATTACCCAAGTAATG-1,CD4 T,IFNg,train
+CCAATCCCAAGGGTCA-1,CD4 T,IFNg,train
+AGGCCACGTGGAAAGA-1,CD4 T,IFNg,train
+GCAAACTTCCTCTAGC-1,CD4 T,IFNg,train
+TTATGCTAGGACACCA-1,CD4 T,IFNg,train
+GGGCATCTCATGCTCC-1,CD4 T,IFNg,train
+TTAGGCATCTTGGGTA-1,CD4 T,IFNg,train
+TCACGAACATGGTTGT-1,CD4 T,IFNg,train
+GGAACTTAGACATAAC-1,CD4 T,IFNg,train
+GAACATCTCTGCAGTA-1,CD4 T,IFNg,train
+CACACCTGTTTAAGCC-1,CD4 T,IFNg,train
+TTCGAAGCATACGCTA-1,CD4 T,IFNg,train
+TGCGTGGCATTAGGCT-1,CD4 T,IFNg,train
+GGTGAAGAGGCTCTTA-1,CD4 T,IFNg,train
+TCTATTGTCAAACCAC-1,CD4 T,IFNg,train
+CAACCTCTCAGAGACG-1,CD4 T,IFNg,train
+GTCACAAAGCTGTCTA-1,CD4 T,IFNg,train
+GACAGAGGTCATGCCG-1,CD4 T,IFNg,train
+ACTGAACCATGAACCT-1,CD4 T,IFNg,train
+AGGCCGTCACAAGCCC-1,CD4 T,IFNg,train
+TACCTATGTGTTTGGT-1,CD4 T,IFNg,train
+ATCTACTCATGTAGTC-1,CD4 T,IFNg,train
+GACTACAAGTGGGTTG-1,CD4 T,IFNg,train
+CCCTCCTAGAGTACAT-1,CD4 T,IFNg,train
+TACTTGTGTACTTGAC-1,CD4 T,IFNg,train
+CTGTTTAGTCATACTG-1,CD4 T,IFNg,train
+CGGCTAGAGCCAGTAG-1,CD4 T,IFNg,train
+AAGCCGCGTGCGGTAA-1,CD4 T,IFNg,train
+GGCGACTAGAGTGACC-1,CD4 T,IFNg,train
+GTATTCTAGCCGATTT-1,CD4 T,IFNg,train
+CCTTTCTGTTAAGTAG-1,CD4 T,IFNg,train
+GCATACAGTGTGGTTT-1,CD4 T,IFNg,train
+AGCCTAATCTAACCGA-1,CD4 T,IFNg,train
+GACAGAGTCAGAGGTG-1,CD4 T,IFNg,train
+CTCGGAGTCTGGAGCC-1,CD4 T,IFNg,train
+CGATCGGGTAGAAGGA-1,CD4 T,IFNg,train
+TTGCCGTTCAGTTAGC-1,CD4 T,IFNg,train
+AAAGATGCAAACTGCT-1,CD4 T,IFNg,train
+TAAGTGCGTGGTACAG-1,CD4 T,IFNg,train
+ACTATCTTCACAGTAC-1,CD4 T,IFNg,train
+GTCTTCGAGCGTCTAT-1,CD4 T,IFNg,train
+CTCTGGTGTGGTAACG-1,CD4 T,IFNg,train
+AAAGTAGGTTAAGATG-1,CD4 T,IFNg,train
+CGATGGCCACTTGGAT-1,CD4 T,IFNg,train
+ACGGGTCAGCTCAACT-1,CD4 T,IFNg,train
+AGCCTAATCGAGAGCA-1,CD4 T,IFNg,train
+CGTTCTGAGAGGTAGA-1,CD4 T,IFNg,train
+GTGAAGGCACAGTCGC-1,CD4 T,IFNg,train
+GCTGGGTTCATAGCAC-1,CD4 T,IFNg,train
+AATCCAGCAGATGGCA-1,CD4 T,IFNg,train
+AAGGCAGCAAGAAAGG-1,CD4 T,IFNg,train
+CTTACCGTCGGTGTCG-1,CD4 T,IFNg,train
+TACTTACAGGTAGCTG-1,CD4 T,IFNg,train
+CAACCTCAGATATGGT-1,CD4 T,IFNg,train
+AACCGCGAGGCCCTCA-1,CD4 T,IFNg,train
+AGCAGCCCAGCTGGCT-1,CD4 T,IFNg,train
+GACTACAAGGCTATCT-1,CD4 T,IFNg,train
+TTGGAACGTCTCGTTC-1,CD4 T,IFNg,train
+CGGAGTCGTCTTGCGG-1,CD4 T,IFNg,train
+ACGCCGAGTGCGATAG-1,CD4 T,IFNg,train
+CTACCCACAGGGTACA-1,CD4 T,IFNg,train
+TTTCCTCCAAGGTTCT-1,CD4 T,IFNg,train
+TACTTGTAGCGTAATA-1,CD4 T,IFNg,train
+TATGCCCCAAGCCGCT-1,CD4 T,IFNg,train
+TGGTTCCTCGGCTTGG-1,CD4 T,IFNg,train
+TTTCCTCTCCTGTAGA-1,CD4 T,IFNg,train
+AGGCCGTCAGCGTCCA-1,CD4 T,IFNg,train
+GCATGCGCAGTATCTG-1,CD4 T,IFNg,train
+ATGAGGGAGCTAAACA-1,CD4 T,IFNg,train
+CGTCTACCATCACCCT-1,CD4 T,IFNg,train
+GTAGTCAAGAGGTACC-1,CD4 T,IFNg,train
+CATCCACAGGGTGTGT-1,CD4 T,IFNg,train
+GAACATCGTTCACCTC-1,CD4 T,IFNg,train
+CTCTAATTCAAACGGG-1,CD4 T,IFNg,train
+GACGGCTAGGCGTACA-1,CD4 T,IFNg,train
+AGCTCCTTCATGTCCC-1,CD4 T,IFNg,train
+TTCTCAACAGTATGCT-1,CD4 T,IFNg,train
+TGCACCTAGGTGTGGT-1,CD4 T,IFNg,train
+GCGACCAAGTTCGATC-1,CD4 T,IFNg,train
+TGGCTGGCATGTAAGA-1,CD4 T,IFNg,train
+GTAGGCCAGTACACCT-1,CD4 T,IFNg,train
+GTGCATAAGGGTTTCT-1,CD4 T,IFNg,train
+AGGGATGCAAACCTAC-1,CD4 T,IFNg,train
+GACTACAGTGCACGAA-1,CD4 T,IFNg,train
+GCGAGAACATGGTCTA-1,CD4 T,IFNg,train
+AAGTCTGAGACTAAGT-1,CD4 T,IFNg,train
+CTCGGAGGTAGCGTAG-1,CD4 T,IFNg,train
+CTCACACGTGTGAATA-1,CD4 T,IFNg,train
+GATGAGGGTCTGATCA-1,CD4 T,IFNg,train
+ACACCAACATGGTAGG-1,CD4 T,IFNg,train
+CCTAGCTCACGAAACG-1,CD4 T,IFNg,train
+TTTGCGCGTGGACGAT-1,CD4 T,IFNg,train
+TTCTCCTCAAAGAATC-1,CD4 T,IFNg,train
+GTCACGGAGGTACTCT-1,CD4 T,IFNg,train
+CATGCCTTCTTACCGC-1,CD4 T,IFNg,train
+ATCATCTCAGGCGATA-1,CD4 T,IFNg,train
+GAACCTAAGTGGTCCC-1,CD4 T,IFNg,train
+ATAGACCAGCTGGAAC-1,CD4 T,IFNg,train
+AACCATGCAAGTCTAC-1,CD4 T,IFNg,train
+GAACCTATCGTAGGAG-1,CD4 T,IFNg,train
+CCTCTGACACTGTGTA-1,CD4 T,IFNg,train
+ATGCGATGTCGCGTGT-1,CD4 T,IFNg,train
+TGCGGGTAGTTAAGTG-1,CD4 T,IFNg,train
+GGAATAAGTAGGAGTC-1,CD4 T,IFNg,train
+CCGTACTTCACCTTAT-1,CD4 T,IFNg,train
+AGGTCATAGACAAAGG-1,CD4 T,IFNg,train
+GTTACAGTCTCTAGGA-1,CD4 T,IFNg,train
+CTGCTGTCACGTCTCT-1,CD4 T,IFNg,train
+GGGTTGCGTTAAGACA-1,CD4 T,IFNg,train
+GTACTTTGTACCGCTG-1,CD4 T,IFNg,train
+CGAGCCATCGGGAGTA-1,CD4 T,IFNg,train
+ACATACGAGGCTAGAC-1,CD4 T,IFNg,train
+GAACATCTCAGTCAGT-1,CD4 T,IFNg,train
+TAGACCACACCGCTAG-1,CD4 T,IFNg,train
+ATCATCTAGTGTGGCA-1,CD4 T,IFNg,train
+CTCGGAGTCGTACGGC-1,CD4 T,IFNg,train
+CGCCAAGCAATAGCGG-1,CD4 T,IFNg,train
+GGACATTTCCACTCCA-1,CD4 T,IFNg,train
+GCAAACTAGACGCTTT-1,CD4 T,IFNg,train
+CTAATGGTCTGGTTCC-1,CD4 T,IFNg,train
+GTTTCTACAGGGTTAG-1,CD4 T,IFNg,train
+TTAGGCACATATACGC-1,CD4 T,IFNg,train
+TAAGAGATCACTTATC-1,CD4 T,IFNg,train
+GCATGATTCACATACG-1,CD4 T,IFNg,train
+GTCTCGTCATGCCTAA-1,CD4 T,IFNg,train
+CATGACACAACTGCGC-1,CD4 T,IFNg,train
+GCTCTGTGTAAATGAC-1,CD4 T,IFNg,train
+TAGTGGTTCCGAATGT-1,CD4 T,IFNg,train
+TGCGGGTGTGACTCAT-1,CD4 T,IFNg,train
+GGAATAAAGGGTGTGT-1,CD4 T,IFNg,train
+TTTGGTTGTAATAGCA-1,CD4 T,IFNg,train
+GGACAAGGTCTAGAGG-1,CD4 T,IFNg,train
+GTAGGCCGTGGTCTCG-1,CD4 T,IFNg,train
+AGTGGGATCTTATCTG-1,CD4 T,IFNg,train
+TATGCCCGTAATCACC-1,CD4 T,IFNg,train
+GTGCAGCGTCTTCGTC-1,CD4 T,IFNg,train
+TAAGCGTAGCCACTAT-1,CD4 T,IFNg,train
+ATCACGACACTGCCAG-1,CD4 T,IFNg,train
+TCAATCTGTAGAGCTG-1,CD4 T,IFNg,train
+TGTGGTATCTACCTGC-1,CD4 T,IFNg,train
+TTTATGCGTATGAAAC-1,CD4 T,IFNg,train
+CGCTATCCAGATAATG-1,CD4 T,IFNg,train
+ACCCACTCACGTCTCT-1,CD4 T,IFNg,train
+GGAGCAAGTGCGCTTG-1,CD4 T,IFNg,train
+CGATTGACAGTACACT-1,CD4 T,IFNg,train
+GTACGTAAGGAATTAC-1,CD4 T,IFNg,train
+CTCATTAAGGGTCGAT-1,CD4 T,IFNg,train
+GATGCTATCTATGTGG-1,CD4 T,IFNg,train
+CTGCTGTAGTGAACGC-1,CD4 T,IFNg,train
+CCGGTAGTCGTGGTCG-1,CD4 T,IFNg,train
+GGTATTGAGGGAGTAA-1,CD4 T,IFNg,train
+AACTCAGCACCAGTTA-1,CD4 T,IFNg,train
+GAAATGACAGCTGTGC-1,CD4 T,IFNg,train
+AGCAGCCTCCACGCAG-1,CD4 T,IFNg,train
+AACTGGTTCCTTGACC-1,CD4 T,IFNg,train
+GTCACAAGTCGGCATC-1,CD4 T,IFNg,train
+TAGTGGTGTTAGGGTG-1,CD4 T,IFNg,train
+ACTATCTGTTGTACAC-1,CD4 T,IFNg,train
+GTGTTAGAGACCTAGG-1,CD4 T,IFNg,train
+CTCGTACTCAGTACGT-1,CD4 T,IFNg,train
+TGCACCTGTCATATGC-1,CD4 T,IFNg,train
+ATTGGTGCAGACGCAA-1,CD4 T,IFNg,train
+ATTGGACCACATCCGG-1,CD4 T,IFNg,train
+GTACGTAGTAGGACAC-1,CD4 T,IFNg,train
+CCAATCCAGTACGCGA-1,CD4 T,IFNg,train
+CGGACACAGGTGACCA-1,CD4 T,IFNg,train
+CGATTGAAGGCCCTCA-1,CD4 T,IFNg,train
+TGAGAGGCAGGCTGAA-1,CD4 T,IFNg,train
+CCAATCCAGTTGCAGG-1,CD4 T,IFNg,train
+AGTAGTCAGGATTCGG-1,CD4 T,IFNg,train
+TGGCCAGCAATCTGCA-1,CD4 T,IFNg,train
+TTTGCGCAGTACCGGA-1,CD4 T,IFNg,train
+TGGCTGGCAGCGAACA-1,CD4 T,IFNg,train
+ATCCGAACACTTGGAT-1,CD4 T,IFNg,train
+AGTTGGTCATGGTCTA-1,CD4 T,IFNg,train
+ACATACGTCACCCGAG-1,CD4 T,IFNg,train
+GTTCGGGCAGCTATTG-1,CD4 T,IFNg,train
+TACGGTAAGAGTACAT-1,CD4 T,IFNg,train
+TACAGTGAGGCTCATT-1,CD4 T,IFNg,train
+CACCTTGGTGAAATCA-1,CD4 T,IFNg,train
+ACATACGTCTACTATC-1,CD4 T,IFNg,train
+TACGGATAGGGAACGG-1,CD4 T,IFNg,train
+CAACCAACATATACCG-1,CD4 T,IFNg,train
+AACTGGTAGTCGAGTG-1,CD4 T,IFNg,train
+CGCGGTAGTCAAAGAT-1,CD4 T,IFNg,train
+TACTCATTCGACGGAA-1,CD4 T,IFNg,train
+GTAACTGCAGTAGAGC-1,CD4 T,IFNg,train
+CTAATGGTCTCCAGGG-1,CD4 T,IFNg,train
+TGGCGCAAGCGATATA-1,CD4 T,IFNg,train
+CTAATGGAGACTTTCG-1,CD4 T,IFNg,train
+ACGGGTCCAATGTAAG-1,CD4 T,IFNg,train
+CCTCTGACAGTAAGCG-1,CD4 T,IFNg,train
+CAGTCCTGTAAATACG-1,CD4 T,IFNg,train
+GTATCTTCAGCCTTTC-1,CD4 T,IFNg,train
+CCATGTCTCACGACTA-1,CD4 T,IFNg,train
+CTACCCATCAGGTTCA-1,CD4 T,IFNg,train
+TGGCTGGCACAGCCCA-1,CD4 T,IFNg,train
+TTAGGCACAGTAGAGC-1,CD4 T,IFNg,train
+AAATGCCAGCCACGCT-1,CD4 T,IFNg,train
+TAGGCATTCTCTGCTG-1,CD4 T,IFNg,train
+TGGCCAGGTTCCTCCA-1,CD4 T,IFNg,train
+TCACAAGGTCACCCAG-1,CD4 T,IFNg,train
+CGTAGGCCAGCGAACA-1,CD4 T,IFNg,train
+TTTATGCCAAGGTTTC-1,CD4 T,IFNg,train
+ACATGGTAGTACTTGC-1,CD4 T,IFNg,train
+TTCTACATCATGTAGC-1,CD4 T,IFNg,train
+CATGACAAGCGATAGC-1,CD4 T,IFNg,train
+CGGACGTCACTCAGGC-1,CD4 T,IFNg,train
+TGACTAGGTCATCCCT-1,CD4 T,IFNg,train
+CAAGAAATCGAATGCT-1,CD4 T,IFNg,train
+CTAGTGAAGCGTAATA-1,CD4 T,IFNg,train
+GAGGTGAAGTGACATA-1,CD4 T,IFNg,train
+GTAACTGTCCGAATGT-1,CD4 T,IFNg,train
+GATCGATGTGGTAACG-1,CD4 T,IFNg,train
+GCTTGAATCTGCCAGG-1,CD4 T,IFNg,train
+AGAGCGACACAGAGGT-1,CD4 T,IFNg,train
+CATTCGCAGGAGCGAG-1,CD4 T,IFNg,train
+ACGAGCCCACCCATGG-1,CD4 T,IFNg,train
+AACTGGTAGACCTTTG-1,CD4 T,IFNg,train
+GACGGCTCACTGAAGG-1,CD4 T,IFNg,train
+CCCTCCTAGGAGTAGA-1,CD4 T,IFNg,train
+ACATACGTCACCATAG-1,CD4 T,IFNg,train
+CATTCGCCAAGCCATT-1,CD4 T,IFNg,train
+GTGCATATCCGCATAA-1,CD4 T,IFNg,train
+TCAGATGTCTCGCATC-1,CD4 T,IFNg,train
+ATTATCCGTCCAAGTT-1,CD4 T,IFNg,train
+TGCTGCTAGAAGGTTT-1,CD4 T,IFNg,train
+GCTGGGTAGTGTACGG-1,CD4 T,IFNg,train
+TAGTTGGGTTAAGATG-1,CD4 T,IFNg,train
+AGTTGGTCAGGTCTCG-1,CD4 T,IFNg,train
+GAACATCTCCTTTCTC-1,CD4 T,IFNg,train
+GGCTCGATCGGCTTGG-1,CD4 T,IFNg,train
+ATTGGTGGTTATCACG-1,CD4 T,IFNg,train
+CCATGTCCAGTAAGAT-1,CD4 T,IFNg,train
+GTCATTTAGGCTCTTA-1,CD4 T,IFNg,train
+TAGTGGTGTAATCGTC-1,CD4 T,IFNg,train
+TGCGTGGCAATGGAAT-1,CD4 T,IFNg,train
+GGGAATGCATTAGCCA-1,CD4 T,IFNg,validation
+TGCTGCTTCGCAAGCC-1,CD4 T,IFNg,validation
+AGTCTTTAGGACTGGT-1,CD4 T,IFNg,validation
+GACCTGGAGAAACCGC-1,CD4 T,IFNg,validation
+CACTCCAAGCTAGTCT-1,CD4 T,IFNg,validation
+GATCGTAAGATCGATA-1,CD4 T,IFNg,validation
+GGTGAAGTCGCCATAA-1,CD4 T,IFNg,validation
+TCACAAGCAAAGTCAA-1,CD4 T,IFNg,validation
+CACACAATCTGCAGTA-1,CD4 T,IFNg,validation
+ACTGAACCAAATTGCC-1,CD4 T,IFNg,validation
+AACGTTGAGTTGTAGA-1,CD4 T,IFNg,validation
+TCGCGTTGTCCGAGTC-1,CD4 T,IFNg,validation
+TGCTACCCAAGGACAC-1,CD4 T,IFNg,validation
+GATGAAATCGAGAACG-1,CD4 T,IFNg,validation
+GCTCCTAGTAGCACGA-1,CD4 T,IFNg,validation
+TGACTTTAGCATCATC-1,CD4 T,IFNg,validation
+ATGGGAGGTACCGTAT-1,CD4 T,IFNg,validation
+GTTCTCGGTGAGTGAC-1,CD4 T,IFNg,validation
+TCGTACCCAATCTGCA-1,CD4 T,IFNg,validation
+CGGAGCTCATTAGGCT-1,CD4 T,IFNg,validation
+GATCGTAAGACCTTTG-1,CD4 T,IFNg,validation
+TGCGCAGAGTCTCAAC-1,CD4 T,IFNg,validation
+TCGGGACAGTTCGATC-1,CD4 T,IFNg,validation
+ACTGTCCAGGACAGAA-1,CD4 T,IFNg,validation
+ACTTTCATCTCCAACC-1,CD4 T,IFNg,validation
+ACCCACTGTGAGGGTT-1,CD4 T,IFNg,validation
+CTGGTCTGTCTAAAGA-1,CD4 T,IFNg,validation
+TGGCTGGGTCTAAACC-1,CD4 T,IFNg,validation
+CGATTGAGTCGGCACT-1,CD4 T,IFNg,validation
+GATTCAGAGGAATGGA-1,CD4 T,IFNg,validation
+GAAACTCAGTGAAGTT-1,CD4 T,IFNg,validation
+GCCTCTAGTAAATGTG-1,CD4 T,IFNg,validation
+CAGGTGCCATTAGCCA-1,CD4 T,IFNg,validation
+CATCGAATCGCTGATA-1,CD4 T,IFNg,validation
+ACTTACTAGCTAAACA-1,CD4 T,IFNg,validation
+GTAACTGAGTATGACA-1,CD4 T,IFNg,validation
+CTGATCCGTTATGTGC-1,CD4 T,IFNg,validation
+TGGTTAGCATGAACCT-1,CD4 T,IFNg,validation
+AGCGTATTCAATAAGG-1,CD4 T,IFNg,validation
+GTCCTCAGTGGTGTAG-1,CD4 T,IFNg,validation
+ACGCCGAGTGAGGGAG-1,CD4 T,IFNg,validation
+ACGGGTCAGACGACGT-1,CD4 T,IFNg,validation
+GGACAGATCCGCGCAA-1,CD4 T,IFNg,validation
+TCACAAGGTTACCAGT-1,CD4 T,IFNg,validation
+GCCAAATCATTGGGCC-1,CD4 T,IFNg,validation
+TTAGGCAGTTGTGGCC-1,CD4 T,IFNg,validation
+CTCACACAGTGTCCCG-1,CD4 T,IFNg,validation
+AGTTGGTGTTAGATGA-1,CD4 T,IFNg,validation
+ACGAGGACAAGGGTCA-1,CD4 T,IFNg,validation
+CCATGTCGTAAATGTG-1,CD4 T,IFNg,validation
+GCGAGAACAATCGAAA-1,CD4 T,IFNg,validation
+GCGGGTTTCGTTACAG-1,CD4 T,IFNg,validation
+TGCCCTAAGTGAACGC-1,CD4 T,IFNg,validation
+TCAATCTCAAATCCGT-1,CD4 T,IFNg,validation
+AGCTCTCGTGCCTGTG-1,CD4 T,IFNg,validation
+GCACTCTCAAGGACAC-1,CD4 T,IFNg,validation
+GTTCTCGAGGATGGTC-1,CD4 T,IFNg,validation
+CTCATTAGTAAGCACG-1,CD4 T,IFNg,test
+CCGTACTCAAAGTCAA-1,CD4 T,IFNg,test
+GCGCAACCATTGGCGC-1,CD4 T,IFNg,test
+TTCTTAGGTGCACGAA-1,CD4 T,IFNg,test
+ACTGTCCGTGAAGGCT-1,CD4 T,IFNg,test
+CGTCACTCACGAGAGT-1,CD4 T,IFNg,test
+TGAGCATAGGGCACTA-1,CD4 T,IFNg,test
+ACTGAGTTCTCTAGGA-1,CD4 T,IFNg,test
+TCAGGTACACAGCGTC-1,CD4 T,IFNg,test
+GGGTTGCGTACTCAAC-1,CD4 T,IFNg,test
+TCATTTGAGCTCCTTC-1,CD4 T,IFNg,test
+GGAGCAAGTCTCCACT-1,CD4 T,IFNg,test
+GAATGAACACGCTTTC-1,CD4 T,IFNg,test
+TACCTATAGACTAGGC-1,CD4 T,IFNg,test
+CTTGGCTAGGCCGAAT-1,CD4 T,IFNg,test
+TGTTCCGGTTGTCGCG-1,CD4 T,IFNg,test
+TAGTGGTGTGGGTCAA-1,CD4 T,IFNg,test
+TGCGGGTGTAGCGATG-1,CD4 T,IFNg,test
+CAAGATCCAATCAGAA-1,CD4 T,IFNg,test
+CGGACACGTTAAAGTG-1,CD4 T,IFNg,test
+CGACTTCGTCCAGTAT-1,CD4 T,IFNg,test
+CGCGTTTAGAGAGCTC-1,CD4 T,IFNg,test
+CAGTAACCAGTCGATT-1,CD4 T,IFNg,test
+AGTGTCATCTTCGGTC-1,CD4 T,IFNg,test
+AGGGTGACATACGCCG-1,CD4 T,IFNg,test
+TTCGGTCCAATGGTCT-1,CD4 T,IFNg,test
+TCAATCTAGCTTTGGT-1,CD4 T,IFNg,test
+ATGAGGGCAGACGCAA-1,CD4 T,IFNg,test
+TGACAACGTTATGCGT-1,CD4 T,IFNg,test
+ACGATGTCATCACAAC-1,CD4 T,IFNg,test
+GACCAATGTGGTTTCA-1,CD4 T,IFNg,test
+AGCGGTCTCTCTAGGA-1,CD4 T,IFNg,test
+CGTCAGGCATCAGTAC-1,CD4 T,IFNg,test
+GTCTCGTAGTCCAGGA-1,CD4 T,IFNg,test
+CGTTGGGGTTCATGGT-1,CD4 T,IFNg,test
+CGCGGTACACCGAAAG-1,CD4 T,IFNg,test
+TCATTACAGGTGCTTT-1,CD4 T,IFNg,test
+TGACTAGCATTGGGCC-1,CD4 T,IFNg,test
+TTGAACGCACGGCTAC-1,CD4 T,IFNg,test
+AACTCCCTCCACGACG-1,CD4 T,IFNg,test
+ATGTGTGTCTCAACTT-1,CD4 T,IFNg,test
+AATCGGTTCTTCCTTC-1,CD4 T,IFNg,test
+GTCACAATCTTGCCGT-1,CD4 T,IFNg,test
+TCGAGGCTCTTCCTTC-1,CD4 T,IFNg,test
+ACACCGGTCCGTAGTA-1,CD4 T,IFNg,test
+GTCACAAAGCAAATCA-1,CD4 T,IFNg,test
+AGAATAGTCCGATATG-1,CD4 T,IFNg,test
+GAACATCTCAACGGCC-1,CD4 T,IFNg,test
+TGGCCAGAGACCTTTG-1,CD4 T,IFNg,test
+CAACCAAGTTCAGTAC-1,CD4 T,IFNg,test
+TGACTTTTCTTTACAC-1,CD4 T,IFNg,test
+CAAGATCTCCTAGAAC-1,CD4 T,IFNg,test
+TACGGGCGTGCACTTA-1,CD4 T,IFNg,test
+ACGCCAGCAGTAACGG-1,CD4 T,IFNg,test
+AACTTTCCAATGGACG-1,CD4 T,IFNg,test
+GGTGTTAGTTCGTCTC-1,CD4 T,IFNg,test
+GCTGCTTGTGACCAAG-1,CD4 T,IFNg,test
+CGTTGGGAGCTGGAAC-1,CD8 T,No stimulation,train
+TCAATCTTCACCTTAT-1,CD8 T,No stimulation,train
+GATTCAGAGGGAAACA-1,CD8 T,No stimulation,train
+GTCACAAGTATAATGG-1,CD8 T,No stimulation,train
+AGAATAGAGAATCTCC-1,CD8 T,No stimulation,train
+GGGCACTGTAGCGCAA-1,CD8 T,No stimulation,train
+GGACAGACATACGCTA-1,CD8 T,No stimulation,train
+GCCAAATAGAAGATTC-1,CD8 T,No stimulation,train
+CTGATCCAGCAGGCTA-1,CD8 T,No stimulation,train
+GAAGCAGGTCTCTTTA-1,CD8 T,No stimulation,train
+TCACGAAGTAAGGGCT-1,CD8 T,No stimulation,train
+TGCACCTAGGTTACCT-1,CD8 T,No stimulation,train
+TATTACCTCTGGTGTA-1,CD8 T,No stimulation,train
+CCATTCGGTAAGGGCT-1,CD8 T,No stimulation,train
+ATTCTACCAGGACCCT-1,CD8 T,No stimulation,train
+GCAGCCAGTTCGCTAA-1,CD8 T,No stimulation,train
+AATCGGTTCCTCTAGC-1,CD8 T,No stimulation,train
+TGACTTTGTGTTCTTT-1,CD8 T,No stimulation,train
+TACTCGCTCGTTGACA-1,CD8 T,No stimulation,train
+GAACATCAGGTGTTAA-1,CD8 T,No stimulation,train
+TAAGAGAGTGCATCTA-1,CD8 T,No stimulation,train
+TCAATCTCAAGCCGCT-1,CD8 T,No stimulation,train
+ACCTTTAAGTTACGGG-1,CD8 T,No stimulation,train
+AGTGAGGGTCCTCTTG-1,CD8 T,No stimulation,train
+CGTCCATCAAACCTAC-1,CD8 T,No stimulation,train
+CGAGCCATCACCCTCA-1,CD8 T,No stimulation,train
+AAACGGGAGACTAGGC-1,CD8 T,No stimulation,train
+CCTTTCTCACCTTGTC-1,CD8 T,No stimulation,train
+AGGGAGTCACGCGAAA-1,CD8 T,No stimulation,train
+GACACGCCAAGGTTCT-1,CD8 T,No stimulation,train
+CGGACTGTCAAGGCTT-1,CD8 T,No stimulation,train
+GGACATTTCGGAGGTA-1,CD8 T,No stimulation,train
+CATCCACCAATGTTGC-1,CD8 T,No stimulation,train
+CTAATGGAGATATGCA-1,CD8 T,No stimulation,train
+AGTGGGATCAATACCG-1,CD8 T,No stimulation,train
+GCATACAAGTGCAAGC-1,CD8 T,No stimulation,train
+GGGCATCGTTTGTGTG-1,CD8 T,No stimulation,train
+AGTTGGTCACTTAACG-1,CD8 T,No stimulation,train
+TGGTTCCAGAGCCTAG-1,CD8 T,No stimulation,train
+TCAGGATCATAGGATA-1,CD8 T,No stimulation,train
+GCTGCGATCATAAAGG-1,CD8 T,No stimulation,train
+GGGCACTAGATCCCAT-1,CD8 T,No stimulation,train
+GAACATCTCTTGCAAG-1,CD8 T,No stimulation,train
+TCTATTGAGTGTCTCA-1,CD8 T,No stimulation,train
+AACACGTGTCGCATAT-1,CD8 T,No stimulation,train
+TGGCTGGCAATCAGAA-1,CD8 T,No stimulation,train
+CTAACTTGTTAGTGGG-1,CD8 T,No stimulation,train
+GGGCACTAGTTAGCGG-1,CD8 T,No stimulation,train
+TCAGGATCACTGTGTA-1,CD8 T,No stimulation,train
+TCAACGAAGATATGCA-1,CD8 T,No stimulation,train
+TTCCCAGGTACAGCAG-1,CD8 T,No stimulation,train
+CTCGTCAAGCACAGGT-1,CD8 T,No stimulation,train
+TCGTAGAAGGCGATAC-1,CD8 T,No stimulation,train
+GCACTCTAGATATACG-1,CD8 T,No stimulation,train
+CAGATCACATGGTAGG-1,CD8 T,No stimulation,train
+GGACAGAAGTACATGA-1,CD8 T,No stimulation,train
+AGGCCGTCATATACCG-1,CD8 T,No stimulation,train
+GATGAAAGTGCTGTAT-1,CD8 T,No stimulation,train
+GGTGCGTAGGCACATG-1,CD8 T,No stimulation,train
+TGCACCTTCCCATTTA-1,CD8 T,No stimulation,train
+GACGGCTTCACCGTAA-1,CD8 T,No stimulation,train
+GACCTGGTCATTTGGG-1,CD8 T,No stimulation,train
+TCTGAGATCACTCCTG-1,CD8 T,No stimulation,train
+ACACTGATCCATTCTA-1,CD8 T,No stimulation,train
+TTTCCTCCACATTTCT-1,CD8 T,No stimulation,train
+CGAACATGTGACCAAG-1,CD8 T,No stimulation,train
+TGCGGGTCAGACTCGC-1,CD8 T,No stimulation,train
+GAAACTCGTAAGTAGT-1,CD8 T,No stimulation,train
+CATATGGTCCAATGGT-1,CD8 T,No stimulation,train
+GCTCCTAGTCACACGC-1,CD8 T,No stimulation,train
+CTGCGGACACCTTGTC-1,CD8 T,No stimulation,train
+ACTGCTCCATCGACGC-1,CD8 T,No stimulation,train
+GACTGCGGTCGGATCC-1,CD8 T,No stimulation,train
+GCATGTAGTATATGAG-1,CD8 T,No stimulation,train
+GGCGACTGTGAGTATA-1,CD8 T,No stimulation,train
+GATCAGTGTTCGTGAT-1,CD8 T,No stimulation,train
+TACTCATGTAGGGTAC-1,CD8 T,No stimulation,train
+TGGACGCCATGAAGTA-1,CD8 T,No stimulation,train
+CTACCCAAGAACTGTA-1,CD8 T,No stimulation,train
+TTTGTCACACAACTGT-1,CD8 T,No stimulation,train
+AACCGCGTCTACTCAT-1,CD8 T,No stimulation,train
+ACCGTAAAGCAATATG-1,CD8 T,No stimulation,train
+GTATCTTTCCAAGTAC-1,CD8 T,No stimulation,train
+TTAGGCATCTGCGTAA-1,CD8 T,No stimulation,train
+ACTGAGTTCCCTAACC-1,CD8 T,No stimulation,train
+TCAGATGGTCTGATTG-1,CD8 T,No stimulation,train
+GACGTTATCCACGTGG-1,CD8 T,No stimulation,train
+CATCAAGTCACATACG-1,CD8 T,No stimulation,train
+TCTGAGAGTATCACCA-1,CD8 T,No stimulation,train
+TACTCATCAAGCGATG-1,CD8 T,No stimulation,train
+ACACTGAAGAGCCCAA-1,CD8 T,No stimulation,train
+ATAACGCGTTTGGGCC-1,CD8 T,No stimulation,train
+TTAGGACAGATCACGG-1,CD8 T,No stimulation,train
+GATGAAAGTCGCATAT-1,CD8 T,No stimulation,train
+CGCGTTTAGTATCGAA-1,CD8 T,No stimulation,train
+GACTGCGAGGGTCTCC-1,CD8 T,No stimulation,train
+CCAATCCCACTTCTGC-1,CD8 T,No stimulation,train
+CCTCAGTTCAGCCTAA-1,CD8 T,No stimulation,train
+GTGCATAGTCATACTG-1,CD8 T,No stimulation,train
+AGAATAGCAGCGTCCA-1,CD8 T,No stimulation,train
+ACTGTCCAGAGGTTAT-1,CD8 T,No stimulation,train
+GTCGTAACAGACGTAG-1,CD8 T,No stimulation,train
+CGATTGAAGTGTGGCA-1,CD8 T,No stimulation,train
+CCTTCCCTCCCAGGTG-1,CD8 T,No stimulation,train
+GTGCTTCTCTCGTATT-1,CD8 T,No stimulation,train
+TAAGAGATCAATCTCT-1,CD8 T,No stimulation,train
+CGAGCACCATTCGACA-1,CD8 T,No stimulation,train
+TTCTTAGCATGTAAGA-1,CD8 T,No stimulation,train
+ATCCACCGTTGCCTCT-1,CD8 T,No stimulation,train
+GGGATGATCATTGCCC-1,CD8 T,No stimulation,train
+TCGGTAAAGATAGTCA-1,CD8 T,No stimulation,train
+GATTCAGAGAGCTATA-1,CD8 T,No stimulation,train
+CGAGCACAGATGTGGC-1,CD8 T,No stimulation,train
+TGGGCGTCAAGGCTCC-1,CD8 T,No stimulation,train
+AGGGATGGTTCTGAAC-1,CD8 T,No stimulation,train
+GATGAGGTCAGGATCT-1,CD8 T,No stimulation,train
+CCTATTAAGGCTAGAC-1,CD8 T,No stimulation,train
+CTTAGGATCTCCCTGA-1,CD8 T,No stimulation,train
+GGATTACAGCTCAACT-1,CD8 T,No stimulation,train
+GGATTACTCTACCAGA-1,CD8 T,No stimulation,train
+GGACAAGTCCACGCAG-1,CD8 T,No stimulation,train
+GCGCAACGTCGGATCC-1,CD8 T,No stimulation,train
+GTGAAGGAGTGTACCT-1,CD8 T,No stimulation,train
+AAAGCAATCCACTCCA-1,CD8 T,No stimulation,train
+TAAGCGTCAATGAATG-1,CD8 T,No stimulation,train
+ATCATCTAGCGTAATA-1,CD8 T,No stimulation,train
+CGGAGTCGTCGCCATG-1,CD8 T,No stimulation,train
+GTACTCCCATGCCTAA-1,CD8 T,No stimulation,train
+GACTGCGAGACAGAGA-1,CD8 T,No stimulation,train
+TACTCATCAATCAGAA-1,CD8 T,No stimulation,train
+TACTCGCCAATCGGTT-1,CD8 T,No stimulation,train
+ACAGCCGAGGACACCA-1,CD8 T,No stimulation,train
+TTAGGCATCTCCTATA-1,CD8 T,No stimulation,train
+GACAGAGGTGCGCTTG-1,CD8 T,No stimulation,train
+CTCGTACTCTGAGTGT-1,CD8 T,No stimulation,train
+GACCTGGAGCCAGGAT-1,CD8 T,No stimulation,train
+CTGAAGTCATGGGACA-1,CD8 T,No stimulation,train
+TCAGGATAGCATCATC-1,CD8 T,No stimulation,train
+GACCTGGCATAGAAAC-1,CD8 T,No stimulation,train
+GACAGAGCACATGACT-1,CD8 T,No stimulation,train
+GATCAGTAGAGCTATA-1,CD8 T,No stimulation,train
+GCCAAATCAACGATCT-1,CD8 T,No stimulation,train
+CAGCAGCTCTGCTGTC-1,CD8 T,No stimulation,train
+ATGAGGGTCATGTCTT-1,CD8 T,No stimulation,train
+AGGTCATCATGTCCTC-1,CD8 T,No stimulation,train
+GATCGATCACGAAAGC-1,CD8 T,No stimulation,train
+GCTCTGTGTATTAGCC-1,CD8 T,No stimulation,train
+GTCAAGTAGGCCCTCA-1,CD8 T,No stimulation,train
+ATTGGTGTCTGTCCGT-1,CD8 T,No stimulation,train
+CGTAGGCTCTAACGGT-1,CD8 T,No stimulation,train
+GCGACCAGTTAAGTAG-1,CD8 T,No stimulation,train
+TTAGTTCCAGTTAACC-1,CD8 T,No stimulation,train
+TGCACCTAGGCTCAGA-1,CD8 T,No stimulation,train
+CAGCTGGAGCAAATCA-1,CD8 T,No stimulation,train
+CGGCTAGCACGAAAGC-1,CD8 T,No stimulation,train
+TCTCTAATCCGAAGAG-1,CD8 T,No stimulation,train
+CTCGAGGTCAATACCG-1,CD8 T,No stimulation,train
+CTCAGAAGTACCAGTT-1,CD8 T,No stimulation,train
+GCCTCTATCATTGCCC-1,CD8 T,No stimulation,train
+TTTATGCTCATGTAGC-1,CD8 T,No stimulation,train
+TGAGGGAGTCCAGTTA-1,CD8 T,No stimulation,train
+CATGCCTAGTCGAGTG-1,CD8 T,No stimulation,train
+GGGAGATGTGTAATGA-1,CD8 T,No stimulation,train
+GATCTAGAGATCCGAG-1,CD8 T,No stimulation,train
+ATCTACTTCTTCGAGA-1,CD8 T,No stimulation,train
+GGTGTTACATGCAACT-1,CD8 T,No stimulation,train
+GGCTGGTTCATTTGGG-1,CD8 T,No stimulation,train
+GGTGAAGAGCTAACTC-1,CD8 T,No stimulation,train
+CCTTCGACAACTGCTA-1,CD8 T,No stimulation,train
+ACCAGTACATTTGCCC-1,CD8 T,No stimulation,train
+GTCGTAATCAGTTTGG-1,CD8 T,No stimulation,train
+TGAGCATAGACAGACC-1,CD8 T,No stimulation,train
+AAACCTGAGGCTAGCA-1,CD8 T,No stimulation,train
+TGGCCAGCAGTTCATG-1,CD8 T,No stimulation,train
+TTTATGCAGATGTAAC-1,CD8 T,No stimulation,train
+GTACTTTTCCACGAAT-1,CD8 T,No stimulation,train
+GTAGGCCAGACTAAGT-1,CD8 T,No stimulation,train
+GTGCAGCTCGCTGATA-1,CD8 T,No stimulation,train
+GGCGACTAGCGCCTTG-1,CD8 T,No stimulation,train
+CATGACACAGCATACT-1,CD8 T,No stimulation,train
+GATCTAGCATAGTAAG-1,CD8 T,No stimulation,train
+CATCAGATCTGCAAGT-1,CD8 T,No stimulation,train
+GAATAAGCAGTCACTA-1,CD8 T,No stimulation,train
+AGGTCCGCATTACCTT-1,CD8 T,No stimulation,train
+GACACGCTCGAATGCT-1,CD8 T,No stimulation,train
+CGACCTTTCAACACTG-1,CD8 T,No stimulation,train
+CGAACATAGAGTACAT-1,CD8 T,No stimulation,train
+CCTACACGTAAAGGAG-1,CD8 T,No stimulation,train
+GTACTTTAGATGAGAG-1,CD8 T,No stimulation,train
+GACCAATGTACTTGAC-1,CD8 T,No stimulation,train
+ATTATCCGTACGAAAT-1,CD8 T,No stimulation,train
+CGGGTCAGTGGTCTCG-1,CD8 T,No stimulation,train
+CGATTGAAGAGTGACC-1,CD8 T,No stimulation,train
+TGACTAGGTCTAGAGG-1,CD8 T,No stimulation,train
+GATCTAGCAGTTTACG-1,CD8 T,No stimulation,train
+AACCGCGCACTCTGTC-1,CD8 T,No stimulation,train
+GTATTCTCAACGATGG-1,CD8 T,No stimulation,train
+CGTGAGCTCACCCTCA-1,CD8 T,No stimulation,train
+CTCAGAACAATCGAAA-1,CD8 T,No stimulation,train
+ACTTGTTTCCTGTAGA-1,CD8 T,No stimulation,train
+CTAGCCTAGTGTTGAA-1,CD8 T,No stimulation,train
+GCACTCTTCCGAAGAG-1,CD8 T,No stimulation,train
+AGCTCCTCATCCAACA-1,CD8 T,No stimulation,train
+CACATTTAGTGCTGCC-1,CD8 T,No stimulation,train
+GAACCTATCCGAATGT-1,CD8 T,No stimulation,train
+ATTATCCCACAGGTTT-1,CD8 T,No stimulation,train
+GTCATTTGTATTAGCC-1,CD8 T,No stimulation,train
+TTAGGACTCGTTACAG-1,CD8 T,No stimulation,train
+GACGTGCTCTAACCGA-1,CD8 T,No stimulation,train
+AAAGCAACATGGTTGT-1,CD8 T,No stimulation,train
+CGAGCACCACTGTTAG-1,CD8 T,No stimulation,train
+AAAGCAATCCGCGGTA-1,CD8 T,No stimulation,train
+AGAGCTTCAAGTTCTG-1,CD8 T,No stimulation,train
+GATCGCGAGGCAGTCA-1,CD8 T,No stimulation,train
+TCACGAATCAGTTAGC-1,CD8 T,No stimulation,train
+CAGATCAGTTCACCTC-1,CD8 T,No stimulation,train
+TTGAACGGTCACCCAG-1,CD8 T,No stimulation,train
+TCATTTGTCACCCTCA-1,CD8 T,No stimulation,validation
+CACATTTGTCGCTTTC-1,CD8 T,No stimulation,validation
+ACACCAAGTAAACGCG-1,CD8 T,No stimulation,validation
+TACTTACTCCAAGTAC-1,CD8 T,No stimulation,validation
+CTCTAATCAAAGGTGC-1,CD8 T,No stimulation,validation
+CTGGTCTAGTGGGATC-1,CD8 T,No stimulation,validation
+GCATGATCAAGCGCTC-1,CD8 T,No stimulation,validation
+GCTCCTACATGCCCGA-1,CD8 T,No stimulation,validation
+CGAACATTCATGTCCC-1,CD8 T,No stimulation,validation
+ACTGATGCAAAGTGCG-1,CD8 T,No stimulation,validation
+GAAACTCTCGCTTGTC-1,CD8 T,No stimulation,validation
+CATATGGGTCCAACTA-1,CD8 T,No stimulation,validation
+CCGGGATTCAGTGCAT-1,CD8 T,No stimulation,validation
+CCTATTATCGATAGAA-1,CD8 T,No stimulation,validation
+TGCTGCTTCATTGCCC-1,CD8 T,No stimulation,validation
+TGCACCTAGCTCCTCT-1,CD8 T,No stimulation,validation
+GACTGCGAGAAGATTC-1,CD8 T,No stimulation,validation
+CTCTAATTCGGAATCT-1,CD8 T,No stimulation,validation
+TCTTCGGAGTATGACA-1,CD8 T,No stimulation,validation
+TCAATCTAGTTTGCGT-1,CD8 T,No stimulation,validation
+TCTGGAATCATTGCCC-1,CD8 T,No stimulation,validation
+AACTCCCGTTCGCTAA-1,CD8 T,No stimulation,validation
+AGATTGCCATATGAGA-1,CD8 T,No stimulation,validation
+TGCGCAGGTGTAACGG-1,CD8 T,No stimulation,validation
+GCGCGATCAAGCGTAG-1,CD8 T,No stimulation,validation
+GATGAAATCGCCTGTT-1,CD8 T,No stimulation,validation
+CGAGAAGAGATGCCTT-1,CD8 T,No stimulation,validation
+ATCTGCCTCAGTTGAC-1,CD8 T,No stimulation,validation
+TTAGGCACATTTGCCC-1,CD8 T,No stimulation,validation
+CAAGAAACAATGTAAG-1,CD8 T,No stimulation,validation
+GGAATAATCAAGGTAA-1,CD8 T,No stimulation,validation
+TTCGGTCTCACCATAG-1,CD8 T,No stimulation,validation
+TTTGTCATCTTGTACT-1,CD8 T,No stimulation,validation
+ACATCAGAGCTTCGCG-1,CD8 T,No stimulation,validation
+CAGCAGCAGATATACG-1,CD8 T,No stimulation,validation
+TGAGGGACATCCAACA-1,CD8 T,No stimulation,validation
+ATTATCCTCACCCTCA-1,CD8 T,No stimulation,validation
+CCTTCCCAGAAGAAGC-1,CD8 T,No stimulation,validation
+TCAATCTGTATCGCAT-1,CD8 T,No stimulation,validation
+CCCAGTTTCTCTGTCG-1,CD8 T,No stimulation,validation
+CTCCTAGTCTGGCGTG-1,CD8 T,No stimulation,validation
+ACTTTCATCTTGAGGT-1,CD8 T,No stimulation,validation
+CCGTACTGTTTGACAC-1,CD8 T,No stimulation,validation
+GTTAAGCAGTCGAGTG-1,CD8 T,No stimulation,validation
+ACATCAGGTGGTACAG-1,CD8 T,No stimulation,validation
+TCGTAGATCCATGAGT-1,CD8 T,No stimulation,validation
+CATTATCAGACGCACA-1,CD8 T,No stimulation,test
+TCTTTCCGTTGTGGAG-1,CD8 T,No stimulation,test
+GTGCGGTAGTGAAGAG-1,CD8 T,No stimulation,test
+ACGGAGATCAGTGTTG-1,CD8 T,No stimulation,test
+AAGTCTGAGCTAGTGG-1,CD8 T,No stimulation,test
+TGCGTGGTCATAAAGG-1,CD8 T,No stimulation,test
+AGTAGTCTCGCTAGCG-1,CD8 T,No stimulation,test
+ACGCAGCCACCGCTAG-1,CD8 T,No stimulation,test
+GACACGCTCACCGTAA-1,CD8 T,No stimulation,test
+CCCAGTTCAATAGAGT-1,CD8 T,No stimulation,test
+TGGCGCAAGCCATCGC-1,CD8 T,No stimulation,test
+CGGCTAGCAGACAAGC-1,CD8 T,No stimulation,test
+AGTTGGTGTCAACTGT-1,CD8 T,No stimulation,test
+TGACGGCTCACCAGGC-1,CD8 T,No stimulation,test
+GAATGAAAGAGATGAG-1,CD8 T,No stimulation,test
+TTAGTTCCATTATCTC-1,CD8 T,No stimulation,test
+CCACGGATCTAACTCT-1,CD8 T,No stimulation,test
+TCGTAGACATTAGGCT-1,CD8 T,No stimulation,test
+CCGGTAGAGACTTTCG-1,CD8 T,No stimulation,test
+TCACAAGCACGAAGCA-1,CD8 T,No stimulation,test
+CGATGGCCACACCGAC-1,CD8 T,No stimulation,test
+GCTTCCAGTCAAAGAT-1,CD8 T,No stimulation,test
+GCGAGAACAGGGTTAG-1,CD8 T,No stimulation,test
+CAGCAGCGTTCATGGT-1,CD8 T,No stimulation,test
+CCACGGATCCACGAAT-1,CD8 T,No stimulation,test
+ACAGCCGAGGTGACCA-1,CD8 T,No stimulation,test
+ATGAGGGTCAGCAACT-1,CD8 T,No stimulation,test
+CTTAACTTCGTTACGA-1,CD8 T,No stimulation,test
+ATTACTCTCCTTAATC-1,CD8 T,No stimulation,test
+GGGAGATCATACCATG-1,CD8 T,No stimulation,test
+ACACCCTAGTGTCTCA-1,CD8 T,No stimulation,test
+GTAACGTAGCACGCCT-1,CD8 T,No stimulation,test
+ATCACGAAGTGGCACA-1,CD8 T,No stimulation,test
+CTCGTACGTAGTAGTA-1,CD8 T,No stimulation,test
+CGGAGTCAGGGAACGG-1,CD8 T,No stimulation,test
+CCCTCCTAGGGCTTGA-1,CD8 T,No stimulation,test
+TTCGGTCTCACCTCGT-1,CD8 T,No stimulation,test
+AATCGGTTCTGGTTCC-1,CD8 T,No stimulation,test
+CAGCGACAGTGTTGAA-1,CD8 T,No stimulation,test
+CACAGTACATCCGTGG-1,CD8 T,No stimulation,test
+CGATGTACATGCTAGT-1,CD8 T,No stimulation,test
+CCTTCGAGTCTAAAGA-1,CD8 T,No stimulation,test
+CAGCTGGGTTTGGGCC-1,CD8 T,No stimulation,test
+CAGGTGCCAAGCTGAG-1,CD8 T,No stimulation,test
+AACACGTTCTGGCGAC-1,CD8 T,No stimulation,test
+AAAGATGTCTATGTGG-1,CD8 T,No stimulation,test
+CATCCACGTGAGGGTT-1,CD8 T,IFNg,train
+AACTCCCAGCAGATCG-1,CD8 T,IFNg,train
+GCACTCTCAGATGAGC-1,CD8 T,IFNg,train
+TACACGAGTGAAATCA-1,CD8 T,IFNg,train
+TGCTGCTCACTGAAGG-1,CD8 T,IFNg,train
+CAACCAACAAAGCGGT-1,CD8 T,IFNg,train
+GCCTCTAAGAAGGGTA-1,CD8 T,IFNg,train
+CTACATTTCCTCGCAT-1,CD8 T,IFNg,train
+ACCAGTATCATGTGGT-1,CD8 T,IFNg,train
+GTTCATTAGATGTAAC-1,CD8 T,IFNg,train
+CTGTTTAGTCATGCCG-1,CD8 T,IFNg,train
+TAGGCATCAAGCGCTC-1,CD8 T,IFNg,train
+CGTGTCTAGCGCTTAT-1,CD8 T,IFNg,train
+TAGACCATCGCCAAAT-1,CD8 T,IFNg,train
+GCATACACAGTCTTCC-1,CD8 T,IFNg,train
+CCCTCCTAGATCGGGT-1,CD8 T,IFNg,train
+GATGCTAAGCGGCTTC-1,CD8 T,IFNg,train
+TCCACACCACGCCAGT-1,CD8 T,IFNg,train
+TCATTACAGGCCCGTT-1,CD8 T,IFNg,train
+GACGGCTTCATCTGCC-1,CD8 T,IFNg,train
+ATGTGTGAGCCCGAAA-1,CD8 T,IFNg,train
+GTACTCCGTGACGGTA-1,CD8 T,IFNg,train
+GACGGCTCACAACGTT-1,CD8 T,IFNg,train
+ATCTACTGTGTGACGA-1,CD8 T,IFNg,train
+TACCTTAAGTGTACCT-1,CD8 T,IFNg,train
+TGTATTCAGGCTATCT-1,CD8 T,IFNg,train
+GCTGCTTCATCAGTCA-1,CD8 T,IFNg,train
+GGATTACAGGATGGAA-1,CD8 T,IFNg,train
+CATCGGGGTCTAGCCG-1,CD8 T,IFNg,train
+GTGCAGCAGGAGTAGA-1,CD8 T,IFNg,train
+CGCTTCAAGACCGGAT-1,CD8 T,IFNg,train
+CCACGGACATCCCACT-1,CD8 T,IFNg,train
+TCGGTAATCTGACCTC-1,CD8 T,IFNg,train
+CCTAAAGAGAAGATTC-1,CD8 T,IFNg,train
+CTGCGGACAGACAAGC-1,CD8 T,IFNg,train
+CTCAGAATCTGGGCCA-1,CD8 T,IFNg,train
+CGTGTAATCAGATAAG-1,CD8 T,IFNg,train
+CGATGGCTCGTTGCCT-1,CD8 T,IFNg,train
+GCGCAACCAAGACACG-1,CD8 T,IFNg,train
+GACACGCTCCACGACG-1,CD8 T,IFNg,train
+ATCGAGTTCGGCATCG-1,CD8 T,IFNg,train
+CTTAGGACATAGACTC-1,CD8 T,IFNg,train
+AGGTCATTCGTACCGG-1,CD8 T,IFNg,train
+CGGGTCATCTGCTGCT-1,CD8 T,IFNg,train
+GCGCGATAGCCAGAAC-1,CD8 T,IFNg,train
+CTCCTAGGTAGGCTGA-1,CD8 T,IFNg,train
+TTTATGCGTTATGCGT-1,CD8 T,IFNg,train
+AGAGTGGGTCCAACTA-1,CD8 T,IFNg,train
+GACCAATCATACGCCG-1,CD8 T,IFNg,train
+GGGTTGCTCAAGGTAA-1,CD8 T,IFNg,train
+GGAAAGCGTACAGACG-1,CD8 T,IFNg,train
+CGAGCACTCCTTTCGG-1,CD8 T,IFNg,train
+CGCTATCAGTGCGATG-1,CD8 T,IFNg,train
+GTGCATAGTTGCGCAC-1,CD8 T,IFNg,train
+ACTGTCCCACCAGGCT-1,CD8 T,IFNg,train
+TCTTCGGTCTCAAACG-1,CD8 T,IFNg,train
+CTACACCGTCCGCTGA-1,CD8 T,IFNg,train
+AAGGCAGAGTCCTCCT-1,CD8 T,IFNg,train
+TTTACTGAGATATACG-1,CD8 T,IFNg,train
+ACGGGCTAGAGCTATA-1,CD8 T,IFNg,train
+CAGCCGATCCTTGCCA-1,CD8 T,IFNg,train
+TACACGATCCCACTTG-1,CD8 T,IFNg,train
+GGACATTAGCGTAATA-1,CD8 T,IFNg,train
+CCTTTCTCAATAAGCA-1,CD8 T,IFNg,train
+GAACCTATCTCAAGTG-1,CD8 T,IFNg,train
+TCAGGTAGTACCGCTG-1,CD8 T,IFNg,train
+TATGCCCAGGCATTGG-1,CD8 T,IFNg,train
+GGTATTGCATTGAGCT-1,CD8 T,IFNg,train
+ACCCACTGTTTGGCGC-1,CD8 T,IFNg,train
+TGGGAAGAGTGGCACA-1,CD8 T,IFNg,train
+GTCCTCATCTACCAGA-1,CD8 T,IFNg,train
+TGGACGCAGAATTGTG-1,CD8 T,IFNg,train
+TAGAGCTAGGGTCTCC-1,CD8 T,IFNg,train
+GTCATTTGTACAGACG-1,CD8 T,IFNg,train
+TTGCCGTCACAAGTAA-1,CD8 T,IFNg,train
+CGGTTAACAATGTAAG-1,CD8 T,IFNg,train
+GTAGTCAGTTAAAGAC-1,CD8 T,IFNg,train
+CAGCAGCAGGCGATAC-1,CD8 T,IFNg,train
+CAACCAACAACTGCTA-1,CD8 T,IFNg,train
+AGTGAGGTCATTCACT-1,CD8 T,IFNg,train
+CATTATCCATCAGTCA-1,CD8 T,IFNg,train
+ACTGAACCACTGTCGG-1,CD8 T,IFNg,train
+CAGCATAAGAAACGAG-1,CD8 T,IFNg,train
+TGGACGCAGCGATTCT-1,CD8 T,IFNg,train
+TCACAAGGTTCGTCTC-1,CD8 T,IFNg,train
+GTACTTTTCCTCTAGC-1,CD8 T,IFNg,train
+GGACATTCAGGCGATA-1,CD8 T,IFNg,train
+CTTCTCTTCGGCCGAT-1,CD8 T,IFNg,train
+GCTGCTTAGGTGGGTT-1,CD8 T,IFNg,train
+GTTAAGCCATCAGTCA-1,CD8 T,IFNg,train
+ATAACGCAGGCTCATT-1,CD8 T,IFNg,train
+CAGCTGGCAGGAACGT-1,CD8 T,IFNg,train
+TTCTCAAGTAAGCACG-1,CD8 T,IFNg,train
+AACCATGGTCAGAGGT-1,CD8 T,IFNg,train
+CAGATCACAGAGCCAA-1,CD8 T,IFNg,train
+GACGGCTAGCCAGAAC-1,CD8 T,IFNg,train
+AGCTCTCTCACGAAGG-1,CD8 T,IFNg,train
+ACATCAGGTGAGTGAC-1,CD8 T,IFNg,train
+AGACGTTAGTCTTGCA-1,CD8 T,IFNg,train
+CATCAAGGTTCGTGAT-1,CD8 T,IFNg,train
+TGAGCATCATACTACG-1,CD8 T,IFNg,train
+CTCTACGTCTGTGCAA-1,CD8 T,IFNg,train
+GGAATAACATAAGACA-1,CD8 T,IFNg,train
+CGCTGGAAGGAGCGTT-1,CD8 T,IFNg,train
+GGGAATGAGACAGAGA-1,CD8 T,IFNg,train
+AAGGTTCAGGATGGTC-1,CD8 T,IFNg,train
+CGACCTTAGAGTCTGG-1,CD8 T,IFNg,train
+GGCTCGACAAGAGTCG-1,CD8 T,IFNg,train
+GCATACAAGACCACGA-1,CD8 T,IFNg,train
+CTAACTTTCTGACCTC-1,CD8 T,IFNg,train
+ACTGCTCCATCCTAGA-1,CD8 T,IFNg,train
+CCCAGTTCAGTCGTGC-1,CD8 T,IFNg,train
+CGAACATGTCACCCAG-1,CD8 T,IFNg,train
+ATCCACCCACGCCAGT-1,CD8 T,IFNg,train
+CAAGAAAAGTACACCT-1,CD8 T,IFNg,train
+TACAGTGCAGCTGGCT-1,CD8 T,IFNg,train
+GTGAAGGAGATGTTAG-1,CD8 T,IFNg,train
+GAAATGATCACCCGAG-1,CD8 T,IFNg,train
+CCACTACTCGGCATCG-1,CD8 T,IFNg,train
+AAGGCAGGTCTAGCCG-1,CD8 T,IFNg,train
+CCTAGCTAGGAGTAGA-1,CD8 T,IFNg,train
+GCAGTTATCGTTGCCT-1,CD8 T,IFNg,train
+CATATGGTCCTTGACC-1,CD8 T,IFNg,train
+TTGCGTCCACAAGTAA-1,CD8 T,IFNg,train
+AGAGTGGCACCTGGTG-1,CD8 T,IFNg,train
+CTAATGGCAATAGCAA-1,CD8 T,IFNg,train
+GATCGTATCGAATCCA-1,CD8 T,IFNg,train
+GCACATAAGATAGGAG-1,CD8 T,IFNg,train
+AAGACCTCATCTCGCT-1,CD8 T,IFNg,train
+CTTACCGGTCATTAGC-1,CD8 T,IFNg,train
+GGACAAGTCTCTAAGG-1,CD8 T,IFNg,train
+ACTGAACCACGGACAA-1,CD8 T,IFNg,train
+GGTGTTAGTATAAACG-1,CD8 T,IFNg,train
+CCTTCCCTCTTGCAAG-1,CD8 T,IFNg,train
+TTCTCAAGTACTTCTT-1,CD8 T,IFNg,train
+CACAGTAAGCCACCTG-1,CD8 T,IFNg,train
+GTATTCTGTCGAATCT-1,CD8 T,IFNg,train
+GCGACCAGTTACCGAT-1,CD8 T,IFNg,train
+GGCTGGTAGGCTATCT-1,CD8 T,IFNg,train
+GACGTTACAGTCGTGC-1,CD8 T,IFNg,train
+ATAACGCGTCGGCACT-1,CD8 T,IFNg,train
+CTAATGGCAATGCCAT-1,CD8 T,IFNg,train
+ATAAGAGAGAAGGGTA-1,CD8 T,IFNg,train
+GCAAACTCACCTATCC-1,CD8 T,IFNg,train
+CTGCCTACACGGTGTC-1,CD8 T,IFNg,train
+AGAGCTTAGTATGACA-1,CD8 T,IFNg,train
+CAACTAGTCTACTATC-1,CD8 T,IFNg,train
+CTTAGGACAAATACAG-1,CD8 T,IFNg,train
+ATTACTCGTTGGTTTG-1,CD8 T,IFNg,train
+TCTGGAACACACGCTG-1,CD8 T,IFNg,train
+TCACAAGGTCCTGCTT-1,CD8 T,IFNg,train
+ATCACGATCTCCTATA-1,CD8 T,IFNg,train
+TGCTACCTCCACGACG-1,CD8 T,IFNg,train
+GCGGGTTAGAAACGAG-1,CD8 T,IFNg,train
+CCTACCATCTTCGGTC-1,CD8 T,IFNg,train
+GCGCGATAGCGTCAAG-1,CD8 T,IFNg,train
+ACGATGTAGTGAAGTT-1,CD8 T,IFNg,train
+CCTAGCTAGCCAGGAT-1,CD8 T,IFNg,train
+GGCGACTGTGGTAACG-1,CD8 T,IFNg,train
+TTGAACGTCCAGAAGG-1,CD8 T,IFNg,train
+ACGATACCAGGTCTCG-1,CD8 T,IFNg,train
+CAAGGCCCAGCCTTTC-1,CD8 T,IFNg,train
+GTGTGCGCATTCACTT-1,CD8 T,IFNg,train
+ATTTCTGGTACTTAGC-1,CD8 T,IFNg,train
+CAGCTGGGTGGTTTCA-1,CD8 T,IFNg,train
+TATCAGGGTGCCTGTG-1,CD8 T,IFNg,train
+CGGGTCAGTCTCTCTG-1,CD8 T,IFNg,train
+TCAGATGCATTATCTC-1,CD8 T,IFNg,train
+TTTGGTTAGTGTCCCG-1,CD8 T,IFNg,train
+TGCACCTAGAGCAATT-1,CD8 T,IFNg,train
+CAACTAGGTCAGCTAT-1,CD8 T,IFNg,train
+CATGGCGGTAAGTAGT-1,CD8 T,IFNg,train
+GGTGTTAAGAATGTGT-1,CD8 T,IFNg,train
+CTTTGCGCACTTAAGC-1,CD8 T,IFNg,train
+GGAAAGCTCATGGTCA-1,CD8 T,IFNg,train
+GTAGTCAGTGACTACT-1,CD8 T,IFNg,train
+GGACATTAGACCGGAT-1,CD8 T,IFNg,train
+CCACCTATCTGTTGAG-1,CD8 T,IFNg,train
+ACACCAATCATTCACT-1,CD8 T,IFNg,train
+CCAATCCCATCATCCC-1,CD8 T,IFNg,train
+TCATTACCACAGACTT-1,CD8 T,IFNg,train
+ACTTTCATCCATGAAC-1,CD8 T,IFNg,train
+CCAGCGACATATACCG-1,CD8 T,IFNg,train
+CGATTGATCGCATGAT-1,CD8 T,IFNg,train
+ACACTGACAAGTTAAG-1,CD8 T,IFNg,train
+ACATCAGGTATAAACG-1,CD8 T,IFNg,train
+GCTTGAACATTCACTT-1,CD8 T,IFNg,train
+TGCACCTCACGAGGTA-1,CD8 T,IFNg,train
+ACATACGCAATTGCTG-1,CD8 T,IFNg,train
+CCTTCGAGTAAACGCG-1,CD8 T,IFNg,train
+GTGTTAGAGAAGGACA-1,CD8 T,IFNg,train
+GCTCCTAGTTTCCACC-1,CD8 T,IFNg,train
+CGATGGCAGGGAAACA-1,CD8 T,IFNg,train
+TAAGAGACAGCTGGCT-1,CD8 T,IFNg,train
+ACGATACGTCGCGAAA-1,CD8 T,IFNg,train
+TGACGGCGTGCCTGCA-1,CD8 T,IFNg,train
+TAGCCGGCAATGTAAG-1,CD8 T,IFNg,train
+CATCAAGCATCCCATC-1,CD8 T,IFNg,train
+CGGAGTCCACACAGAG-1,CD8 T,IFNg,train
+TTAGTTCTCGCCAAAT-1,CD8 T,IFNg,train
+TTCTACAGTGTAATGA-1,CD8 T,IFNg,train
+AGGTCCGAGGCGCTCT-1,CD8 T,IFNg,train
+AACTCAGGTAGGGACT-1,CD8 T,IFNg,train
+CTGCCTAGTTAGAACA-1,CD8 T,IFNg,train
+GAACCTAAGGGAGTAA-1,CD8 T,IFNg,train
+GCTGCTTAGTGGCACA-1,CD8 T,IFNg,train
+TTAACTCTCGGTTCGG-1,CD8 T,IFNg,train
+TGCGCAGTCATCATTC-1,CD8 T,IFNg,train
+ATCATCTAGTGGCACA-1,CD8 T,IFNg,train
+TGTATTCAGAGCTGGT-1,CD8 T,IFNg,train
+TTCTTAGCAGTATCTG-1,CD8 T,IFNg,train
+CTAATGGAGTACGCGA-1,CD8 T,IFNg,train
+CCTATTACACCGCTAG-1,CD8 T,IFNg,train
+GTGCTTCGTACTTGAC-1,CD8 T,IFNg,train
+TGACGGCGTACTTCTT-1,CD8 T,IFNg,train
+TCATTTGTCACCGTAA-1,CD8 T,IFNg,train
+TGGGAAGCACAAGACG-1,CD8 T,IFNg,train
+CGCTGGATCTTGACGA-1,CD8 T,IFNg,train
+CGCCAAGAGCAGACTG-1,CD8 T,IFNg,train
+TGACGGCTCGGCGCTA-1,CD8 T,IFNg,train
+ATCCGAAAGAACAACT-1,CD8 T,IFNg,train
+TGACTTTAGGTGTTAA-1,CD8 T,IFNg,train
+AACGTTGGTAAGCACG-1,CD8 T,IFNg,train
+TCATTACGTTGGAGGT-1,CD8 T,IFNg,train
+CGATGGCGTGACGGTA-1,CD8 T,IFNg,train
+GGGACCTAGGCTCATT-1,CD8 T,IFNg,train
+GTGCTTCCACATGACT-1,CD8 T,IFNg,train
+CATCGGGAGCGATGAC-1,CD8 T,IFNg,validation
+CGATGTAGTGCCTTGG-1,CD8 T,IFNg,validation
+ATAAGAGCACAGGTTT-1,CD8 T,IFNg,validation
+TCAGGTAAGACCTTTG-1,CD8 T,IFNg,validation
+TTGCGTCCACAACGCC-1,CD8 T,IFNg,validation
+GTGCTTCAGCGCTCCA-1,CD8 T,IFNg,validation
+TCTATTGTCCGTCATC-1,CD8 T,IFNg,validation
+GACTAACGTAAACACA-1,CD8 T,IFNg,validation
+CCAATCCGTAAGAGAG-1,CD8 T,IFNg,validation
+ACATGGTAGGTGCAAC-1,CD8 T,IFNg,validation
+ACAGCCGCAGCCTTTC-1,CD8 T,IFNg,validation
+AAGTCTGTCCGAACGC-1,CD8 T,IFNg,validation
+GTAACTGTCGCGCCAA-1,CD8 T,IFNg,validation
+CGATCGGTCGCGGATC-1,CD8 T,IFNg,validation
+ACGATGTCAGTGAGTG-1,CD8 T,IFNg,validation
+GACAGAGCATACTACG-1,CD8 T,IFNg,validation
+GCAGCCACACCCAGTG-1,CD8 T,IFNg,validation
+CATCAGAAGCAGATCG-1,CD8 T,IFNg,validation
+CTACCCACAGACGCAA-1,CD8 T,IFNg,validation
+GCACATAGTCTAGAGG-1,CD8 T,IFNg,validation
+GATGAGGAGTACGACG-1,CD8 T,IFNg,validation
+AGGTCATTCATCTGTT-1,CD8 T,IFNg,validation
+AAGGAGCTCTTATCTG-1,CD8 T,IFNg,validation
+AAACCTGCACCCTATC-1,CD8 T,IFNg,validation
+ACCAGTACAGTAAGAT-1,CD8 T,IFNg,validation
+CTAACTTGTCTGATCA-1,CD8 T,IFNg,validation
+CCGTGGAAGAAGAAGC-1,CD8 T,IFNg,validation
+TTAGGACCAATGACCT-1,CD8 T,IFNg,validation
+CAGCTGGGTCGTGGCT-1,CD8 T,IFNg,validation
+TCGGGACAGAGTCGGT-1,CD8 T,IFNg,validation
+TCCACACGTCTAGGTT-1,CD8 T,IFNg,validation
+ATCTGCCGTTAAGAAC-1,CD8 T,IFNg,validation
+GTTACAGTCCGATATG-1,CD8 T,IFNg,validation
+CAGCGACAGGAATTAC-1,CD8 T,IFNg,validation
+ACTGTCCTCATCGCTC-1,CD8 T,IFNg,validation
+GTGCAGCCACATAACC-1,CD8 T,IFNg,validation
+GTCCTCATCGCCTGTT-1,CD8 T,IFNg,validation
+TATCAGGAGCAATCTC-1,CD8 T,IFNg,validation
+TGACGGCAGGCTAGGT-1,CD8 T,IFNg,validation
+CACCAGGAGGGATGGG-1,CD8 T,IFNg,validation
+CAACCTCAGCCAGGAT-1,CD8 T,IFNg,validation
+TCTGGAATCACTCCTG-1,CD8 T,IFNg,validation
+AGAGCTTCAGCATGAG-1,CD8 T,IFNg,validation
+GCGGGTTAGTGTTGAA-1,CD8 T,IFNg,validation
+GGACAAGCACTAGTAC-1,CD8 T,IFNg,validation
+AACACGTAGGCCCGTT-1,CD8 T,IFNg,validation
+GCGAGAAAGTAGCCGA-1,CD8 T,IFNg,validation
+AGTCTTTCATTACCTT-1,CD8 T,IFNg,validation
+GTACGTATCTAACTCT-1,CD8 T,IFNg,validation
+TAGACCATCCTTTCGG-1,CD8 T,IFNg,test
+CCCAGTTGTACATCCA-1,CD8 T,IFNg,test
+TAGTGGTTCTCGAGTA-1,CD8 T,IFNg,test
+AAAGATGGTTGCGTTA-1,CD8 T,IFNg,test
+TCGGTAAGTACTTCTT-1,CD8 T,IFNg,test
+TAGTTGGAGATGTAAC-1,CD8 T,IFNg,test
+CGAATGTGTTCCACAA-1,CD8 T,IFNg,test
+GTCATTTTCCGCATAA-1,CD8 T,IFNg,test
+ACCGTAACAGACAGGT-1,CD8 T,IFNg,test
+GGAGCAATCGATGAGG-1,CD8 T,IFNg,test
+TCTGAGACAGTGAGTG-1,CD8 T,IFNg,test
+CATCAGAAGCAATCTC-1,CD8 T,IFNg,test
+GACCAATAGAGATGAG-1,CD8 T,IFNg,test
+TCAATCTGTTAGGGTG-1,CD8 T,IFNg,test
+AACTCAGCATAGGATA-1,CD8 T,IFNg,test
+TCAACGATCTGCGACG-1,CD8 T,IFNg,test
+GCTCCTAAGTGGTCCC-1,CD8 T,IFNg,test
+CGTTGGGTCTGAGTGT-1,CD8 T,IFNg,test
+TCCCGATCATAAGACA-1,CD8 T,IFNg,test
+GTCAAGTGTTTGTGTG-1,CD8 T,IFNg,test
+TAAGTGCCACGCCAGT-1,CD8 T,IFNg,test
+GACACGCGTTCCTCCA-1,CD8 T,IFNg,test
+TCTTTCCGTCGAAAGC-1,CD8 T,IFNg,test
+GGAAAGCTCCGCTGTT-1,CD8 T,IFNg,test
+ATCGAGTAGACTAGAT-1,CD8 T,IFNg,test
+CGGAGCTTCATAAAGG-1,CD8 T,IFNg,test
+GTAGGCCAGACTAGGC-1,CD8 T,IFNg,test
+TTGCGTCAGATAGGAG-1,CD8 T,IFNg,test
+CGTAGCGAGTCTTGCA-1,CD8 T,IFNg,test
+TAGTGGTAGACACTAA-1,CD8 T,IFNg,test
+CGTCTACTCATGTGGT-1,CD8 T,IFNg,test
+GCTCTGTAGTGGTCCC-1,CD8 T,IFNg,test
+TTTACTGTCAGTTGAC-1,CD8 T,IFNg,test
+CTAACTTAGCCAACAG-1,CD8 T,IFNg,test
+GTTCGGGGTACTTCTT-1,CD8 T,IFNg,test
+GATCAGTAGTGCGTGA-1,CD8 T,IFNg,test
+GGCAATTCACCGAATT-1,CD8 T,IFNg,test
+ACATCAGAGACGCACA-1,CD8 T,IFNg,test
+GGGATGACACTATCTT-1,CD8 T,IFNg,test
+AGATTGCCAATCACAC-1,CD8 T,IFNg,test
+AGCGTATGTAAGAGAG-1,CD8 T,IFNg,test
+AGGTCCGTCTTTAGTC-1,CD8 T,IFNg,test
+CGTTGGGCATGACATC-1,CD8 T,IFNg,test
+ACAGCTATCGACGGAA-1,CD8 T,IFNg,test
+GATCGCGGTCTTCGTC-1,CD8 T,IFNg,test
+GCACATAAGATGAGAG-1,CD8 T,IFNg,test
+TGTCCCACAATAGCGG-1,CD8 T,IFNg,test
+CCCATACTCCTTGCCA-1,CD8 T,IFNg,test
+GGAGCAACATGCGCAC-1,CD8 T,IFNg,test
+TTGCCGTCACCTCGGA-1,Monocyte,No stimulation,train
+GGAGCAAAGAGTACAT-1,Monocyte,No stimulation,train
+GTTCGGGGTCATACTG-1,Monocyte,No stimulation,train
+AAGCCGCCAAACCTAC-1,Monocyte,No stimulation,train
+ACGAGGATCGGCTACG-1,Monocyte,No stimulation,train
+ACTGAGTAGGTGCTTT-1,Monocyte,No stimulation,train
+GACGTGCAGTGAAGTT-1,Monocyte,No stimulation,train
+GGCGACTAGGAGTCTG-1,Monocyte,No stimulation,train
+CACATAGTCTTCTGGC-1,Monocyte,No stimulation,train
+GTAACGTAGGCCCGTT-1,Monocyte,No stimulation,train
+GGCGACTTCATGGTCA-1,Monocyte,No stimulation,train
+GCATACAAGCGTTGCC-1,Monocyte,No stimulation,train
+CCGTTCAGTTTGACTG-1,Monocyte,No stimulation,train
+ATGTGTGCATAAGACA-1,Monocyte,No stimulation,train
+GTCCTCAAGCGCCTCA-1,Monocyte,No stimulation,train
+AAATGCCAGTACCGGA-1,Monocyte,No stimulation,train
+GAAGCAGAGTGGACGT-1,Monocyte,No stimulation,train
+TCACAAGCAGACGCCT-1,Monocyte,No stimulation,train
+TACGGATGTGTGGTTT-1,Monocyte,No stimulation,train
+TACAGTGCATACCATG-1,Monocyte,No stimulation,train
+ATCCACCAGTTGTCGT-1,Monocyte,No stimulation,train
+AGCCTAAGTATCTGCA-1,Monocyte,No stimulation,train
+AAGTCTGGTGTCCTCT-1,Monocyte,No stimulation,train
+CAGATCAAGTATCGAA-1,Monocyte,No stimulation,train
+GGCCGATGTATAAACG-1,Monocyte,No stimulation,train
+TAAGTGCGTTCCATGA-1,Monocyte,No stimulation,train
+CACAAACCACAAGCCC-1,Monocyte,No stimulation,train
+TTCTCAAAGTTATCGC-1,Monocyte,No stimulation,train
+AAGCCGCGTAAACGCG-1,Monocyte,No stimulation,train
+TCGCGAGAGCGATTCT-1,Monocyte,No stimulation,train
+TACGGGCCAGCCACCA-1,Monocyte,No stimulation,train
+TCGGTAATCCCTTGTG-1,Monocyte,No stimulation,train
+GTAGTCAAGCGGATCA-1,Monocyte,No stimulation,train
+CACAGTATCGAGGTAG-1,Monocyte,No stimulation,train
+GGGAATGTCAGGTAAA-1,Monocyte,No stimulation,train
+TAGCCGGGTCAAAGAT-1,Monocyte,No stimulation,train
+CAGCATAAGAATGTGT-1,Monocyte,No stimulation,train
+CCACTACGTTGAACTC-1,Monocyte,No stimulation,train
+ACTTACTCATCCGCGA-1,Monocyte,No stimulation,train
+GCATGTAAGACCTTTG-1,Monocyte,No stimulation,train
+ATAACGCTCCGCATAA-1,Monocyte,No stimulation,train
+GGTGCGTGTACGCTGC-1,Monocyte,No stimulation,train
+GTGCATACAGCCAATT-1,Monocyte,No stimulation,train
+GAACCTATCTTGTTTG-1,Monocyte,No stimulation,train
+CGACTTCGTGCCTGCA-1,Monocyte,No stimulation,train
+ACGATGTGTAAGTAGT-1,Monocyte,No stimulation,train
+CTTTGCGAGAATTCCC-1,Monocyte,No stimulation,train
+TGTGTTTCACAACTGT-1,Monocyte,No stimulation,train
+CATCAAGTCAGATAAG-1,Monocyte,No stimulation,train
+ATCATCTCATTACCTT-1,Monocyte,No stimulation,train
+ACCGTAATCGTTACGA-1,Monocyte,No stimulation,train
+GCTGGGTGTCAACTGT-1,Monocyte,No stimulation,train
+GCATGTAGTCCTAGCG-1,Monocyte,No stimulation,train
+GGAAAGCAGGACTGGT-1,Monocyte,No stimulation,train
+GAACGGAGTAGAGGAA-1,Monocyte,No stimulation,train
+CGGACGTCAAGGTTCT-1,Monocyte,No stimulation,train
+CAGCAGCAGTGTTGAA-1,Monocyte,No stimulation,train
+CCCAATCCATTATCTC-1,Monocyte,No stimulation,train
+AGTGGGACAGTTAACC-1,Monocyte,No stimulation,train
+CTTTGCGGTAGCTGCC-1,Monocyte,No stimulation,train
+TTTGTCAAGTCTCGGC-1,Monocyte,No stimulation,train
+ACGGGCTTCGGTCTAA-1,Monocyte,No stimulation,train
+CCATTCGGTTATGTGC-1,Monocyte,No stimulation,train
+TTTACTGCACTTAAGC-1,Monocyte,No stimulation,train
+GAACGGAAGCCGATTT-1,Monocyte,No stimulation,train
+AGGGAGTCAAGTCTGT-1,Monocyte,No stimulation,train
+CCTAAAGCAGTAGAGC-1,Monocyte,No stimulation,train
+ACACCGGGTCCAGTAT-1,Monocyte,No stimulation,train
+GATCGTATCGCCCTTA-1,Monocyte,No stimulation,train
+TGGTTAGGTTTACTCT-1,Monocyte,No stimulation,train
+AGGGAGTAGGTGTGGT-1,Monocyte,No stimulation,train
+CGTCACTAGAGCTTCT-1,Monocyte,No stimulation,train
+TTAGTTCCAGCTCCGA-1,Monocyte,No stimulation,train
+AAGACCTCAAGCTGGA-1,Monocyte,No stimulation,train
+TGGGCGTTCGTACGGC-1,Monocyte,No stimulation,train
+GGGCACTGTACCGAGA-1,Monocyte,No stimulation,train
+TGGACGCAGTTTCCTT-1,Monocyte,No stimulation,train
+TCAACGACAGATGGCA-1,Monocyte,No stimulation,train
+ATGTGTGGTTTGACAC-1,Monocyte,No stimulation,train
+TGAGCATCAGATAATG-1,Monocyte,No stimulation,train
+CGTCAGGCACCGTTGG-1,Monocyte,No stimulation,train
+TGACTAGGTGTTTGGT-1,Monocyte,No stimulation,train
+CCGTGGACAGTCGATT-1,Monocyte,No stimulation,train
+ACTGAACGTGTGACCC-1,Monocyte,No stimulation,train
+ACGTCAAGTTCTGGTA-1,Monocyte,No stimulation,train
+CAGAGAGCATGGTAGG-1,Monocyte,No stimulation,train
+ACTTTCAGTCCGAAGA-1,Monocyte,No stimulation,train
+CTCATTAGTGTGCCTG-1,Monocyte,No stimulation,train
+GAAATGAAGAGTGACC-1,Monocyte,No stimulation,train
+CTAATGGCAGAGTGTG-1,Monocyte,No stimulation,train
+ACAGCCGTCAACACAC-1,Monocyte,No stimulation,train
+CGACCTTCAAGTTGTC-1,Monocyte,No stimulation,train
+TACCTATAGGATGCGT-1,Monocyte,No stimulation,train
+ACTGTCCTCCCTAATT-1,Monocyte,No stimulation,train
+CTCTAATCACCCAGTG-1,Monocyte,No stimulation,train
+GGGAGATAGCCACGTC-1,Monocyte,No stimulation,train
+GCAATCATCCAAGTAC-1,Monocyte,No stimulation,train
+CATCCACGTCTCATCC-1,Monocyte,No stimulation,train
+CCATTCGGTGATGCCC-1,Monocyte,No stimulation,train
+CGACCTTTCCTATGTT-1,Monocyte,No stimulation,train
+GTATTCTTCAGCTCGG-1,Monocyte,No stimulation,train
+CCGGTAGAGTGTCCAT-1,Monocyte,No stimulation,train
+CCTACACTCCGCTGTT-1,Monocyte,No stimulation,train
+CAACCAACAGTTTACG-1,Monocyte,No stimulation,train
+CATATGGTCCTCTAGC-1,Monocyte,No stimulation,train
+GGGATGACACAACTGT-1,Monocyte,No stimulation,train
+ACACCGGAGAATCTCC-1,Monocyte,No stimulation,train
+ATCGAGTAGTAAGTAC-1,Monocyte,No stimulation,train
+GCTGCAGGTACCGAGA-1,Monocyte,No stimulation,train
+GCGACCAGTTCCACTC-1,Monocyte,No stimulation,train
+GCGCAACGTAGGGTAC-1,Monocyte,No stimulation,train
+TTAACTCTCTTGTATC-1,Monocyte,No stimulation,train
+TCTATTGCATCCCACT-1,Monocyte,No stimulation,train
+GTTCATTAGGCTCAGA-1,Monocyte,No stimulation,train
+CGATGGCCAAACGCGA-1,Monocyte,No stimulation,train
+GGACAAGTCTAACGGT-1,Monocyte,No stimulation,train
+CTCGTCATCTGAGTGT-1,Monocyte,No stimulation,train
+CCTTCCCTCGATGAGG-1,Monocyte,No stimulation,train
+TGCTACCTCTGTACGA-1,Monocyte,No stimulation,train
+AGTGAGGGTTCCAACA-1,Monocyte,No stimulation,train
+TTATGCTGTCCGAGTC-1,Monocyte,No stimulation,train
+TGACTAGGTGTTTGTG-1,Monocyte,No stimulation,train
+TCCCGATAGGTAGCCA-1,Monocyte,No stimulation,train
+ACAGCCGAGGCCATAG-1,Monocyte,No stimulation,train
+TTTCCTCGTTGAGGTG-1,Monocyte,No stimulation,train
+GAGCAGATCTCAACTT-1,Monocyte,No stimulation,train
+AGGTCATTCGTTACGA-1,Monocyte,No stimulation,train
+TTTATGCAGTACGACG-1,Monocyte,No stimulation,train
+AGGGTGAGTTCACGGC-1,Monocyte,No stimulation,train
+ATCATGGCACGCTTTC-1,Monocyte,No stimulation,train
+ATTGGACTCTCAACTT-1,Monocyte,No stimulation,train
+TTAGGACCACTAAGTC-1,Monocyte,No stimulation,train
+CTCGAAAAGAATCTCC-1,Monocyte,No stimulation,train
+AAGACCTAGAATTCCC-1,Monocyte,No stimulation,train
+CGTGTCTGTCGCATCG-1,Monocyte,No stimulation,train
+GCGGGTTGTGTAACGG-1,Monocyte,No stimulation,train
+TGGGCGTGTACAGACG-1,Monocyte,No stimulation,train
+TTGTAGGAGGGTTCCC-1,Monocyte,No stimulation,train
+CTGAAACAGTTGTCGT-1,Monocyte,No stimulation,train
+CATATTCTCACCCGAG-1,Monocyte,No stimulation,train
+GTGTTAGTCCATTCTA-1,Monocyte,No stimulation,train
+TTCTTAGCATGCAATC-1,Monocyte,No stimulation,train
+AGTCTTTGTCAGAGGT-1,Monocyte,No stimulation,train
+AACACGTGTCTCCATC-1,Monocyte,No stimulation,train
+GCTTGAATCTGCGTAA-1,Monocyte,No stimulation,train
+TTAGGCAGTGTTCGAT-1,Monocyte,No stimulation,train
+GCAATCATCCCACTTG-1,Monocyte,No stimulation,train
+AGCATACTCAGCCTAA-1,Monocyte,No stimulation,train
+TGAGGGAGTCGGATCC-1,Monocyte,No stimulation,train
+TGCTACCAGCTTTGGT-1,Monocyte,No stimulation,train
+ACCCACTCACGGTAGA-1,Monocyte,No stimulation,train
+GTACGTAGTACGACCC-1,Monocyte,No stimulation,train
+AAACCTGAGTGGAGTC-1,Monocyte,No stimulation,train
+CTCTGGTTCAGTTAGC-1,Monocyte,No stimulation,train
+TAAGCGTAGATACACA-1,Monocyte,No stimulation,train
+ATTATCCAGTGTGAAT-1,Monocyte,No stimulation,train
+TGGCCAGGTCTGGAGA-1,Monocyte,No stimulation,train
+TTTGGTTTCCTATGTT-1,Monocyte,No stimulation,train
+TCTCATAAGACAGGCT-1,Monocyte,No stimulation,train
+GAACATCTCCTCAATT-1,Monocyte,No stimulation,train
+TCTGAGAGTTACCGAT-1,Monocyte,No stimulation,train
+GACTGCGGTTCGGGCT-1,Monocyte,No stimulation,train
+GGATGTTGTTCCTCCA-1,Monocyte,No stimulation,train
+TGGTTCCGTAAGTAGT-1,Monocyte,No stimulation,train
+AAGACCTAGAGTAATC-1,Monocyte,No stimulation,train
+GTAACGTGTTGTGGAG-1,Monocyte,No stimulation,train
+TACTCATCAGAAGCAC-1,Monocyte,No stimulation,train
+CACAAACTCGCGTAGC-1,Monocyte,No stimulation,train
+CTCATTAGTACCGTAT-1,Monocyte,No stimulation,train
+TTGCGTCCAAGCCGCT-1,Monocyte,No stimulation,train
+TTTCCTCGTAAGGATT-1,Monocyte,No stimulation,train
+CGTGTCTAGTCTTGCA-1,Monocyte,No stimulation,train
+GGGAGATCAACGCACC-1,Monocyte,No stimulation,train
+AGATTGCGTCCGAACC-1,Monocyte,No stimulation,train
+TTTGTCACACGAAATA-1,Monocyte,No stimulation,train
+CGAATGTCAGACAAGC-1,Monocyte,No stimulation,train
+GATGAGGGTTAAGAAC-1,Monocyte,No stimulation,train
+GCACTCTCAATAACGA-1,Monocyte,No stimulation,train
+TAGGCATGTCAAGCGA-1,Monocyte,No stimulation,train
+AAGGAGCGTGATGTCT-1,Monocyte,No stimulation,train
+TGAGCCGGTCGAGATG-1,Monocyte,No stimulation,train
+CGATGGCGTAGCGCTC-1,Monocyte,No stimulation,train
+CGTTGGGAGAGCTGCA-1,Monocyte,No stimulation,train
+TCGAGGCGTATGAATG-1,Monocyte,No stimulation,train
+CATATTCTCCACGTTC-1,Monocyte,No stimulation,train
+GCACTCTTCTGATTCT-1,Monocyte,No stimulation,train
+ACTGCTCCAGCGATCC-1,Monocyte,No stimulation,train
+ACATACGTCAACGCTA-1,Monocyte,No stimulation,train
+AAGGAGCCAAACCCAT-1,Monocyte,No stimulation,train
+ATCATCTTCAACGGCC-1,Monocyte,No stimulation,train
+CATGCCTAGAGTGACC-1,Monocyte,No stimulation,train
+GGTGTTAGTCAATGTC-1,Monocyte,No stimulation,train
+GGATTACCACCTCGGA-1,Monocyte,No stimulation,train
+CGTTCTGCAGTAAGCG-1,Monocyte,No stimulation,train
+CGAGCCATCGAACGGA-1,Monocyte,No stimulation,train
+AGTGAGGTCTGCTTGC-1,Monocyte,No stimulation,train
+GTATTCTTCAGCTGGC-1,Monocyte,No stimulation,train
+TTTGCGCAGTGCGTGA-1,Monocyte,No stimulation,train
+GACGTTACAGGCTCAC-1,Monocyte,No stimulation,train
+TGCCCTAGTGATGTGG-1,Monocyte,No stimulation,train
+TACTCATAGCATCATC-1,Monocyte,No stimulation,train
+AACTCCCCATGTTCCC-1,Monocyte,No stimulation,train
+TGCGTGGGTCAGAGGT-1,Monocyte,No stimulation,train
+TCCACACGTTGAGTTC-1,Monocyte,No stimulation,train
+TATCTCAGTACAGTGG-1,Monocyte,No stimulation,train
+TTCTCAAGTTAGATGA-1,Monocyte,No stimulation,train
+TGGACGCGTCCTCTTG-1,Monocyte,No stimulation,train
+CGTAGCGGTACTTAGC-1,Monocyte,No stimulation,train
+TGGCTGGCATGAGCGA-1,Monocyte,No stimulation,train
+GACGGCTAGCCTATGT-1,Monocyte,No stimulation,train
+CCGGTAGTCGCACTCT-1,Monocyte,No stimulation,train
+GGGAGATCAAAGCAAT-1,Monocyte,No stimulation,train
+TATTACCTCAATCACG-1,Monocyte,No stimulation,train
+ACGCCAGTCTCCGGTT-1,Monocyte,No stimulation,train
+CAGCATACACGAAACG-1,Monocyte,No stimulation,train
+TGCTACCAGCGTCAAG-1,Monocyte,No stimulation,train
+GTAACGTCAATGCCAT-1,Monocyte,No stimulation,train
+TAGTTGGAGGGATACC-1,Monocyte,No stimulation,train
+TGCCCATGTCAACTGT-1,Monocyte,No stimulation,train
+AACCGCGGTACTTCTT-1,Monocyte,No stimulation,train
+TACACGAGTCTAGTGT-1,Monocyte,No stimulation,train
+GGACAGAAGTGGGATC-1,Monocyte,No stimulation,train
+CGCTATCCACGGCTAC-1,Monocyte,No stimulation,train
+ACGCAGCCAGTGACAG-1,Monocyte,No stimulation,train
+ATGCGATCAAGAGTCG-1,Monocyte,No stimulation,train
+GAATAAGAGACAGACC-1,Monocyte,No stimulation,train
+TGACTTTCAAGAGTCG-1,Monocyte,No stimulation,train
+CATGCCTTCAATACCG-1,Monocyte,No stimulation,train
+TTCGAAGTCCGCTGTT-1,Monocyte,No stimulation,train
+CAGCAGCAGACAGACC-1,Monocyte,No stimulation,train
+GAACATCTCACTTACT-1,Monocyte,No stimulation,train
+AGCAGCCCATACTACG-1,Monocyte,No stimulation,train
+CCGTACTGTCAAACTC-1,Monocyte,No stimulation,train
+CTCTACGGTCGTTGTA-1,Monocyte,No stimulation,train
+TCAACGATCTCCAGGG-1,Monocyte,No stimulation,train
+AGCGGTCGTCCGAAGA-1,Monocyte,No stimulation,train
+AGGCCACCATCCGTGG-1,Monocyte,No stimulation,train
+AGGGATGCACAGAGGT-1,Monocyte,No stimulation,train
+CATTCGCTCTGTACGA-1,Monocyte,No stimulation,train
+ATTTCTGAGCAATCTC-1,Monocyte,No stimulation,train
+CGATGGCGTGTGTGCC-1,Monocyte,No stimulation,train
+CTCCTAGGTTCGTCTC-1,Monocyte,No stimulation,train
+CGACCTTTCTCCGGTT-1,Monocyte,No stimulation,train
+GCGGGTTTCGGACAAG-1,Monocyte,No stimulation,train
+TTATGCTGTAGTGAAT-1,Monocyte,No stimulation,train
+TAGACCACAGGAATGC-1,Monocyte,No stimulation,train
+CGGGTCACACATTAGC-1,Monocyte,No stimulation,train
+GTCAAGTCAGTCAGAG-1,Monocyte,No stimulation,train
+TGACAACGTGGCAAAC-1,Monocyte,No stimulation,train
+CTTAGGAAGCGTTGCC-1,Monocyte,No stimulation,train
+AGCGTATAGTACGACG-1,Monocyte,No stimulation,train
+TCTTTCCTCTGCGTAA-1,Monocyte,No stimulation,train
+TACACGATCGAACGGA-1,Monocyte,No stimulation,train
+CGGACGTAGAGTCTGG-1,Monocyte,No stimulation,train
+TGTGTTTAGCGCCTCA-1,Monocyte,No stimulation,train
+AAGTCTGTCGGCGCTA-1,Monocyte,No stimulation,train
+AGCAGCCCATAGAAAC-1,Monocyte,No stimulation,train
+AGTAGTCAGTGGAGAA-1,Monocyte,No stimulation,train
+GCACTCTTCTCGATGA-1,Monocyte,No stimulation,train
+AGAGCGAGTCAGCTAT-1,Monocyte,No stimulation,train
+TGACTAGAGATGTTAG-1,Monocyte,No stimulation,train
+TGATTTCCAGGCGATA-1,Monocyte,No stimulation,train
+TGATTTCCATTGAGCT-1,Monocyte,No stimulation,train
+CGTCCATAGTAGGTGC-1,Monocyte,No stimulation,train
+CTCGTACAGATGTGGC-1,Monocyte,No stimulation,train
+ACTGAACAGACCTAGG-1,Monocyte,No stimulation,train
+GCGCCAACACCAGATT-1,Monocyte,No stimulation,train
+GAGCAGAGTTAAGAAC-1,Monocyte,No stimulation,train
+GCTCTGTAGCGTGTCC-1,Monocyte,No stimulation,train
+GTCAAGTGTGTCCTCT-1,Monocyte,No stimulation,train
+AGGGATGCAAGTCATC-1,Monocyte,No stimulation,train
+TGGCTGGGTTCGTTGA-1,Monocyte,No stimulation,train
+GTATCTTCATGGGAAC-1,Monocyte,No stimulation,train
+AAAGTAGGTAAGGGCT-1,Monocyte,No stimulation,train
+CACCTTGTCGCGTTTC-1,Monocyte,No stimulation,train
+GTAACTGGTTTGGGCC-1,Monocyte,No stimulation,train
+AGGTCATAGATATGCA-1,Monocyte,No stimulation,train
+ACGGAGAGTACTTCTT-1,Monocyte,No stimulation,train
+GCGCAGTAGAAACCGC-1,Monocyte,No stimulation,train
+GACTAACGTACGACCC-1,Monocyte,No stimulation,train
+CATCGAACAGTGAGTG-1,Monocyte,No stimulation,train
+GATCGCGCACATCTTT-1,Monocyte,No stimulation,train
+GCACATACACGGTTTA-1,Monocyte,No stimulation,train
+TTAGTTCCACATGGGA-1,Monocyte,No stimulation,train
+TCGTAGAAGCAATATG-1,Monocyte,No stimulation,train
+CGTTCTGGTCTTCGTC-1,Monocyte,No stimulation,train
+GATGCTAGTAAGGGCT-1,Monocyte,No stimulation,train
+CAACCTCAGGTGTTAA-1,Monocyte,No stimulation,train
+ACACCGGCAGACACTT-1,Monocyte,No stimulation,train
+TTAGGACCACAGGTTT-1,Monocyte,No stimulation,train
+GACAGAGGTCTCTCTG-1,Monocyte,No stimulation,train
+CACATAGGTAGCCTCG-1,Monocyte,No stimulation,train
+GTCATTTTCAGCATGT-1,Monocyte,No stimulation,train
+AGCCTAAAGCTGATAA-1,Monocyte,No stimulation,train
+ACTTGTTTCAAACCAC-1,Monocyte,No stimulation,train
+GTGCATAGTCCAACTA-1,Monocyte,No stimulation,train
+AAGCCGCCACAACTGT-1,Monocyte,No stimulation,train
+ACGAGCCTCATTATCC-1,Monocyte,No stimulation,train
+GCGGGTTCAAGCGATG-1,Monocyte,No stimulation,train
+GATCGCGGTATGAAAC-1,Monocyte,No stimulation,train
+CAGCTGGAGATCGGGT-1,Monocyte,No stimulation,train
+CATTCGCGTAGCTAAA-1,Monocyte,No stimulation,train
+GCGAGAAGTCAGAGGT-1,Monocyte,No stimulation,train
+AATCCAGAGAAGGTTT-1,Monocyte,No stimulation,train
+GCAGCCAGTGACCAAG-1,Monocyte,No stimulation,train
+GCATGCGAGTCATCCA-1,Monocyte,No stimulation,train
+CTGGTCTGTCTAAACC-1,Monocyte,No stimulation,train
+AAAGTAGCAATCGGTT-1,Monocyte,No stimulation,train
+GGACAAGCAATGTAAG-1,Monocyte,No stimulation,train
+GATCGCGGTCAAAGCG-1,Monocyte,No stimulation,train
+TTAACTCCATTACCTT-1,Monocyte,No stimulation,train
+GTCACGGGTACCGAGA-1,Monocyte,No stimulation,train
+TTAGTTCGTAGTACCT-1,Monocyte,No stimulation,train
+ACGCCAGAGACGACGT-1,Monocyte,No stimulation,train
+GCAATCATCCAGGGCT-1,Monocyte,No stimulation,train
+CTGCTGTAGAGCTATA-1,Monocyte,No stimulation,train
+TTTGTCAAGTCGAGTG-1,Monocyte,No stimulation,train
+TCGTAGAGTCAGAGGT-1,Monocyte,No stimulation,train
+TAGACCAAGTCATGCT-1,Monocyte,No stimulation,train
+CGTGTCTCAGGTTTCA-1,Monocyte,No stimulation,train
+GATGCTAGTGCTTCTC-1,Monocyte,No stimulation,train
+GAACCTAAGCTAACTC-1,Monocyte,No stimulation,train
+ACATACGCACTTAACG-1,Monocyte,No stimulation,train
+CATGGCGAGGGATACC-1,Monocyte,No stimulation,train
+AATCGGTGTCGGCACT-1,Monocyte,No stimulation,train
+TAGACCAGTTTGTTTC-1,Monocyte,No stimulation,train
+GTATCTTGTCTTCTCG-1,Monocyte,No stimulation,train
+TCGGGACCAGGGTTAG-1,Monocyte,No stimulation,train
+ACAGCCGCAAGTCTGT-1,Monocyte,No stimulation,train
+AGCTTGAAGTACCGGA-1,Monocyte,No stimulation,train
+CTGCCTAGTGCCTGGT-1,Monocyte,No stimulation,train
+GCGCGATAGCGATCCC-1,Monocyte,No stimulation,train
+GTCATTTGTCTTCAAG-1,Monocyte,No stimulation,train
+ATTGGTGAGCCAGAAC-1,Monocyte,No stimulation,train
+AGCTCTCAGATAGCAT-1,Monocyte,No stimulation,train
+GGTATTGGTAAACCTC-1,Monocyte,No stimulation,train
+CCTACCACATATACGC-1,Monocyte,No stimulation,train
+CCGTTCAAGTGAAGAG-1,Monocyte,No stimulation,train
+GACCAATTCAAACAAG-1,Monocyte,No stimulation,train
+CTTAGGAAGTGACATA-1,Monocyte,No stimulation,train
+CCTCTGATCCTGCCAT-1,Monocyte,No stimulation,train
+AGGTCCGAGCTCAACT-1,Monocyte,No stimulation,train
+AGACGTTGTTCTGAAC-1,Monocyte,No stimulation,train
+ACCGTAACACGGCTAC-1,Monocyte,No stimulation,train
+CTACACCAGGGCACTA-1,Monocyte,No stimulation,train
+GACACGCAGATGCCTT-1,Monocyte,No stimulation,train
+TGGCCAGAGTCCGTAT-1,Monocyte,No stimulation,train
+ACGGAGAGTAGCGTGA-1,Monocyte,No stimulation,train
+AAGACCTAGTATCGAA-1,Monocyte,No stimulation,train
+CGGCTAGCAAAGCAAT-1,Monocyte,No stimulation,train
+TCGGGACCAGTGACAG-1,Monocyte,No stimulation,train
+GGACATTTCTCTGAGA-1,Monocyte,No stimulation,train
+AGATCTGTCTAACTGG-1,Monocyte,No stimulation,train
+GCTCCTAGTCTGGTCG-1,Monocyte,No stimulation,train
+TACGGGCGTGTTGGGA-1,Monocyte,No stimulation,train
+AACTGGTGTATTCGTG-1,Monocyte,No stimulation,train
+ATGGGAGTCTTGCATT-1,Monocyte,No stimulation,train
+CGTTAGATCTCGTATT-1,Monocyte,No stimulation,train
+GGACAAGGTTCACGGC-1,Monocyte,No stimulation,train
+TCAGGTACACGAAATA-1,Monocyte,No stimulation,train
+ACTTGTTAGCCCTAAT-1,Monocyte,No stimulation,train
+GACTGCGTCTTGACGA-1,Monocyte,No stimulation,train
+CTAGCCTGTGCGAAAC-1,Monocyte,No stimulation,train
+GGACAAGCACGAGAGT-1,Monocyte,No stimulation,train
+TGACTAGGTGTATGGG-1,Monocyte,No stimulation,train
+CCCAATCCAAGTTCTG-1,Monocyte,No stimulation,train
+CTGCGGAGTTACGCGC-1,Monocyte,No stimulation,train
+GGCTGGTTCTTAGAGC-1,Monocyte,No stimulation,train
+ACCAGTAAGGCATTGG-1,Monocyte,No stimulation,train
+TCACAAGAGATATGGT-1,Monocyte,No stimulation,train
+TCTATTGTCTGGCGAC-1,Monocyte,No stimulation,train
+AGTGTCACATAGTAAG-1,Monocyte,No stimulation,train
+GCTGGGTAGGTGCAAC-1,Monocyte,No stimulation,train
+CCTTCCCCAATCCAAC-1,Monocyte,No stimulation,train
+GTGCTTCGTAGAAGGA-1,Monocyte,No stimulation,train
+CCACGGACAGACGCCT-1,Monocyte,No stimulation,train
+CGTCAGGGTACTCGCG-1,Monocyte,No stimulation,train
+GACGTGCTCTGCGACG-1,Monocyte,No stimulation,train
+CAGAATCTCCGCATCT-1,Monocyte,No stimulation,train
+GTGCAGCCAATCGGTT-1,Monocyte,No stimulation,train
+TACCTTAAGGTGTGGT-1,Monocyte,No stimulation,train
+TTAGGCACAAACTGTC-1,Monocyte,No stimulation,train
+CTACCCATCTGTCCGT-1,Monocyte,No stimulation,train
+TATCAGGAGCATCATC-1,Monocyte,No stimulation,train
+TCTCATAAGAAGAAGC-1,Monocyte,No stimulation,train
+TCAGATGTCTACTCAT-1,Monocyte,No stimulation,train
+GAGTCCGTCTACTCAT-1,Monocyte,No stimulation,train
+GCTGGGTTCCAGAGGA-1,Monocyte,No stimulation,train
+TAGGCATTCAGCGATT-1,Monocyte,No stimulation,train
+CTCGTCATCTTGACGA-1,Monocyte,No stimulation,train
+GGCTGGTAGAAACCGC-1,Monocyte,No stimulation,train
+GTGAAGGTCTACTCAT-1,Monocyte,No stimulation,train
+CGGACACCACAGACTT-1,Monocyte,No stimulation,train
+GCAATCACATCTATGG-1,Monocyte,No stimulation,train
+AAACGGGGTAAAGGAG-1,Monocyte,No stimulation,train
+CAAGGCCAGCTGTTCA-1,Monocyte,No stimulation,train
+TGCGTGGTCCCTAACC-1,Monocyte,No stimulation,train
+GTCACGGCACAGGTTT-1,Monocyte,No stimulation,train
+AGGTCATTCGCCCTTA-1,Monocyte,No stimulation,train
+ACTATCTCAAACAACA-1,Monocyte,No stimulation,train
+AGATTGCAGTTGTAGA-1,Monocyte,No stimulation,train
+CCACGGAGTCTTGTCC-1,Monocyte,No stimulation,train
+AATCGGTGTCGATTGT-1,Monocyte,No stimulation,train
+TCACAAGGTCACACGC-1,Monocyte,No stimulation,train
+TACCTATCATGCATGT-1,Monocyte,No stimulation,train
+CGACCTTTCTCATTCA-1,Monocyte,No stimulation,train
+CGGAGTCAGTGTTGAA-1,Monocyte,No stimulation,train
+CCAATCCAGCTGCCCA-1,Monocyte,No stimulation,train
+GTGCTTCTCAAAGACA-1,Monocyte,No stimulation,train
+GAAGCAGCAGGACCCT-1,Monocyte,No stimulation,train
+CGCGGTACAGATGGGT-1,Monocyte,No stimulation,train
+GACGTGCTCTCGGACG-1,Monocyte,No stimulation,train
+ATCACGAAGTACACCT-1,Monocyte,No stimulation,train
+GCTGCAGTCTGGCGAC-1,Monocyte,No stimulation,train
+GCACTCTAGGGTGTTG-1,Monocyte,No stimulation,train
+CTAGAGTAGTCCTCCT-1,Monocyte,No stimulation,train
+TACGGATGTGGGTCAA-1,Monocyte,No stimulation,train
+GTATCTTTCCAAAGTC-1,Monocyte,No stimulation,train
+TCAGGTACACTCTGTC-1,Monocyte,No stimulation,train
+TAAACCGGTCTCGTTC-1,Monocyte,No stimulation,train
+CGATGGCCACGTAAGG-1,Monocyte,No stimulation,train
+CCTAAAGTCAAGAAGT-1,Monocyte,No stimulation,train
+CACCACTGTGCAGGTA-1,Monocyte,No stimulation,validation
+TGGACGCAGAGGTTAT-1,Monocyte,No stimulation,validation
+TGCGTGGGTAGGAGTC-1,Monocyte,No stimulation,validation
+ACACCGGGTTGGACCC-1,Monocyte,No stimulation,validation
+TTGACTTTCAACGCTA-1,Monocyte,No stimulation,validation
+ACTGCTCGTGTATGGG-1,Monocyte,No stimulation,validation
+GACGGCTCAACCGCCA-1,Monocyte,No stimulation,validation
+CACAGGCCACAACGTT-1,Monocyte,No stimulation,validation
+GTCAAGTCACGGCCAT-1,Monocyte,No stimulation,validation
+CACCACTCAACGATGG-1,Monocyte,No stimulation,validation
+GTAGTCATCGTTTGCC-1,Monocyte,No stimulation,validation
+AGTCTTTGTCAAGCGA-1,Monocyte,No stimulation,validation
+GCAATCAAGCGTGTCC-1,Monocyte,No stimulation,validation
+GGGTCTGGTCTGCAAT-1,Monocyte,No stimulation,validation
+ACGGGTCCAGCCTTGG-1,Monocyte,No stimulation,validation
+GGTGCGTCATCGGACC-1,Monocyte,No stimulation,validation
+TTCCCAGTCGCCTGTT-1,Monocyte,No stimulation,validation
+CCCAGTTTCCGAATGT-1,Monocyte,No stimulation,validation
+TGACTTTCACCAGCAC-1,Monocyte,No stimulation,validation
+TGAGAGGTCGTACGGC-1,Monocyte,No stimulation,validation
+CAGCTAAAGGGTCTCC-1,Monocyte,No stimulation,validation
+GGATTACGTCGCATCG-1,Monocyte,No stimulation,validation
+TAGACCAGTCCGTGAC-1,Monocyte,No stimulation,validation
+GTTCGGGAGAGATGAG-1,Monocyte,No stimulation,validation
+GCAAACTAGTACTTGC-1,Monocyte,No stimulation,validation
+CATGGCGTCCAAGCCG-1,Monocyte,No stimulation,validation
+TAGTGGTAGGGAACGG-1,Monocyte,No stimulation,validation
+CCCAATCTCCGATATG-1,Monocyte,No stimulation,validation
+CTACATTGTTCCGTCT-1,Monocyte,No stimulation,validation
+AACTGGTTCAAACCAC-1,Monocyte,No stimulation,validation
+TTGTAGGGTCTGATCA-1,Monocyte,No stimulation,validation
+AGTTGGTAGGCATTGG-1,Monocyte,No stimulation,validation
+TCAACGATCGTGGGAA-1,Monocyte,No stimulation,validation
+GGAACTTCAATCCAAC-1,Monocyte,No stimulation,validation
+TTAACTCAGATAGGAG-1,Monocyte,No stimulation,validation
+CGTTAGAGTGATGTCT-1,Monocyte,No stimulation,validation
+ACATGGTGTATGCTTG-1,Monocyte,No stimulation,validation
+GCATGTACACTTACGA-1,Monocyte,No stimulation,validation
+ACTGTCCAGCGGATCA-1,Monocyte,No stimulation,validation
+GAACCTAAGGGTTTCT-1,Monocyte,No stimulation,validation
+CCACTACCACGAAGCA-1,Monocyte,No stimulation,validation
+TTAGTTCCAGCCAGAA-1,Monocyte,No stimulation,validation
+TTGCGTCTCTCCCTGA-1,Monocyte,No stimulation,validation
+TGAGGGAGTAGCAAAT-1,Monocyte,No stimulation,validation
+AGTGGGAAGTGCCATT-1,Monocyte,No stimulation,validation
+CCAGCGAGTGCTGTAT-1,Monocyte,No stimulation,validation
+GCCAAATTCCTAGAAC-1,Monocyte,No stimulation,validation
+ACATCAGGTCAGAATA-1,Monocyte,No stimulation,validation
+CTTAGGACACAGGTTT-1,Monocyte,No stimulation,validation
+TTTATGCCATAGACTC-1,Monocyte,No stimulation,validation
+GTTACAGTCTTAACCT-1,Monocyte,No stimulation,validation
+ACGGAGACAGGGCATA-1,Monocyte,No stimulation,validation
+TGACGGCCAGCTGTGC-1,Monocyte,No stimulation,validation
+TCTGGAATCGTCTGCT-1,Monocyte,No stimulation,validation
+ACGGCCATCATGCATG-1,Monocyte,No stimulation,validation
+AAATGCCCAGACAGGT-1,Monocyte,No stimulation,validation
+CGTCCATTCGGTTCGG-1,Monocyte,No stimulation,validation
+AACTCTTCAATGAAAC-1,Monocyte,No stimulation,validation
+ACTGAGTCATGCAACT-1,Monocyte,No stimulation,validation
+GAGTCCGAGAAACCGC-1,Monocyte,No stimulation,validation
+GCGAGAAGTGTAATGA-1,Monocyte,No stimulation,validation
+GCGACCAGTATCGCAT-1,Monocyte,No stimulation,validation
+CACACTCTCATGTAGC-1,Monocyte,No stimulation,validation
+TTAGGCACAAGTCTGT-1,Monocyte,No stimulation,validation
+TCAATCTTCCTAGGGC-1,Monocyte,No stimulation,validation
+AACCGCGTCGCAGGCT-1,Monocyte,No stimulation,validation
+CGTTAGAAGCAACGGT-1,Monocyte,No stimulation,validation
+CGTTCTGTCTCTGTCG-1,Monocyte,No stimulation,validation
+AGCCTAATCATACGGT-1,Monocyte,No stimulation,validation
+ACGGGCTGTTTGTTTC-1,Monocyte,No stimulation,validation
+TGGCGCAGTGTCAATC-1,Monocyte,No stimulation,validation
+ACGCCAGAGTGTCTCA-1,Monocyte,No stimulation,validation
+CTGAAGTCAATCACAC-1,Monocyte,No stimulation,validation
+CCTACCACACATAACC-1,Monocyte,No stimulation,validation
+GTGCAGCGTAGCGTCC-1,Monocyte,No stimulation,validation
+CTTGGCTGTCTAGCCG-1,Monocyte,No stimulation,validation
+CTACCCATCTTCGGTC-1,Monocyte,No stimulation,validation
+TGAGCCGAGGCTAGAC-1,Monocyte,No stimulation,validation
+GTCTCGTGTCTGCCAG-1,Monocyte,No stimulation,validation
+TGACGGCTCTAACGGT-1,Monocyte,No stimulation,validation
+ATCTGCCGTGTTCTTT-1,Monocyte,No stimulation,validation
+GCTCTGTTCGGCCGAT-1,Monocyte,No stimulation,validation
+CGCCAAGGTACTCAAC-1,Monocyte,No stimulation,validation
+GGATGTTCATATACGC-1,Monocyte,No stimulation,validation
+CAACCTCCATTAGCCA-1,Monocyte,No stimulation,validation
+CTGCGGACACCAGGCT-1,Monocyte,No stimulation,validation
+CAAGTTGTCAGCTCGG-1,Monocyte,No stimulation,validation
+GACTAACTCTGTCAAG-1,Monocyte,No stimulation,validation
+TCGGGACTCAGCACAT-1,Monocyte,No stimulation,validation
+CCTTCGACATGGTCTA-1,Monocyte,No stimulation,validation
+AAGGCAGTCGCCTGTT-1,Monocyte,No stimulation,test
+CGAACATAGAAGGACA-1,Monocyte,No stimulation,test
+GAAATGAGTTATCGGT-1,Monocyte,No stimulation,test
+GCGAGAACACAAGTAA-1,Monocyte,No stimulation,test
+CAGAATCCATTTGCTT-1,Monocyte,No stimulation,test
+ACCAGTAGTGGGTCAA-1,Monocyte,No stimulation,test
+CTAACTTCACATGACT-1,Monocyte,No stimulation,test
+TGCCAAAGTCAACTGT-1,Monocyte,No stimulation,test
+GCCAAATCAACAACCT-1,Monocyte,No stimulation,test
+ACGATACGTCCCTTGT-1,Monocyte,No stimulation,test
+GCTCCTAAGCCAGTTT-1,Monocyte,No stimulation,test
+CCCTCCTGTCGAATCT-1,Monocyte,No stimulation,test
+TGGCCAGTCTACGAGT-1,Monocyte,No stimulation,test
+CATCAGAGTAGCACGA-1,Monocyte,No stimulation,test
+CTCTAATGTAGAGGAA-1,Monocyte,No stimulation,test
+CGCTTCATCTCATTCA-1,Monocyte,No stimulation,test
+GTAACTGAGCTTCGCG-1,Monocyte,No stimulation,test
+CGAGAAGCATTCCTGC-1,Monocyte,No stimulation,test
+ACTGAACTCCCTTGCA-1,Monocyte,No stimulation,test
+GAGGTGACATCTGGTA-1,Monocyte,No stimulation,test
+GATGCTACAGTCGTGC-1,Monocyte,No stimulation,test
+GTATCTTCAACGCACC-1,Monocyte,No stimulation,test
+TACGGATAGCAATCTC-1,Monocyte,No stimulation,test
+AGATCTGTCGTCTGAA-1,Monocyte,No stimulation,test
+AGGGAGTCACAGACTT-1,Monocyte,No stimulation,test
+CGGACTGCAATGTTGC-1,Monocyte,No stimulation,test
+ATCACGATCGATAGAA-1,Monocyte,No stimulation,test
+ACTTACTTCGCATGGC-1,Monocyte,No stimulation,test
+TACTCATCATTGGTAC-1,Monocyte,No stimulation,test
+TCAGATGCACAGACTT-1,Monocyte,No stimulation,test
+TAAACCGGTAATAGCA-1,Monocyte,No stimulation,test
+ACACTGACACCAGCAC-1,Monocyte,No stimulation,test
+CACATAGAGACCTAGG-1,Monocyte,No stimulation,test
+GCACATATCATCATTC-1,Monocyte,No stimulation,test
+TGAGAGGGTTGATTCG-1,Monocyte,No stimulation,test
+AGTGAGGAGGCAGGTT-1,Monocyte,No stimulation,test
+TCTGGAATCCCATTTA-1,Monocyte,No stimulation,test
+GGCGTGTCATACCATG-1,Monocyte,No stimulation,test
+CTAAGACGTTACGGAG-1,Monocyte,No stimulation,test
+GATTCAGCACAGAGGT-1,Monocyte,No stimulation,test
+TTCGAAGTCACCATAG-1,Monocyte,No stimulation,test
+CCATGTCTCCAATGGT-1,Monocyte,No stimulation,test
+ACTGAGTAGATCACGG-1,Monocyte,No stimulation,test
+TGCCCTACACGTAAGG-1,Monocyte,No stimulation,test
+GCATACAGTCATGCAT-1,Monocyte,No stimulation,test
+GATCGTATCAGGTTCA-1,Monocyte,No stimulation,test
+TATGCCCTCGCAGGCT-1,Monocyte,No stimulation,test
+TTAACTCGTCAGTGGA-1,Monocyte,No stimulation,test
+CTGCCTATCCCTCTTT-1,Monocyte,No stimulation,test
+GGAATAACACCAACCG-1,Monocyte,No stimulation,test
+TGCCAAACACGTAAGG-1,Monocyte,No stimulation,test
+GTCAAGTTCCAACCAA-1,Monocyte,No stimulation,test
+ATTGGACCAACACCTA-1,Monocyte,No stimulation,test
+ACCGTAACACGTGAGA-1,Monocyte,No stimulation,test
+CGGACGTTCACGAAGG-1,Monocyte,No stimulation,test
+TCCACACCATGTAAGA-1,Monocyte,No stimulation,test
+AGGTCATAGGGAGTAA-1,Monocyte,No stimulation,test
+TTGACTTGTCGAGTTT-1,Monocyte,No stimulation,test
+CTTAACTGTTGCCTCT-1,Monocyte,No stimulation,test
+GCTGGGTCATTGTGCA-1,Monocyte,No stimulation,test
+CTGATAGCAAACGTGG-1,Monocyte,No stimulation,test
+GGAATAAAGACACTAA-1,Monocyte,No stimulation,test
+GATCAGTCATTACGAC-1,Monocyte,No stimulation,test
+TCGCGAGTCAACGGCC-1,Monocyte,No stimulation,test
+GTAGTCAGTTTGACTG-1,Monocyte,No stimulation,test
+GTCGTAAGTGACCAAG-1,Monocyte,No stimulation,test
+TGGGAAGAGCTTTGGT-1,Monocyte,No stimulation,test
+ATCTGCCAGACCGGAT-1,Monocyte,No stimulation,test
+TGGCCAGAGTTCGCGC-1,Monocyte,No stimulation,test
+CATTCGCAGCCCAATT-1,Monocyte,No stimulation,test
+TGGTTCCAGAAACGCC-1,Monocyte,No stimulation,test
+CGTCACTGTCAAAGCG-1,Monocyte,No stimulation,test
+CTAATGGGTCTGCAAT-1,Monocyte,No stimulation,test
+GTATCTTAGGAATGGA-1,Monocyte,No stimulation,test
+GTGCAGCCAATGCCAT-1,Monocyte,No stimulation,test
+GACTGCGCAAGTTGTC-1,Monocyte,No stimulation,test
+ATCATCTCAGGGATTG-1,Monocyte,No stimulation,test
+AGCGTATGTCCGAGTC-1,Monocyte,No stimulation,test
+TTTCCTCTCCAAACTG-1,Monocyte,No stimulation,test
+ATCATCTAGTTGAGAT-1,Monocyte,No stimulation,test
+TGTATTCAGCGGATCA-1,Monocyte,No stimulation,test
+CCGGTAGCATCCTAGA-1,Monocyte,No stimulation,test
+GTCATTTCAGGGTACA-1,Monocyte,No stimulation,test
+GACGTTAAGGTGATAT-1,Monocyte,No stimulation,test
+CGATGTACACGGTGTC-1,Monocyte,No stimulation,test
+CCACTACAGCGATTCT-1,Monocyte,No stimulation,test
+TCTGAGAAGAAACCTA-1,Monocyte,No stimulation,test
+GTAACGTAGTGGCACA-1,Monocyte,No stimulation,test
+AGGGATGTCCTCGCAT-1,Monocyte,No stimulation,test
+CACCACTCATCTATGG-1,Monocyte,No stimulation,test
+TCTGAGAGTCCGAATT-1,Monocyte,IFNg,train
+GCGACCAAGACTACAA-1,Monocyte,IFNg,train
+CGGAGCTTCCACGTTC-1,Monocyte,IFNg,train
+CTCGTCAGTGTAAGTA-1,Monocyte,IFNg,train
+ATAAGAGTCTTACCGC-1,Monocyte,IFNg,train
+CAGCAGCTCGCTGATA-1,Monocyte,IFNg,train
+ACCAGTAGTTTCGCTC-1,Monocyte,IFNg,train
+TCACAAGCACATCTTT-1,Monocyte,IFNg,train
+TTGCGTCTCGAATGCT-1,Monocyte,IFNg,train
+AGTGGGACACTGAAGG-1,Monocyte,IFNg,train
+TCAGCAACACCCATGG-1,Monocyte,IFNg,train
+ACATACGCATGAAGTA-1,Monocyte,IFNg,train
+CAGGTGCGTTCGTGAT-1,Monocyte,IFNg,train
+CGGCTAGAGCCACGTC-1,Monocyte,IFNg,train
+TGCACCTAGTGGTAGC-1,Monocyte,IFNg,train
+TACGGGCAGCTAGGCA-1,Monocyte,IFNg,train
+TATGCCCGTGCGAAAC-1,Monocyte,IFNg,train
+ACGGAGAAGCTGAAAT-1,Monocyte,IFNg,train
+CATGGCGGTAAATACG-1,Monocyte,IFNg,train
+TGACTAGTCGTCACGG-1,Monocyte,IFNg,train
+CGCCAAGTCCATGAGT-1,Monocyte,IFNg,train
+CGAACATGTAAGGGCT-1,Monocyte,IFNg,train
+GTCCTCATCTGTCTCG-1,Monocyte,IFNg,train
+CATCAGATCTCGGACG-1,Monocyte,IFNg,train
+TATCTCACAGGTGCCT-1,Monocyte,IFNg,train
+GGTGTTACACCAGATT-1,Monocyte,IFNg,train
+GGAATAACAGAAGCAC-1,Monocyte,IFNg,train
+CGTGTCTCAGCTATTG-1,Monocyte,IFNg,train
+CTGTTTACAGCTCGAC-1,Monocyte,IFNg,train
+GCATACAAGGCGACAT-1,Monocyte,IFNg,train
+CCTTCCCAGTGTTGAA-1,Monocyte,IFNg,train
+TAAGTGCAGAGGTTGC-1,Monocyte,IFNg,train
+TGCTGCTAGTAACCCT-1,Monocyte,IFNg,train
+AAAGCAAAGCGTGAAC-1,Monocyte,IFNg,train
+ACTATCTGTTTGTTTC-1,Monocyte,IFNg,train
+CAGAATCGTTGGAGGT-1,Monocyte,IFNg,train
+CTCGGAGGTCCGAATT-1,Monocyte,IFNg,train
+TGGTTCCAGCCGATTT-1,Monocyte,IFNg,train
+GTTCTCGTCACCTTAT-1,Monocyte,IFNg,train
+GATGAAATCGTGGACC-1,Monocyte,IFNg,train
+ACAGCCGCACACCGCA-1,Monocyte,IFNg,train
+CCTACCACAGGGAGAG-1,Monocyte,IFNg,train
+TGCCCATGTTCCCGAG-1,Monocyte,IFNg,train
+CGTCACTGTGTTAAGA-1,Monocyte,IFNg,train
+CTTGGCTGTGTCTGAT-1,Monocyte,IFNg,train
+ATGGGAGTCAACACGT-1,Monocyte,IFNg,train
+CAAGATCAGAACAACT-1,Monocyte,IFNg,train
+TTTGCGCCAACCGCCA-1,Monocyte,IFNg,train
+GGGTTGCCAGGGTACA-1,Monocyte,IFNg,train
+ATTATCCAGCGTTTAC-1,Monocyte,IFNg,train
+AGCTCTCAGTCTCCTC-1,Monocyte,IFNg,train
+TCGTAGAGTGTGACCC-1,Monocyte,IFNg,train
+GTTCTCGTCAACACTG-1,Monocyte,IFNg,train
+GCTGCTTGTGAAATCA-1,Monocyte,IFNg,train
+GAAACTCAGTCGCCGT-1,Monocyte,IFNg,train
+CCTACCAAGGAGTCTG-1,Monocyte,IFNg,train
+TTAGGACCATGGTAGG-1,Monocyte,IFNg,train
+AAGCCGCGTTTAGGAA-1,Monocyte,IFNg,train
+CCTTACGGTGTAACGG-1,Monocyte,IFNg,train
+CCACGGAAGCTAGTGG-1,Monocyte,IFNg,train
+CGCTGGAAGGTCGGAT-1,Monocyte,IFNg,train
+GCATGCGGTGCAGTAG-1,Monocyte,IFNg,train
+GGACGTCCATCCTAGA-1,Monocyte,IFNg,train
+AGGGTGACAGCTGCTG-1,Monocyte,IFNg,train
+TTAACTCTCGGCGCTA-1,Monocyte,IFNg,train
+TCGTAGACATTTGCCC-1,Monocyte,IFNg,train
+CTGATAGTCGAGAACG-1,Monocyte,IFNg,train
+TGGCCAGGTATTACCG-1,Monocyte,IFNg,train
+GCGGGTTAGCTAGGCA-1,Monocyte,IFNg,train
+TTGCGTCCACAGTCGC-1,Monocyte,IFNg,train
+TCCCGATGTAGGACAC-1,Monocyte,IFNg,train
+GGCGACTGTATTACCG-1,Monocyte,IFNg,train
+GTCCTCATCGAGAACG-1,Monocyte,IFNg,train
+TAGCCGGCAACGCACC-1,Monocyte,IFNg,train
+GCAGTTAAGTCATGCT-1,Monocyte,IFNg,train
+CAGCAGCCAGTACACT-1,Monocyte,IFNg,train
+AGTCTTTTCAGCTTAG-1,Monocyte,IFNg,train
+ACCCACTGTCTAGCCG-1,Monocyte,IFNg,train
+CAGATCAGTGACTACT-1,Monocyte,IFNg,train
+GACACGCCACAACTGT-1,Monocyte,IFNg,train
+TTGGCAAGTCAATACC-1,Monocyte,IFNg,train
+ACTGATGGTAGCGATG-1,Monocyte,IFNg,train
+TTCTCCTCACCACCAG-1,Monocyte,IFNg,train
+TTAACTCTCTTCTGGC-1,Monocyte,IFNg,train
+AACTCAGCATGGATGG-1,Monocyte,IFNg,train
+TTGAACGGTTGACGTT-1,Monocyte,IFNg,train
+TACGGATGTAGATTAG-1,Monocyte,IFNg,train
+CGTCCATCACCATGTA-1,Monocyte,IFNg,train
+TGCACCTGTCTCCATC-1,Monocyte,IFNg,train
+AGATCTGCACGGCGTT-1,Monocyte,IFNg,train
+CTTTGCGGTGAAAGAG-1,Monocyte,IFNg,train
+TGCGCAGTCGGCTTGG-1,Monocyte,IFNg,train
+GCATGCGTCTGCGGCA-1,Monocyte,IFNg,train
+ACTGAACAGTGACATA-1,Monocyte,IFNg,train
+AGCGTCGTCTTATCTG-1,Monocyte,IFNg,train
+ATGGGAGCAGCCTTGG-1,Monocyte,IFNg,train
+CGAGCCAAGGAATTAC-1,Monocyte,IFNg,train
+AACCATGTCTGCAGTA-1,Monocyte,IFNg,train
+CTGGTCTTCACATAGC-1,Monocyte,IFNg,train
+CTTAGGACAAAGCAAT-1,Monocyte,IFNg,train
+TTGTAGGAGTGGTAGC-1,Monocyte,IFNg,train
+CAGTCCTAGTGCCAGA-1,Monocyte,IFNg,train
+TTGACTTTCATTGCCC-1,Monocyte,IFNg,train
+TCAGGTATCCACGACG-1,Monocyte,IFNg,train
+ATTCTACGTCCTAGCG-1,Monocyte,IFNg,train
+ACAGCTACACATGACT-1,Monocyte,IFNg,train
+TTTGGTTCAAGGTTTC-1,Monocyte,IFNg,train
+CGTGTAAGTATATCCG-1,Monocyte,IFNg,train
+GAAACTCAGGTGGGTT-1,Monocyte,IFNg,train
+ACTGAACAGTACGCCC-1,Monocyte,IFNg,train
+ATAGACCCAGACTCGC-1,Monocyte,IFNg,train
+GCGACCACATTCGACA-1,Monocyte,IFNg,train
+GGGATGAAGGCCCTCA-1,Monocyte,IFNg,train
+AAATGCCTCCCTGACT-1,Monocyte,IFNg,train
+TTCTACAGTATATCCG-1,Monocyte,IFNg,train
+GCACATATCAGGTAAA-1,Monocyte,IFNg,train
+TACGGTACAGTCGATT-1,Monocyte,IFNg,train
+CGGCTAGGTCGAACAG-1,Monocyte,IFNg,train
+ATAGACCCATGGAATA-1,Monocyte,IFNg,train
+GACACGCAGCAGACTG-1,Monocyte,IFNg,train
+GATCAGTCAGGCAGTA-1,Monocyte,IFNg,train
+GCGCCAATCCTAAGTG-1,Monocyte,IFNg,train
+AGACGTTAGATGGGTC-1,Monocyte,IFNg,train
+GTAGTCAAGTGAAGTT-1,Monocyte,IFNg,train
+CGGACTGTCCGTAGTA-1,Monocyte,IFNg,train
+ACGATGTTCTGACCTC-1,Monocyte,IFNg,train
+GGCAATTGTTCAGTAC-1,Monocyte,IFNg,train
+GATCGTAAGTCAATAG-1,Monocyte,IFNg,train
+GGGTTGCGTATAGTAG-1,Monocyte,IFNg,train
+CGCTATCAGCGCCTCA-1,Monocyte,IFNg,train
+AGCGTCGCACCGAATT-1,Monocyte,IFNg,train
+CCCAGTTAGCTGCAAG-1,Monocyte,IFNg,train
+GCTGCAGTCCAACCAA-1,Monocyte,IFNg,train
+GCACTCTTCGTACCGG-1,Monocyte,IFNg,train
+AAGCCGCAGTGTTAGA-1,Monocyte,IFNg,train
+TCTATTGAGTCGTTTG-1,Monocyte,IFNg,train
+CACAGTACATGCCTAA-1,Monocyte,IFNg,train
+ACGCCAGTCAGGTTCA-1,Monocyte,IFNg,train
+TGCTACCAGGACCACA-1,Monocyte,IFNg,train
+TTGCCGTTCGGTGTTA-1,Monocyte,IFNg,train
+AGTAGTCTCAGGATCT-1,Monocyte,IFNg,train
+TGCTACCAGTGTTGAA-1,Monocyte,IFNg,train
+GTTTCTAAGGGTATCG-1,Monocyte,IFNg,train
+GTCCTCAAGCTATGCT-1,Monocyte,IFNg,train
+CTGTTTAAGTGGTAAT-1,Monocyte,IFNg,train
+GTCACGGGTGACTACT-1,Monocyte,IFNg,train
+CATCAGAAGAGAACAG-1,Monocyte,IFNg,train
+ACGCCAGCATGCATGT-1,Monocyte,IFNg,train
+GATTCAGAGTGCGATG-1,Monocyte,IFNg,train
+TTGCGTCCACGGTAGA-1,Monocyte,IFNg,train
+ACGGCCACAGCTTCGG-1,Monocyte,IFNg,train
+CTGAAGTTCCTAGGGC-1,Monocyte,IFNg,train
+CGGTTAAAGCACCGCT-1,Monocyte,IFNg,train
+TGCCCATCAGCGTCCA-1,Monocyte,IFNg,train
+CCTAGCTGTAACGCGA-1,Monocyte,IFNg,train
+CCCTCCTTCCCATTAT-1,Monocyte,IFNg,train
+GTGCAGCAGGTGCACA-1,Monocyte,IFNg,train
+GATCGCGCAATTGCTG-1,Monocyte,IFNg,train
+TTCGGTCAGTACGTTC-1,Monocyte,IFNg,train
+CACATTTCACTGTTAG-1,Monocyte,IFNg,train
+CATTATCCATATACGC-1,Monocyte,IFNg,train
+TATGCCCAGCTAAGAT-1,Monocyte,IFNg,train
+GACACGCCAGCATACT-1,Monocyte,IFNg,train
+TGCGCAGAGCACCGCT-1,Monocyte,IFNg,train
+ACGCCAGGTGTTGGGA-1,Monocyte,IFNg,train
+GACCAATGTGAAATCA-1,Monocyte,IFNg,train
+AACCATGGTTATTCTC-1,Monocyte,IFNg,train
+ATTGGTGTCTGAGTGT-1,Monocyte,IFNg,train
+AACTTTCAGTACGTAA-1,Monocyte,IFNg,train
+TTGACTTGTCATCGGC-1,Monocyte,IFNg,train
+CGTTCTGTCTGCTGTC-1,Monocyte,IFNg,train
+CTACCCAGTCTCCCTA-1,Monocyte,IFNg,train
+CATCGGGCATAAGACA-1,Monocyte,IFNg,train
+TGCCAAAAGCTCCTCT-1,Monocyte,IFNg,train
+CGGCTAGGTCAAACTC-1,Monocyte,IFNg,train
+TTATGCTGTCTAGCCG-1,Monocyte,IFNg,train
+CATATGGGTGTTCGAT-1,Monocyte,IFNg,train
+ATCATCTCAAGGACTG-1,Monocyte,IFNg,train
+CCTACACTCTTTCCTC-1,Monocyte,IFNg,train
+GGTATTGGTTAAGGGC-1,Monocyte,IFNg,train
+TAGTGGTTCGATCCCT-1,Monocyte,IFNg,train
+AGTGGGACAAGTCATC-1,Monocyte,IFNg,train
+AAAGATGTCGCGATCG-1,Monocyte,IFNg,train
+GCGCAGTGTCAACATC-1,Monocyte,IFNg,train
+GAACCTAAGATCTGCT-1,Monocyte,IFNg,train
+CGACCTTAGAATTCCC-1,Monocyte,IFNg,train
+TACGGGCGTAGCGATG-1,Monocyte,IFNg,train
+CCTACCACATAACCTG-1,Monocyte,IFNg,train
+AGCATACGTAGTAGTA-1,Monocyte,IFNg,train
+AGGGTGAAGTAGCCGA-1,Monocyte,IFNg,train
+GCTTGAAAGGGAAACA-1,Monocyte,IFNg,train
+CATGACACATCCGTGG-1,Monocyte,IFNg,train
+ACTTACTGTACTTCTT-1,Monocyte,IFNg,train
+TACTTGTAGAATTCCC-1,Monocyte,IFNg,train
+GCGAGAATCGCAAGCC-1,Monocyte,IFNg,train
+GATGAGGCATCATCCC-1,Monocyte,IFNg,train
+ATCATGGTCTCTGTCG-1,Monocyte,IFNg,train
+TTTGCGCAGATGCCTT-1,Monocyte,IFNg,train
+ACACTGATCGCCGTGA-1,Monocyte,IFNg,train
+CGATGTAAGTGTACCT-1,Monocyte,IFNg,train
+CTGCGGAAGCGTAATA-1,Monocyte,IFNg,train
+GTACGTAAGCCGGTAA-1,Monocyte,IFNg,train
+ACACCGGCACCCAGTG-1,Monocyte,IFNg,train
+CGTCACTGTCAAGCGA-1,Monocyte,IFNg,train
+GATCGATCATCCTTGC-1,Monocyte,IFNg,train
+AGAATAGAGGCAAAGA-1,Monocyte,IFNg,train
+TTGTAGGTCCTCTAGC-1,Monocyte,IFNg,train
+CATATTCGTATGGTTC-1,Monocyte,IFNg,train
+GAAACTCGTCGCTTCT-1,Monocyte,IFNg,train
+AGGGTGATCGCCATAA-1,Monocyte,IFNg,train
+TACTCATGTAAGTTCC-1,Monocyte,IFNg,train
+CTCTACGTCTAACTCT-1,Monocyte,IFNg,train
+GGGAGATAGTCGTACT-1,Monocyte,IFNg,train
+TGCGTGGCAGACGCTC-1,Monocyte,IFNg,train
+TCCACACTCAGCTGGC-1,Monocyte,IFNg,train
+GCTCTGTAGGCTACGA-1,Monocyte,IFNg,train
+GCTCTGTGTGCAACTT-1,Monocyte,IFNg,train
+CATCCACGTGAAAGAG-1,Monocyte,IFNg,train
+TACACGAAGTTAAGTG-1,Monocyte,IFNg,train
+TGCTGCTCATTACCTT-1,Monocyte,IFNg,train
+ACAGCTATCGTGGGAA-1,Monocyte,IFNg,train
+AGTGTCACATCTGGTA-1,Monocyte,IFNg,train
+GGTGAAGGTTGGAGGT-1,Monocyte,IFNg,train
+TCGGTAAAGTTCGATC-1,Monocyte,IFNg,train
+GTCGTAATCAAGAAGT-1,Monocyte,IFNg,train
+GTACTCCGTACACCGC-1,Monocyte,IFNg,train
+CGTTGGGCACGTTGGC-1,Monocyte,IFNg,train
+CGGAGCTAGGGATGGG-1,Monocyte,IFNg,train
+TTCTCAATCTTGGGTA-1,Monocyte,IFNg,train
+TACACGACATGCCCGA-1,Monocyte,IFNg,train
+CTACATTCACATGGGA-1,Monocyte,IFNg,train
+CGACTTCGTCCGACGT-1,Monocyte,IFNg,train
+CGGACGTTCTAAGCCA-1,Monocyte,IFNg,train
+GTCAAGTCATTGGCGC-1,Monocyte,IFNg,train
+CCTACACGTCTCACCT-1,Monocyte,IFNg,train
+GGGAATGGTGGCGAAT-1,Monocyte,IFNg,train
+TGATTTCTCACGGTTA-1,Monocyte,IFNg,train
+CTCGTCAAGGAATCGC-1,Monocyte,IFNg,train
+TCGTAGAGTGTCAATC-1,Monocyte,IFNg,train
+TGCGCAGAGGGTTTCT-1,Monocyte,IFNg,train
+CCCATACAGTTGTCGT-1,Monocyte,IFNg,train
+TGAGCATGTTAAGACA-1,Monocyte,IFNg,train
+TAGGCATTCATGCATG-1,Monocyte,IFNg,train
+ACTTACTCACCGTTGG-1,Monocyte,IFNg,train
+GTGTGCGGTTATCCGA-1,Monocyte,IFNg,train
+CATATGGAGAACAACT-1,Monocyte,IFNg,train
+TGCGCAGGTCCTAGCG-1,Monocyte,IFNg,train
+GATCGTAAGACAGGCT-1,Monocyte,IFNg,train
+CGAGAAGAGCTAGCCC-1,Monocyte,IFNg,train
+GTGTTAGCACCGTTGG-1,Monocyte,IFNg,train
+TAGACCAAGCAAATCA-1,Monocyte,IFNg,train
+TGATTTCTCCTAGAAC-1,Monocyte,IFNg,train
+GCGCCAAAGTTGAGAT-1,Monocyte,IFNg,train
+TTGACTTCAATCCAAC-1,Monocyte,IFNg,train
+AAGGAGCTCTGAAAGA-1,Monocyte,IFNg,train
+CGTGTCTTCTTGCCGT-1,Monocyte,IFNg,train
+AGCATACGTTTAAGCC-1,Monocyte,IFNg,train
+AACTCTTCAGGAATCG-1,Monocyte,IFNg,train
+TGGGAAGAGGCCCTTG-1,Monocyte,IFNg,train
+TTGCGTCCAGGTTTCA-1,Monocyte,IFNg,train
+GCGCAACGTGTCCTCT-1,Monocyte,IFNg,train
+GTCATTTGTTTAAGCC-1,Monocyte,IFNg,train
+GGTGTTAGTCCCTTGT-1,Monocyte,IFNg,train
+CCATTCGTCCCGGATG-1,Monocyte,IFNg,train
+TGCTGCTGTCCATGAT-1,Monocyte,IFNg,train
+AAAGATGGTTCTGGTA-1,Monocyte,IFNg,train
+CTGGTCTGTCTTGATG-1,Monocyte,IFNg,train
+CAGTCCTGTCCGAAGA-1,Monocyte,IFNg,train
+AACTTTCAGAAGGTGA-1,Monocyte,IFNg,train
+CAACTAGCAGCCTGTG-1,Monocyte,IFNg,train
+CAACTAGTCTCTTATG-1,Monocyte,IFNg,train
+CCATGTCTCTGCCAGG-1,Monocyte,IFNg,train
+TCGCGTTTCGCCCTTA-1,Monocyte,IFNg,train
+AGTAGTCGTGTTTGTG-1,Monocyte,IFNg,train
+GCCAAATAGCGACGTA-1,Monocyte,IFNg,train
+GGGAGATTCACGAAGG-1,Monocyte,IFNg,train
+GTTCATTCAGGGTACA-1,Monocyte,IFNg,train
+ATTGGTGGTTAGTGGG-1,Monocyte,IFNg,train
+CAGCTAAAGGCGTACA-1,Monocyte,IFNg,train
+TCTTTCCCAGTCCTTC-1,Monocyte,IFNg,train
+AGGGTGACAAAGGCGT-1,Monocyte,IFNg,train
+CTCGAGGCAAAGTCAA-1,Monocyte,IFNg,train
+TCAGCTCAGATGGGTC-1,Monocyte,IFNg,train
+TACGGTAGTGCGAAAC-1,Monocyte,IFNg,train
+ATAAGAGGTCTGCCAG-1,Monocyte,IFNg,train
+CACCTTGCATTCCTCG-1,Monocyte,IFNg,train
+GTTACAGTCAACACCA-1,Monocyte,IFNg,train
+TTCGGTCTCTGCGTAA-1,Monocyte,IFNg,train
+GTAACGTTCCCGGATG-1,Monocyte,IFNg,train
+GCTGCGAAGCCCAGCT-1,Monocyte,IFNg,train
+GGGACCTGTCGAGATG-1,Monocyte,IFNg,train
+TGCCCTAAGTACGACG-1,Monocyte,IFNg,train
+ACGAGGATCTACCTGC-1,Monocyte,IFNg,train
+CGACTTCAGCGTTTAC-1,Monocyte,IFNg,train
+TACGGTAAGATGAGAG-1,Monocyte,IFNg,train
+GTATCTTCAAGCCGTC-1,Monocyte,IFNg,train
+CACAGTAGTGATGTCT-1,Monocyte,IFNg,train
+CACTCCAAGAGTCGGT-1,Monocyte,IFNg,train
+AACCGCGCAGATAATG-1,Monocyte,IFNg,train
+TTGACTTTCGATCCCT-1,Monocyte,IFNg,train
+GCTGCTTAGATGTCGG-1,Monocyte,IFNg,train
+CGTGTAACAATCTACG-1,Monocyte,IFNg,train
+GCTCCTAGTCTCTTTA-1,Monocyte,IFNg,train
+CGGAGTCCACTTCTGC-1,Monocyte,IFNg,train
+GTGCGGTCAACTTGAC-1,Monocyte,IFNg,train
+CAGCTAATCAACGGGA-1,Monocyte,IFNg,train
+AAGGAGCTCTTGTACT-1,Monocyte,IFNg,train
+CTCGAAAGTCGTGGCT-1,Monocyte,IFNg,train
+ATGCGATGTTCGTTGA-1,Monocyte,IFNg,train
+TAGGCATCAGGATTGG-1,Monocyte,IFNg,train
+CCATGTCAGCCAGAAC-1,Monocyte,IFNg,train
+CTCTACGCATAGGATA-1,Monocyte,IFNg,train
+CTTCTCTGTAGGGACT-1,Monocyte,IFNg,train
+TAGTGGTTCAGCTCTC-1,Monocyte,IFNg,train
+GACTGCGTCCGTCATC-1,Monocyte,IFNg,train
+AATCCAGAGGAGTTGC-1,Monocyte,IFNg,train
+CCTTTCTTCTTTACGT-1,Monocyte,IFNg,train
+TTAACTCCATATGGTC-1,Monocyte,IFNg,train
+CTTACCGAGTAATCCC-1,Monocyte,IFNg,train
+GATGCTACAGTGGGAT-1,Monocyte,IFNg,train
+TAGTGGTAGGCAAAGA-1,Monocyte,IFNg,train
+GGCAATTAGGCGACAT-1,Monocyte,IFNg,train
+GGTGCGTAGGCTAGCA-1,Monocyte,IFNg,train
+ACAGCTATCAGAAATG-1,Monocyte,IFNg,train
+GATCTAGCATGGTCTA-1,Monocyte,IFNg,train
+TTGCCGTCATTCACTT-1,Monocyte,IFNg,train
+GCTTGAAGTATGAATG-1,Monocyte,IFNg,train
+GTCGGGTCACGGTTTA-1,Monocyte,IFNg,train
+CTACCCAAGGAGTCTG-1,Monocyte,IFNg,train
+TCACAAGAGTGGTCCC-1,Monocyte,IFNg,train
+TTCTACATCGGAATCT-1,Monocyte,IFNg,train
+GCATGCGGTCGAGTTT-1,Monocyte,IFNg,validation
+GATCTAGAGTCAAGCG-1,Monocyte,IFNg,validation
+GTCAAGTTCTGGCGTG-1,Monocyte,IFNg,validation
+TGGTTCCCATGGTTGT-1,Monocyte,IFNg,validation
+CGGCTAGTCCTATTCA-1,Monocyte,IFNg,validation
+AACACGTTCCGCGTTT-1,Monocyte,IFNg,validation
+GTCATTTGTACAGTTC-1,Monocyte,IFNg,validation
+CGATCGGAGCAGACTG-1,Monocyte,IFNg,validation
+CGAGCACTCCCTTGTG-1,Monocyte,IFNg,validation
+TTGGAACCAGCTTCGG-1,Monocyte,IFNg,validation
+GGACGTCCAGCTTAAC-1,Monocyte,IFNg,validation
+ATCTGCCGTACCGAGA-1,Monocyte,IFNg,validation
+GGATGTTAGATGTGGC-1,Monocyte,IFNg,validation
+TCTGGAATCCATGAGT-1,Monocyte,IFNg,validation
+CTCTACGGTATCTGCA-1,Monocyte,IFNg,validation
+TCTATTGCACACCGCA-1,Monocyte,IFNg,validation
+GGTGAAGGTCCTCCAT-1,Monocyte,IFNg,validation
+GTGCTTCGTATAGGTA-1,Monocyte,IFNg,validation
+CGTTGGGGTCATGCCG-1,Monocyte,IFNg,validation
+CACATTTGTACTCGCG-1,Monocyte,IFNg,validation
+GTAGTCACACGTGAGA-1,Monocyte,IFNg,validation
+GCGCAGTCAGTCAGCC-1,Monocyte,IFNg,validation
+CATATGGAGAGCCTAG-1,Monocyte,IFNg,validation
+ACTTGTTGTCCGTGAC-1,Monocyte,IFNg,validation
+TGGGAAGGTACTTAGC-1,Monocyte,IFNg,validation
+AATCCAGTCAGGCAAG-1,Monocyte,IFNg,validation
+ACTGATGTCGGAATCT-1,Monocyte,IFNg,validation
+TATTACCGTCTGATTG-1,Monocyte,IFNg,validation
+GAATGAATCCTGCTTG-1,Monocyte,IFNg,validation
+TCTCATAGTACCTACA-1,Monocyte,IFNg,validation
+GATTCAGCAGATCCAT-1,Monocyte,IFNg,validation
+CGTGTCTCATCCGCGA-1,Monocyte,IFNg,validation
+CAGCTAACACAGAGGT-1,Monocyte,IFNg,validation
+CTGATAGAGTTGCAGG-1,Monocyte,IFNg,validation
+CGTTGGGAGCGACGTA-1,Monocyte,IFNg,validation
+CGATTGAAGAGCTGCA-1,Monocyte,IFNg,validation
+CGCTGGAAGCGTTGCC-1,Monocyte,IFNg,validation
+ATGTGTGAGGATGCGT-1,Monocyte,IFNg,validation
+GCTCTGTCATTGGGCC-1,Monocyte,IFNg,validation
+CCGTACTAGGGATACC-1,Monocyte,IFNg,validation
+ATCTACTAGAAGAAGC-1,Monocyte,IFNg,validation
+CTTAGGATCATGGTCA-1,Monocyte,IFNg,validation
+TCACAAGGTCCCGACA-1,Monocyte,IFNg,validation
+GGGTCTGCAGATCCAT-1,Monocyte,IFNg,validation
+GTAACGTTCGACGGAA-1,Monocyte,IFNg,validation
+TGACTAGTCCGCATAA-1,Monocyte,IFNg,validation
+CTTAACTGTGTTCTTT-1,Monocyte,IFNg,validation
+ATCCACCAGGGCATGT-1,Monocyte,IFNg,validation
+CCAGCGAAGAGATGAG-1,Monocyte,IFNg,validation
+GGGTTGCCATGGTCAT-1,Monocyte,IFNg,validation
+CATCGAACAATTCCTT-1,Monocyte,IFNg,validation
+TACTCATTCTTTACGT-1,Monocyte,IFNg,validation
+CACATAGCAGGTTTCA-1,Monocyte,IFNg,validation
+CCTTCGACACGCCAGT-1,Monocyte,IFNg,validation
+GATCTAGTCTAGCACA-1,Monocyte,IFNg,validation
+CATCAGAGTTCCTCCA-1,Monocyte,IFNg,validation
+ACATACGAGATAGCAT-1,Monocyte,IFNg,validation
+CCACGGATCTTGGGTA-1,Monocyte,IFNg,validation
+AGCGTATTCAACACTG-1,Monocyte,IFNg,validation
+CACATTTAGCATGGCA-1,Monocyte,IFNg,validation
+TATCTCAAGATGTTAG-1,Monocyte,IFNg,validation
+TGAGCATTCCAAACAC-1,Monocyte,IFNg,validation
+TAAGAGACAGATTGCT-1,Monocyte,IFNg,validation
+TCGTACCTCTTAGAGC-1,Monocyte,IFNg,validation
+GGAGCAAGTTGAACTC-1,Monocyte,IFNg,validation
+TGTATTCAGCCATCGC-1,Monocyte,IFNg,validation
+CCCTCCTGTATAGGGC-1,Monocyte,IFNg,validation
+CATGCCTGTCCAGTGC-1,Monocyte,IFNg,validation
+GGGTTGCGTATGAATG-1,Monocyte,IFNg,validation
+CAGCCGAAGAACTGTA-1,Monocyte,IFNg,validation
+ACCCACTTCTTGTCAT-1,Monocyte,IFNg,validation
+AGCATACCATGCCCGA-1,Monocyte,IFNg,test
+GGAGCAAAGGCGATAC-1,Monocyte,IFNg,test
+GCCAAATGTGAGGCTA-1,Monocyte,IFNg,test
+TTAGTTCTCTGCTGTC-1,Monocyte,IFNg,test
+AGCTTGACAATGAATG-1,Monocyte,IFNg,test
+TAGTGGTTCACAGGCC-1,Monocyte,IFNg,test
+CGATGTAGTCTTGCGG-1,Monocyte,IFNg,test
+CGATGGCTCATCGGAT-1,Monocyte,IFNg,test
+GTTCATTCAGCCTGTG-1,Monocyte,IFNg,test
+CAGAGAGCAATTCCTT-1,Monocyte,IFNg,test
+GTACGTACACTGCCAG-1,Monocyte,IFNg,test
+CCACGGAAGCGATCCC-1,Monocyte,IFNg,test
+ATGCGATTCCGCTGTT-1,Monocyte,IFNg,test
+CACACAAGTAAACCTC-1,Monocyte,IFNg,test
+GCTCTGTTCTTCGAGA-1,Monocyte,IFNg,test
+CGTTAGATCAAAGACA-1,Monocyte,IFNg,test
+GTCGGGTTCGCCTGTT-1,Monocyte,IFNg,test
+AAATGCCCAGATCCAT-1,Monocyte,IFNg,test
+CCATTCGGTGAAGGCT-1,Monocyte,IFNg,test
+ACATGGTGTTCCACAA-1,Monocyte,IFNg,test
+CAAGATCGTCGTGGCT-1,Monocyte,IFNg,test
+GACACGCGTGAACCTT-1,Monocyte,IFNg,test
+CAGAATCTCTCCTATA-1,Monocyte,IFNg,test
+GCAGCCAGTACCGCTG-1,Monocyte,IFNg,test
+ACGCCAGCAGACGCAA-1,Monocyte,IFNg,test
+GACAGAGCAAGCGAGT-1,Monocyte,IFNg,test
+GCCTCTAGTCCGCTGA-1,Monocyte,IFNg,test
+GTTCATTAGGCAGGTT-1,Monocyte,IFNg,test
+CACTCCAGTGGTAACG-1,Monocyte,IFNg,test
+ACACCGGCACATGGGA-1,Monocyte,IFNg,test
+CCCATACTCCACGTGG-1,Monocyte,IFNg,test
+CATTCGCTCATCACCC-1,Monocyte,IFNg,test
+ACGAGCCCAGATGGCA-1,Monocyte,IFNg,test
+GTCGTAATCACCTTAT-1,Monocyte,IFNg,test
+GAAACTCCAAAGGCGT-1,Monocyte,IFNg,test
+TCTTTCCAGCTAGTTC-1,Monocyte,IFNg,test
+TGCTACCTCTCGCATC-1,Monocyte,IFNg,test
+CTACATTGTCTACCTC-1,Monocyte,IFNg,test
+GTGCTTCTCAACACTG-1,Monocyte,IFNg,test
+AAGGTTCTCATAAAGG-1,Monocyte,IFNg,test
+TGCGGGTGTTCACGGC-1,Monocyte,IFNg,test
+CAGCTGGCATGTTGAC-1,Monocyte,IFNg,test
+ACTGCTCTCGTGGGAA-1,Monocyte,IFNg,test
+GTGCAGCGTCACCCAG-1,Monocyte,IFNg,test
+GTACGTACATCATCCC-1,Monocyte,IFNg,test
+GTGCTTCCACGTTGGC-1,Monocyte,IFNg,test
+TCAGGATTCGTAGGTT-1,Monocyte,IFNg,test
+CGTGTAACAGATGGGT-1,Monocyte,IFNg,test
+GTGGGTCGTTACGTCA-1,Monocyte,IFNg,test
+ATTATCCCAAGAAAGG-1,Monocyte,IFNg,test
+AGGGTGAAGGATGGTC-1,Monocyte,IFNg,test
+CTCTACGCATTCCTCG-1,Monocyte,IFNg,test
+TGTCCCAGTACCGTTA-1,Monocyte,IFNg,test
+ACGGCCAGTCTCTCGT-1,Monocyte,IFNg,test
+ACACCAAAGCCGCCTA-1,Monocyte,IFNg,test
+AACTCAGCATGATCCA-1,Monocyte,IFNg,test
+ACTTTCAGTTCAGCGC-1,Monocyte,IFNg,test
+AGCGGTCTCGGTTAAC-1,Monocyte,IFNg,test
+ACGAGCCCAACGCACC-1,Monocyte,IFNg,test
+ACGAGCCAGCTAAACA-1,Monocyte,IFNg,test
+ATCTACTTCCCACTTG-1,Monocyte,IFNg,test
+GGTGAAGGTTAAGACA-1,Monocyte,IFNg,test
+CAGGTGCAGCCAGTAG-1,Monocyte,IFNg,test
+AGGGAGTAGTTAGGTA-1,Monocyte,IFNg,test
+GGCGACTGTGTCGCTG-1,Monocyte,IFNg,test
+ACGGAGAGTGATGTCT-1,Monocyte,IFNg,test
+GCGACCAGTGTTGGGA-1,Monocyte,IFNg,test
+GCAAACTAGAGACGAA-1,Monocyte,IFNg,test
+TGATTTCTCCACTGGG-1,Monocyte,IFNg,test
+GCTCCTATCTAACTTC-1,Monocyte,IFNg,test
+TGACAACCACATTTCT-1,Monocyte,IFNg,test
+ACACCCTTCAAGGTAA-1,NK,No stimulation,train
+TTTATGCAGACATAAC-1,NK,No stimulation,train
+TTAGTTCGTCCATGAT-1,NK,No stimulation,train
+GAACGGAAGACTAAGT-1,NK,No stimulation,train
+GATGAGGTCGCACTCT-1,NK,No stimulation,train
+TCGTACCTCCTAGGGC-1,NK,No stimulation,train
+ATGTGTGAGACAGACC-1,NK,No stimulation,train
+ACGTCAACAAGTTAAG-1,NK,No stimulation,train
+ATTACTCTCATCGCTC-1,NK,No stimulation,train
+CATGGCGAGAGTGACC-1,NK,No stimulation,train
+GTAGTCAAGTAATCCC-1,NK,No stimulation,train
+TACCTATGTGCCTTGG-1,NK,No stimulation,train
+CTCAGAACATACTACG-1,NK,No stimulation,train
+ATCTACTCATGCTAGT-1,NK,No stimulation,train
+TGAGGGATCTACTCAT-1,NK,No stimulation,train
+TGGGAAGCATGATCCA-1,NK,No stimulation,train
+TCGTAGACAAAGCGGT-1,NK,No stimulation,train
+GTATTCTGTATTCTCT-1,NK,No stimulation,train
+CCTTCCCTCAACACAC-1,NK,No stimulation,train
+ACGAGCCTCCTTGGTC-1,NK,No stimulation,train
+GGAACTTTCTTGAGGT-1,NK,No stimulation,train
+TCAGCAAAGATGGGTC-1,NK,No stimulation,train
+CAACCTCCAAGCTGAG-1,NK,No stimulation,train
+GCAATCAGTCTTCGTC-1,NK,No stimulation,train
+TTTATGCAGTTGTAGA-1,NK,No stimulation,train
+GATCGTACACACCGAC-1,NK,No stimulation,train
+CACACTCAGCTAACTC-1,NK,No stimulation,train
+CCTTACGCAAGCTGGA-1,NK,No stimulation,train
+GAACATCTCCGCGCAA-1,NK,No stimulation,train
+AAGGTTCAGTCGAGTG-1,NK,No stimulation,train
+GAAATGAAGAGGACGG-1,NK,No stimulation,train
+AACACGTGTTTGACAC-1,NK,No stimulation,train
+TTCTACATCCACGACG-1,NK,No stimulation,train
+GAACCTATCTGAAAGA-1,NK,No stimulation,train
+TGACTTTGTGAGTGAC-1,NK,No stimulation,train
+CATCGAACATTGGGCC-1,NK,No stimulation,train
+TGAGGGAGTATGAATG-1,NK,No stimulation,train
+AGCTCCTTCATGCAAC-1,NK,No stimulation,train
+TTTGCGCTCCGCAGTG-1,NK,No stimulation,train
+GTGCTTCGTCACTTCC-1,NK,No stimulation,train
+GGGCACTAGCCCAATT-1,NK,No stimulation,train
+CTCATTAAGGAGCGAG-1,NK,No stimulation,train
+AAGGCAGGTATGGTTC-1,NK,No stimulation,train
+ATTGGACTCGCATGGC-1,NK,No stimulation,train
+TTGACTTGTACCGTTA-1,NK,No stimulation,train
+ACATCAGTCGCACTCT-1,NK,No stimulation,train
+ACCAGTAAGTTGAGAT-1,NK,No stimulation,train
+CATATGGCAATAGCGG-1,NK,No stimulation,train
+CCTATTACAGCTGTTA-1,NK,No stimulation,train
+GACCTGGAGCTTTGGT-1,NK,No stimulation,train
+GATTCAGGTAGCTTGT-1,NK,No stimulation,train
+GTGAAGGGTCAAGCGA-1,NK,No stimulation,train
+ACGGAGAAGGATGTAT-1,NK,No stimulation,train
+CGCTGGACAGGAATGC-1,NK,No stimulation,train
+AAGGCAGCAGATGGGT-1,NK,No stimulation,train
+TCGAGGCTCTTGAGAC-1,NK,No stimulation,train
+AGCGTATTCTGCTTGC-1,NK,No stimulation,train
+CCTTCCCGTACTCAAC-1,NK,No stimulation,train
+GACTAACTCCATTCTA-1,NK,No stimulation,train
+GGGTCTGAGCACAGGT-1,NK,No stimulation,train
+TGTGTTTAGCTGATAA-1,NK,No stimulation,train
+CGGACGTGTACGACCC-1,NK,No stimulation,train
+TGCCCTATCACATAGC-1,NK,No stimulation,train
+TAGAGCTAGGGTTTCT-1,NK,No stimulation,train
+GATGAGGTCACTATTC-1,NK,No stimulation,train
+CGATGTAAGCCAGTTT-1,NK,No stimulation,train
+AAATGCCGTTGGAGGT-1,NK,No stimulation,train
+CAAGAAATCAGCAACT-1,NK,No stimulation,train
+GTCACAATCTCCGGTT-1,NK,No stimulation,train
+AGCATACGTCAAAGCG-1,NK,No stimulation,train
+GCTCTGTGTGTGGCTC-1,NK,No stimulation,train
+TGGCGCAGTTCGGCAC-1,NK,No stimulation,train
+CGTCTACGTCCCTTGT-1,NK,No stimulation,train
+TAAGCGTCAGAGTGTG-1,NK,No stimulation,train
+CATATGGAGTATCGAA-1,NK,No stimulation,train
+TCTTCGGTCAACGGCC-1,NK,No stimulation,train
+CAGCCGATCGGAGGTA-1,NK,No stimulation,train
+CGCTGGACACTGTTAG-1,NK,No stimulation,train
+CCATGTCCAGTCTTCC-1,NK,No stimulation,train
+AGTGGGAAGGGATGGG-1,NK,No stimulation,train
+ACGCAGCAGGCGCTCT-1,NK,No stimulation,train
+GCGAGAAGTTCACCTC-1,NK,No stimulation,train
+GGACAAGAGCGAAGGG-1,NK,No stimulation,train
+TACGGATAGAATAGGG-1,NK,No stimulation,train
+CCGTACTCAGTATGCT-1,NK,No stimulation,train
+CATCAGAGTCTCTCGT-1,NK,No stimulation,train
+TTAGGCAAGACTCGGA-1,NK,No stimulation,train
+ATCCGAAAGATAGCAT-1,NK,No stimulation,train
+CTCCTAGGTGCACCAC-1,NK,No stimulation,train
+CATTCGCCAGTCACTA-1,NK,No stimulation,train
+ACACTGACAATGGATA-1,NK,No stimulation,train
+GAAATGATCGGAATCT-1,NK,No stimulation,train
+AATCGGTCATGCAATC-1,NK,No stimulation,train
+GTCTCGTGTCGACTGC-1,NK,No stimulation,train
+AGAATAGTCTAGCACA-1,NK,No stimulation,train
+CCTAGCTCATTTCACT-1,NK,No stimulation,train
+TGAGAGGCATTGGGCC-1,NK,No stimulation,train
+GCAGCCACACGGCGTT-1,NK,No stimulation,train
+GACTAACTCCAGTATG-1,NK,No stimulation,train
+TGGCCAGCATCGTCGG-1,NK,No stimulation,train
+GCTGGGTGTGCGGTAA-1,NK,No stimulation,train
+TGTCCCAAGTTCCACA-1,NK,No stimulation,train
+CGGTTAATCTCTGCTG-1,NK,No stimulation,train
+TTTCCTCTCGGAAATA-1,NK,No stimulation,train
+GATCGATCATTCACTT-1,NK,No stimulation,train
+CGTTGGGCAAGGGTCA-1,NK,No stimulation,train
+CTGCGGATCCTGCAGG-1,NK,No stimulation,train
+GTACGTAAGATATACG-1,NK,No stimulation,train
+GTATCTTCAGATTGCT-1,NK,No stimulation,train
+CTGAAACCACCTTGTC-1,NK,No stimulation,train
+AGCAGCCCAAGCCCAC-1,NK,No stimulation,train
+GGATTACCACCTCGTT-1,NK,No stimulation,train
+CCTCAGTGTTTGTGTG-1,NK,No stimulation,train
+TACTTGTTCGTTACAG-1,NK,No stimulation,train
+TCATTACAGTCAAGCG-1,NK,No stimulation,train
+AGTGTCAGTTTGGCGC-1,NK,No stimulation,train
+TACTTGTGTGAGGGAG-1,NK,No stimulation,train
+TATGCCCGTCTTGCGG-1,NK,No stimulation,train
+CAGAGAGGTGGTTTCA-1,NK,No stimulation,train
+TCCACACCAGGAATGC-1,NK,No stimulation,train
+GAACCTACACAGACAG-1,NK,No stimulation,train
+TCAGGATGTGATGTGG-1,NK,No stimulation,train
+GAAGCAGTCGTAGGAG-1,NK,No stimulation,train
+GCTTGAAAGTGGTAAT-1,NK,No stimulation,train
+GGGATGACAGGTCTCG-1,NK,No stimulation,train
+ACGGGTCTCTGGGCCA-1,NK,No stimulation,train
+TGCGTGGCATCGACGC-1,NK,No stimulation,train
+AGAATAGTCGGCCGAT-1,NK,No stimulation,train
+GCTGGGTAGGGTTTCT-1,NK,No stimulation,train
+ACATACGCATGCCCGA-1,NK,No stimulation,train
+AGAATAGTCCGTAGGC-1,NK,No stimulation,train
+AGGGAGTAGGAATCGC-1,NK,No stimulation,train
+CATTATCTCAACACCA-1,NK,No stimulation,train
+CTAGCCTGTAAGAGAG-1,NK,No stimulation,train
+ATCTACTAGTCACGCC-1,NK,No stimulation,train
+GTTCGGGGTTCGTGAT-1,NK,No stimulation,train
+GCTGGGTCACCCTATC-1,NK,No stimulation,train
+TACCTTATCACCACCT-1,NK,No stimulation,train
+GATCGCGAGTGTCCAT-1,NK,No stimulation,train
+TTTGGTTCACGAAATA-1,NK,No stimulation,train
+CACAGTACAGTATCTG-1,NK,No stimulation,train
+ACGAGCCAGATGGCGT-1,NK,No stimulation,train
+CTCTACGCATCAGTAC-1,NK,No stimulation,train
+CTGATAGAGGGAGTAA-1,NK,No stimulation,train
+GTCCTCATCACCTTAT-1,NK,No stimulation,train
+GACACGCAGACGCAAC-1,NK,No stimulation,train
+ACTTTCACAGGACCCT-1,NK,No stimulation,train
+GCGCCAACATTGTGCA-1,NK,No stimulation,train
+CTTCTCTGTGCACGAA-1,NK,No stimulation,train
+AGACGTTTCTGAGGGA-1,NK,No stimulation,train
+TGGACGCTCCTAGTGA-1,NK,No stimulation,train
+ATGTGTGGTCTCCCTA-1,NK,No stimulation,train
+ACCAGTACACATCCAA-1,NK,No stimulation,train
+CTCCTAGAGGGTCGAT-1,NK,No stimulation,train
+CGTCCATTCATTGCCC-1,NK,No stimulation,train
+CTACGTCCAATGGATA-1,NK,No stimulation,train
+TACCTATGTTGAGTTC-1,NK,No stimulation,train
+CTCACACCAGTAAGAT-1,NK,No stimulation,train
+GGATTACAGTACATGA-1,NK,No stimulation,train
+CTAACTTTCTTGAGGT-1,NK,No stimulation,train
+TGCGCAGCATGCAATC-1,NK,No stimulation,train
+ATTTCTGTCCACTGGG-1,NK,No stimulation,train
+ATGCGATAGACATAAC-1,NK,No stimulation,train
+TGACAACCACTGTCGG-1,NK,No stimulation,train
+TTTGTCAAGATAGGAG-1,NK,No stimulation,train
+ACTGCTCTCCCTAACC-1,NK,No stimulation,train
+AGAGCTTTCATAAAGG-1,NK,No stimulation,train
+CACAGGCCAGACGCAA-1,NK,No stimulation,train
+TTCTCAAGTAGCGCTC-1,NK,No stimulation,train
+CATCCACCACAAGCCC-1,NK,No stimulation,train
+CGAGCACGTCCGCTGA-1,NK,No stimulation,train
+CTGTGCTAGGCGTACA-1,NK,No stimulation,train
+GTGCATAGTGGCCCTA-1,NK,No stimulation,train
+GGCGTGTTCCTCAATT-1,NK,No stimulation,train
+ACGAGGAAGCGTCAAG-1,NK,No stimulation,train
+GGGAGATAGTACGCGA-1,NK,No stimulation,train
+CTCCTAGGTGTTCTTT-1,NK,No stimulation,train
+AAGCCGCAGCACCGCT-1,NK,No stimulation,train
+ACCGTAAGTAGCCTAT-1,NK,No stimulation,train
+ACGGCCAGTACGCACC-1,NK,No stimulation,train
+TTGAACGGTTCAGGCC-1,NK,No stimulation,train
+CACAGTATCTTGTACT-1,NK,No stimulation,train
+GCCAAATGTGATGTGG-1,NK,No stimulation,train
+CCATTCGCACGAGGTA-1,NK,No stimulation,train
+GGTATTGAGCTAGCCC-1,NK,No stimulation,train
+AAGCCGCGTTACGTCA-1,NK,No stimulation,train
+CCACTACAGTGACATA-1,NK,No stimulation,train
+ATAAGAGGTTCGGCAC-1,NK,No stimulation,train
+TAAGAGAAGGCCCTCA-1,NK,No stimulation,train
+ACTGATGAGAGTTGGC-1,NK,No stimulation,train
+GTATCTTCATGCCCGA-1,NK,No stimulation,train
+TGCCAAAGTCACTTCC-1,NK,No stimulation,train
+CAGCAGCCACACGCTG-1,NK,No stimulation,train
+GGACGTCTCAGCACAT-1,NK,No stimulation,train
+ACGCCGAAGGAGTTTA-1,NK,No stimulation,train
+AGTTGGTTCTGTGCAA-1,NK,No stimulation,train
+CCTAAAGTCAGCACAT-1,NK,No stimulation,train
+CTGGTCTAGTGCGTGA-1,NK,No stimulation,train
+GACTAACGTCGCGTGT-1,NK,No stimulation,train
+AGGGTGATCCGAAGAG-1,NK,No stimulation,train
+CTCACACAGATATGCA-1,NK,No stimulation,train
+GTAACTGTCCCTCAGT-1,NK,No stimulation,train
+CGAGAAGTCCCTTGCA-1,NK,No stimulation,train
+AGCGTATTCCCAAGTA-1,NK,No stimulation,train
+CATCGAAAGGGAGTAA-1,NK,No stimulation,train
+GCAGCCATCACTATTC-1,NK,No stimulation,train
+AGCATACTCGTTACAG-1,NK,No stimulation,train
+ATCCGAATCCATGAAC-1,NK,No stimulation,train
+AAAGTAGGTAATAGCA-1,NK,No stimulation,train
+GCTCTGTCACATGTGT-1,NK,No stimulation,train
+GTGGGTCCACCAACCG-1,NK,No stimulation,train
+GTAGGCCGTCCCTACT-1,NK,No stimulation,train
+GTCTCGTCATTACCTT-1,NK,No stimulation,train
+TCGGTAATCCGGGTGT-1,NK,No stimulation,train
+CTTTGCGGTCAGAATA-1,NK,No stimulation,train
+TGGCCAGCATAGGATA-1,NK,No stimulation,train
+GTGCTTCAGGGCACTA-1,NK,No stimulation,train
+CCTATTAAGTGCCATT-1,NK,No stimulation,train
+AACTCAGGTGATAAGT-1,NK,No stimulation,train
+TCCCGATCACGACTCG-1,NK,No stimulation,train
+TTGTAGGTCACCCTCA-1,NK,No stimulation,train
+TCTTTCCAGCCCAGCT-1,NK,No stimulation,train
+GTCACGGTCAGGTAAA-1,NK,No stimulation,train
+CTAATGGAGCTAGTTC-1,NK,No stimulation,train
+CTCACACGTACTCGCG-1,NK,No stimulation,train
+AGCGGTCAGCGATATA-1,NK,No stimulation,train
+TTAGGACGTTGGACCC-1,NK,No stimulation,train
+TGCTACCGTCTTGATG-1,NK,No stimulation,train
+CCTATTACATGGTTGT-1,NK,No stimulation,train
+GCGCAACAGGCCGAAT-1,NK,No stimulation,train
+GAGGTGAAGACACGAC-1,NK,No stimulation,train
+ACGAGCCCAAACGCGA-1,NK,No stimulation,train
+GTAACGTTCATTGCGA-1,NK,No stimulation,train
+GCTGCGAAGATGCGAC-1,NK,No stimulation,train
+TGCCCATAGATGCGAC-1,NK,No stimulation,train
+TTAGGCAGTAGTACCT-1,NK,No stimulation,train
+CTCTAATTCCAGATCA-1,NK,No stimulation,train
+CCACTACGTAAGGATT-1,NK,No stimulation,train
+AGCAGCCTCAGTGTTG-1,NK,No stimulation,train
+CTAATGGCAGCATGAG-1,NK,No stimulation,train
+GGTATTGTCGTCCGTT-1,NK,No stimulation,train
+GGGAATGGTCCATCCT-1,NK,No stimulation,train
+CTCATTACATCCCACT-1,NK,No stimulation,train
+CTTAGGACAATGAATG-1,NK,No stimulation,train
+GCACTCTCATTAGGCT-1,NK,No stimulation,train
+ACGATACAGTCGATAA-1,NK,No stimulation,train
+AGGGAGTTCGCGATCG-1,NK,No stimulation,train
+CACTCCAGTTAAGTAG-1,NK,No stimulation,train
+GCGGGTTTCAAGATCC-1,NK,No stimulation,train
+TCGGTAATCGGTCTAA-1,NK,No stimulation,train
+GCAAACTAGATGTTAG-1,NK,No stimulation,train
+CTTTGCGTCTGGTTCC-1,NK,No stimulation,train
+AACACGTAGGATCGCA-1,NK,No stimulation,train
+GAGGTGAGTCTCGTTC-1,NK,No stimulation,train
+TGTATTCAGGAGTTGC-1,NK,No stimulation,train
+ATCCGAATCCAAACAC-1,NK,No stimulation,train
+TGACGGCGTTCAGTAC-1,NK,No stimulation,train
+CAGTAACCATTGGGCC-1,NK,No stimulation,train
+GCGGGTTGTGTTCGAT-1,NK,No stimulation,train
+ACCGTAAGTCATATCG-1,NK,No stimulation,train
+GTCCTCACACAAGCCC-1,NK,No stimulation,train
+GGCTGGTAGCTGCCCA-1,NK,No stimulation,train
+ACACTGAGTTACGGAG-1,NK,No stimulation,train
+CGAACATAGCCACGTC-1,NK,No stimulation,train
+CGAGCCACAACTTGAC-1,NK,No stimulation,train
+TAGGCATTCATACGGT-1,NK,No stimulation,train
+CAACTAGCAAACAACA-1,NK,No stimulation,train
+ACATGGTGTCATTAGC-1,NK,No stimulation,train
+GCATGATCACAAGTAA-1,NK,No stimulation,train
+TCGCGAGCACACTGCG-1,NK,No stimulation,train
+AACTTTCTCCGCGCAA-1,NK,No stimulation,train
+ACGCAGCCAGCTGTTA-1,NK,No stimulation,train
+CTCTGGTAGCTAACAA-1,NK,No stimulation,train
+TTATGCTCACGTAAGG-1,NK,No stimulation,train
+AGGGAGTGTTGCCTCT-1,NK,No stimulation,train
+GAATGAATCTACTATC-1,NK,No stimulation,train
+ACGGGTCTCTTAACCT-1,NK,No stimulation,train
+ATGCGATTCTCCCTGA-1,NK,No stimulation,train
+GATGAAATCTGCTTGC-1,NK,No stimulation,train
+GTAGTCAGTCAACTGT-1,NK,No stimulation,train
+AGTGTCACACCTCGTT-1,NK,No stimulation,train
+TACAGTGCAAGTAGTA-1,NK,No stimulation,train
+TATCTCAGTCGACTAT-1,NK,No stimulation,train
+CACCTTGAGTAGCGGT-1,NK,No stimulation,train
+TGCGGGTAGAACTGTA-1,NK,No stimulation,train
+GGCCGATAGCGCCTCA-1,NK,No stimulation,train
+TAGTGGTCAGCCAGAA-1,NK,No stimulation,train
+CCATGTCTCATATCGG-1,NK,No stimulation,train
+AGATCTGCACGACTCG-1,NK,No stimulation,train
+GAAACTCCAAGTCATC-1,NK,No stimulation,train
+ACGAGGATCTTTAGTC-1,NK,No stimulation,train
+TCGGGACGTCACCCAG-1,NK,No stimulation,train
+CGAACATAGCTGAACG-1,NK,No stimulation,train
+CGTGAGCGTATGCTTG-1,NK,No stimulation,train
+ACTGAGTTCGCACTCT-1,NK,No stimulation,train
+TTTCCTCGTAACGACG-1,NK,No stimulation,train
+GAAATGATCATAACCG-1,NK,No stimulation,train
+TCTCTAAAGCAGCGTA-1,NK,No stimulation,train
+GTCACGGCACAGAGGT-1,NK,No stimulation,train
+CGTAGGCTCAGGATCT-1,NK,No stimulation,train
+GCTGGGTGTCAGAATA-1,NK,No stimulation,train
+ACATACGTCTTAACCT-1,NK,No stimulation,train
+GCTGCTTCATGGTTGT-1,NK,No stimulation,train
+AGCAGCCCAGTAGAGC-1,NK,No stimulation,train
+CAGCATAGTCTTGTCC-1,NK,No stimulation,train
+CTGAAACAGAATGTTG-1,NK,No stimulation,train
+GTTCTCGCACTATCTT-1,NK,No stimulation,train
+GCGCAACCACTTACGA-1,NK,No stimulation,train
+GTGGGTCGTGCACCAC-1,NK,No stimulation,train
+AGGCCGTGTCGAACAG-1,NK,No stimulation,train
+GACTGCGGTTGTGGAG-1,NK,No stimulation,train
+TGGTTAGTCATGCAAC-1,NK,No stimulation,train
+TGTGTTTCACCTCGTT-1,NK,No stimulation,train
+CCATGTCTCTGGCGAC-1,NK,No stimulation,train
+GCAGCCAGTCGGGTCT-1,NK,No stimulation,train
+CGTGAGCCAGTCCTTC-1,NK,No stimulation,train
+TGGTTCCTCAATAAGG-1,NK,No stimulation,train
+TGGTTCCTCCAAACAC-1,NK,No stimulation,train
+CCAGCGAGTAATAGCA-1,NK,No stimulation,train
+CACACCTAGACCACGA-1,NK,No stimulation,train
+TTGGAACGTTCGCGAC-1,NK,No stimulation,train
+AAAGCAAAGCCGGTAA-1,NK,No stimulation,train
+CTCTGGTGTAGAGTGC-1,NK,No stimulation,train
+CTGTGCTCAATGGATA-1,NK,No stimulation,train
+AACGTTGGTAAGTGGC-1,NK,No stimulation,train
+AAGCCGCGTGAGTATA-1,NK,No stimulation,train
+ATTCTACGTCTCCACT-1,NK,No stimulation,train
+TCATTACGTCAAAGAT-1,NK,No stimulation,train
+CCAGCGATCCAATGGT-1,NK,No stimulation,train
+ACGGGCTTCCTACAGA-1,NK,No stimulation,train
+CTCGAAAGTCCATCCT-1,NK,No stimulation,train
+CAGCTGGTCGGCGCAT-1,NK,No stimulation,train
+AATCCAGGTAAGGATT-1,NK,No stimulation,train
+CGAGCCACACCAACCG-1,NK,No stimulation,train
+TCAGGATTCAGCTTAG-1,NK,No stimulation,train
+CGCCAAGTCAATAAGG-1,NK,No stimulation,train
+ATAAGAGCACAACGCC-1,NK,No stimulation,train
+GTTCTCGGTGACTACT-1,NK,No stimulation,train
+TTAGTTCTCACTTCAT-1,NK,No stimulation,train
+TGACAACGTGCAGGTA-1,NK,No stimulation,train
+CGTTGGGCACCCTATC-1,NK,No stimulation,train
+TGTTCCGTCATGCATG-1,NK,No stimulation,train
+CGCGGTAGTCAATGTC-1,NK,No stimulation,train
+CTGATCCGTATTACCG-1,NK,No stimulation,train
+GTTCATTGTTAGATGA-1,NK,No stimulation,train
+AGGGTGACACTCTGTC-1,NK,No stimulation,train
+ACGGCCAAGGCTCAGA-1,NK,No stimulation,train
+TAGAGCTGTCCATCCT-1,NK,No stimulation,train
+TGTGGTACAGATCGGA-1,NK,No stimulation,train
+CATTATCAGCACACAG-1,NK,No stimulation,train
+GTAACGTCACAGCCCA-1,NK,No stimulation,train
+TATTACCGTGACAAAT-1,NK,No stimulation,train
+GCAATCAAGGTGCACA-1,NK,No stimulation,train
+CCTACCAGTATCACCA-1,NK,No stimulation,train
+GAACATCTCCAATGGT-1,NK,No stimulation,train
+GTCGTAAAGCTATGCT-1,NK,No stimulation,train
+CAGCGACCACTAGTAC-1,NK,No stimulation,train
+TGAGCATGTATATGAG-1,NK,No stimulation,train
+GCCTCTAGTGCCTGGT-1,NK,No stimulation,train
+GCCAAATAGACCCACC-1,NK,No stimulation,train
+TACTCGCAGATCCTGT-1,NK,No stimulation,train
+CTACACCTCGGCGCAT-1,NK,No stimulation,train
+CCGTGGAGTCTCTCGT-1,NK,No stimulation,train
+GGTGAAGGTCGAATCT-1,NK,No stimulation,train
+TATCTCAAGAAGAAGC-1,NK,No stimulation,train
+CCTATTAAGAGGTACC-1,NK,No stimulation,train
+AAGTCTGTCTGTCTCG-1,NK,No stimulation,train
+GCTGCAGCAATCGAAA-1,NK,No stimulation,train
+CCACCTAAGGCTCATT-1,NK,No stimulation,train
+TGCCCATAGGAATCGC-1,NK,No stimulation,train
+CAGCTGGCAGGACGTA-1,NK,No stimulation,train
+CAGATCAGTGTCCTCT-1,NK,No stimulation,train
+GCGCAACGTAGCGTAG-1,NK,No stimulation,train
+CCGTGGACACATGACT-1,NK,No stimulation,train
+CAGATCAAGCGATGAC-1,NK,No stimulation,train
+TGTCCCACAGTCGTGC-1,NK,No stimulation,train
+AGCTCTCTCTAGCACA-1,NK,No stimulation,train
+TGCCCATAGTCGATAA-1,NK,No stimulation,train
+AGCCTAAAGCTATGCT-1,NK,No stimulation,train
+CAGCCGAGTACCTACA-1,NK,No stimulation,train
+GTGTTAGCATTACGAC-1,NK,No stimulation,train
+TCCCGATTCTTGTTTG-1,NK,No stimulation,train
+CCAGCGAGTCCAGTAT-1,NK,No stimulation,train
+CAAGTTGAGTGAAGAG-1,NK,No stimulation,train
+TGTGTTTGTCCGAATT-1,NK,No stimulation,train
+TACGGTAGTTGGGACA-1,NK,No stimulation,train
+TGAGCATCACAGGTTT-1,NK,No stimulation,train
+TCAGCAAGTCAGAAGC-1,NK,No stimulation,train
+CTCCTAGCATTCTTAC-1,NK,No stimulation,train
+GCGGGTTGTTCACGGC-1,NK,No stimulation,train
+GATGAAAAGAACAACT-1,NK,No stimulation,train
+ACGGCCATCGCAGGCT-1,NK,No stimulation,train
+GAACGGAAGAGACTTA-1,NK,No stimulation,train
+CTACGTCGTAGATTAG-1,NK,No stimulation,train
+TGACGGCCATGCCTAA-1,NK,No stimulation,train
+CTGATCCTCCCGACTT-1,NK,No stimulation,train
+GACACGCCAATGGATA-1,NK,No stimulation,train
+AATCGGTAGACAGGCT-1,NK,No stimulation,train
+GCTTCCAAGGCAGGTT-1,NK,No stimulation,train
+CAGCTAAGTACAAGTA-1,NK,No stimulation,train
+CCTAGCTGTGTCAATC-1,NK,No stimulation,train
+GTAGTCACAGTCTTCC-1,NK,No stimulation,train
+TCAACGATCTTGACGA-1,NK,No stimulation,train
+CATCGGGTCCTCAACC-1,NK,No stimulation,train
+TACGGATAGATATACG-1,NK,No stimulation,train
+GACCTGGGTCTCTCGT-1,NK,No stimulation,train
+TTCGAAGGTCGCGAAA-1,NK,No stimulation,train
+GTACGTATCCTATTCA-1,NK,No stimulation,train
+CGATGTAGTTGGACCC-1,NK,No stimulation,train
+TTGGAACAGTGAATTG-1,NK,No stimulation,train
+AGTAGTCTCGCGATCG-1,NK,No stimulation,train
+ATTACTCTCTTGCCGT-1,NK,No stimulation,train
+TGTTCCGTCTGCTTGC-1,NK,No stimulation,train
+ATTGGTGAGTCAAGGC-1,NK,No stimulation,train
+CTAGTGATCAGCGACC-1,NK,No stimulation,train
+TGGTTAGTCGCTTAGA-1,NK,No stimulation,train
+CTAATGGGTCCTCTTG-1,NK,No stimulation,train
+ACTTGTTGTGCACCAC-1,NK,No stimulation,train
+CGACCTTCAGCTCCGA-1,NK,No stimulation,train
+CACACAAAGAAGGCCT-1,NK,No stimulation,train
+CCGTACTGTGTTAAGA-1,NK,No stimulation,train
+CGTCACTAGGAGCGTT-1,NK,No stimulation,train
+TACTTACAGAAACCTA-1,NK,No stimulation,train
+ACGGGCTCAGTTAACC-1,NK,No stimulation,train
+GACGTTACAGCTGTTA-1,NK,No stimulation,train
+TCAGCAAAGGTGCTAG-1,NK,No stimulation,train
+CAGCTAAGTAGCTCCG-1,NK,No stimulation,train
+CCCTCCTCATCGGACC-1,NK,No stimulation,train
+GGGCACTGTTAGGGTG-1,NK,No stimulation,train
+CGTGTCTCAAACGCGA-1,NK,No stimulation,train
+CTAGAGTAGTGACTCT-1,NK,No stimulation,train
+ACGTCAAAGGCACATG-1,NK,No stimulation,train
+CGTCCATAGCCTCGTG-1,NK,No stimulation,train
+TCGCGAGGTAAGGGCT-1,NK,No stimulation,train
+CTTCTCTTCGGAGGTA-1,NK,No stimulation,train
+ATCATCTTCACAACGT-1,NK,No stimulation,train
+GTCACGGTCCAGAAGG-1,NK,No stimulation,train
+TTGGAACCATACCATG-1,NK,No stimulation,train
+ACGGAGAAGGCGATAC-1,NK,No stimulation,train
+TGTGTTTTCTCTGTCG-1,NK,No stimulation,train
+TGCCCTATCGCAGGCT-1,NK,No stimulation,train
+ACTGAACTCAAGGCTT-1,NK,No stimulation,train
+AATCGGTGTAAGCACG-1,NK,No stimulation,train
+TGCCCTATCACTGGGC-1,NK,No stimulation,train
+GTGTTAGGTGGTAACG-1,NK,No stimulation,train
+TGCGCAGCACCACGTG-1,NK,No stimulation,train
+TACTTGTAGTACGCCC-1,NK,No stimulation,train
+GAGGTGACAAGGTTCT-1,NK,No stimulation,train
+TTCTCCTGTCATTAGC-1,NK,No stimulation,train
+CAGCTAATCGGTTCGG-1,NK,No stimulation,train
+CGTAGGCCAAGCCATT-1,NK,No stimulation,train
+CTACGTCAGCCAGTAG-1,NK,No stimulation,train
+GTACTTTCACGAGGTA-1,NK,No stimulation,train
+CTCTGGTCATTTGCCC-1,NK,No stimulation,train
+CCTAAAGTCCTTTCGG-1,NK,No stimulation,train
+GGCAATTGTCAACATC-1,NK,No stimulation,train
+TCATTTGCAATCTACG-1,NK,No stimulation,train
+ACTGCTCAGCGGCTTC-1,NK,No stimulation,train
+AGTGTCATCCTGCCAT-1,NK,No stimulation,train
+GCAATCAAGCAGCGTA-1,NK,No stimulation,train
+CTTTGCGCACGAAAGC-1,NK,No stimulation,train
+GAAGCAGCACAACGCC-1,NK,No stimulation,train
+CTACGTCGTTCAACCA-1,NK,No stimulation,train
+TTAGGCAGTCTTTCAT-1,NK,No stimulation,train
+GTGCATAGTAAATGTG-1,NK,No stimulation,train
+AGCTCTCTCATAACCG-1,NK,No stimulation,train
+CCTAGCTAGCAGACTG-1,NK,No stimulation,train
+GACTACACAGGATCGA-1,NK,No stimulation,train
+GTGCATACATCTATGG-1,NK,No stimulation,train
+GGCTCGAGTGTCTGAT-1,NK,No stimulation,train
+GACTACAGTGCCTGGT-1,NK,No stimulation,train
+CTGCTGTGTCAAGCGA-1,NK,No stimulation,validation
+CGTGTCTTCTTGCATT-1,NK,No stimulation,validation
+TGGTTAGCACGCCAGT-1,NK,No stimulation,validation
+TTGTAGGAGGCGACAT-1,NK,No stimulation,validation
+ACAGCTATCCTCTAGC-1,NK,No stimulation,validation
+TCCACACAGCTTCGCG-1,NK,No stimulation,validation
+AGGGTGAGTCGATTGT-1,NK,No stimulation,validation
+CCAGCGAAGGAATCGC-1,NK,No stimulation,validation
+TACAGTGCAAGTTCTG-1,NK,No stimulation,validation
+GACTAACAGACAAAGG-1,NK,No stimulation,validation
+TGACTAGGTCGACTGC-1,NK,No stimulation,validation
+GGACAAGAGGCATGGT-1,NK,No stimulation,validation
+CTGAAGTAGTTAACGA-1,NK,No stimulation,validation
+AGATTGCCAGGGCATA-1,NK,No stimulation,validation
+CTCACACTCTCCGGTT-1,NK,No stimulation,validation
+TGTATTCCACTAAGTC-1,NK,No stimulation,validation
+CCATTCGAGACAAGCC-1,NK,No stimulation,validation
+CCTAAAGCAGGGCATA-1,NK,No stimulation,validation
+CGTGTCTGTCTAGTCA-1,NK,No stimulation,validation
+ATCTGCCCAGTCAGCC-1,NK,No stimulation,validation
+ACCGTAACATGAGCGA-1,NK,No stimulation,validation
+GAAGCAGTCTATCGCC-1,NK,No stimulation,validation
+ACACTGATCGCACTCT-1,NK,No stimulation,validation
+TGCTACCAGAAACGAG-1,NK,No stimulation,validation
+CAGCTGGAGATCCCGC-1,NK,No stimulation,validation
+GCACTCTAGTTACCCA-1,NK,No stimulation,validation
+CTTTGCGGTTACTGAC-1,NK,No stimulation,validation
+CAGCTGGGTCTTCTCG-1,NK,No stimulation,validation
+CATCAAGGTTGTGGCC-1,NK,No stimulation,validation
+GGCAATTGTTCAGCGC-1,NK,No stimulation,validation
+CGCCAAGCACAGGCCT-1,NK,No stimulation,validation
+CGCTATCGTTCGCGAC-1,NK,No stimulation,validation
+ATTTCTGTCCAGTATG-1,NK,No stimulation,validation
+TACTTGTGTGGCTCCA-1,NK,No stimulation,validation
+TCGCGTTTCTCTAAGG-1,NK,No stimulation,validation
+GTGCTTCCATAAGACA-1,NK,No stimulation,validation
+CTTAACTAGTCCTCCT-1,NK,No stimulation,validation
+CTCGAAATCAGCGATT-1,NK,No stimulation,validation
+AACACGTTCAGCATGT-1,NK,No stimulation,validation
+CATGGCGGTTAAAGTG-1,NK,No stimulation,validation
+GCATGTAGTGATGTCT-1,NK,No stimulation,validation
+ACGGGTCAGGCTCAGA-1,NK,No stimulation,validation
+AAACGGGCACTGTGTA-1,NK,No stimulation,validation
+CCCAATCCAGCTGCAC-1,NK,No stimulation,validation
+CGGGTCAGTAAGGATT-1,NK,No stimulation,validation
+CTCGTACAGAGTGACC-1,NK,No stimulation,validation
+GATGAAATCAATAAGG-1,NK,No stimulation,validation
+CCCAGTTCACAGGAGT-1,NK,No stimulation,validation
+CCATGTCAGCCCAATT-1,NK,No stimulation,validation
+CCCAATCTCCGCGGTA-1,NK,No stimulation,validation
+TACTTACCAGATGGCA-1,NK,No stimulation,validation
+CAGCGACTCGTTGACA-1,NK,No stimulation,validation
+TGAGCCGTCGGGAGTA-1,NK,No stimulation,validation
+GTGCTTCAGAATTCCC-1,NK,No stimulation,validation
+GTACTTTTCCTCATTA-1,NK,No stimulation,validation
+GGATGTTCATGCCACG-1,NK,No stimulation,validation
+TGTATTCAGATATACG-1,NK,No stimulation,validation
+TGGACGCTCTCGTTTA-1,NK,No stimulation,validation
+AACACGTAGTGAACAT-1,NK,No stimulation,validation
+GATTCAGGTTATGTGC-1,NK,No stimulation,validation
+TTAGTTCGTCATATGC-1,NK,No stimulation,validation
+TCTTCGGGTTATCGGT-1,NK,No stimulation,validation
+CAGGTGCAGAGTACAT-1,NK,No stimulation,validation
+TGACTTTCAGATCGGA-1,NK,No stimulation,validation
+AAACGGGAGTCCTCCT-1,NK,No stimulation,validation
+CTCGGGATCGGCTTGG-1,NK,No stimulation,validation
+CGAACATCACGTGAGA-1,NK,No stimulation,validation
+AGCAGCCAGCAATATG-1,NK,No stimulation,validation
+TTTGTCAGTCTGATCA-1,NK,No stimulation,validation
+TCTGAGATCTCTAAGG-1,NK,No stimulation,validation
+AGGCCACTCTTTACAC-1,NK,No stimulation,validation
+CACTCCAGTTGGTAAA-1,NK,No stimulation,validation
+TTTGCGCCACACAGAG-1,NK,No stimulation,validation
+CTGAAACTCAGTTAGC-1,NK,No stimulation,validation
+TCATTACCACCACGTG-1,NK,No stimulation,validation
+TCTCTAAGTGGTACAG-1,NK,No stimulation,validation
+ACGCCGAGTGATGTGG-1,NK,No stimulation,validation
+CTGATAGAGTTAAGTG-1,NK,No stimulation,validation
+GCAAACTGTATCAGTC-1,NK,No stimulation,validation
+ACGCAGCGTCTTGATG-1,NK,No stimulation,validation
+CTTGGCTTCCAGAGGA-1,NK,No stimulation,validation
+CGATCGGCACGGTAGA-1,NK,No stimulation,validation
+GTCCTCAGTAGAGTGC-1,NK,No stimulation,validation
+CGAGCCAAGAGAGCTC-1,NK,No stimulation,validation
+TTATGCTGTTGATTCG-1,NK,No stimulation,validation
+GACTACACATTGAGCT-1,NK,No stimulation,validation
+TTAGGACGTGACCAAG-1,NK,No stimulation,validation
+TGCGTGGTCCTACAGA-1,NK,No stimulation,validation
+ATGTGTGGTCCGAGTC-1,NK,No stimulation,validation
+CTACGTCAGGGAAACA-1,NK,No stimulation,validation
+CTAAGACCACTGTGTA-1,NK,No stimulation,validation
+AGTGGGAGTGATGTCT-1,NK,No stimulation,validation
+TTTACTGAGTTTCCTT-1,NK,No stimulation,validation
+GCATGTAAGTTGTAGA-1,NK,No stimulation,validation
+AGGTCATGTCGATTGT-1,NK,No stimulation,validation
+ACGATGTTCACAGGCC-1,NK,No stimulation,validation
+TGACTAGAGGCGATAC-1,NK,No stimulation,validation
+GACCTGGGTCTAAAGA-1,NK,No stimulation,validation
+ATCACGACATTAGCCA-1,NK,No stimulation,validation
+GGGCATCCAATCGGTT-1,NK,No stimulation,validation
+CCACTACGTTTGTTGG-1,NK,No stimulation,validation
+CTGTGCTCATACGCCG-1,NK,No stimulation,test
+CAACCTCGTTTGTTGG-1,NK,No stimulation,test
+TATCAGGAGAGGACGG-1,NK,No stimulation,test
+GACTACAGTTAAGTAG-1,NK,No stimulation,test
+CGCTTCATCAGAGACG-1,NK,No stimulation,test
+GAACATCAGTACGCGA-1,NK,No stimulation,test
+CGATGTAAGGAGTACC-1,NK,No stimulation,test
+CGGCTAGTCGGAAATA-1,NK,No stimulation,test
+GGGCATCCAGTAAGCG-1,NK,No stimulation,test
+AATCCAGTCTACTTAC-1,NK,No stimulation,test
+CTGTTTAGTAGGAGTC-1,NK,No stimulation,test
+GTATCTTCATAACCTG-1,NK,No stimulation,test
+GACTAACGTCTAAACC-1,NK,No stimulation,test
+CTCCTAGAGAGGTTAT-1,NK,No stimulation,test
+GCTTCCAAGCTGTCTA-1,NK,No stimulation,test
+TGTCCCATCCCATTTA-1,NK,No stimulation,test
+TTCGGTCAGTCGTTTG-1,NK,No stimulation,test
+CTAGCCTTCAAAGTAG-1,NK,No stimulation,test
+AAAGCAAGTAATCACC-1,NK,No stimulation,test
+GGGAGATCATGGTCTA-1,NK,No stimulation,test
+TGAGAGGAGCGGCTTC-1,NK,No stimulation,test
+TAAGCGTGTCGCGAAA-1,NK,No stimulation,test
+CTCATTAGTTTGTTTC-1,NK,No stimulation,test
+AGGGAGTGTGGCCCTA-1,NK,No stimulation,test
+GAAACTCTCCTTAATC-1,NK,No stimulation,test
+ACGAGCCAGGTGCACA-1,NK,No stimulation,test
+GGGTCTGCAAGGTGTG-1,NK,No stimulation,test
+ATCGAGTCATACAGCT-1,NK,No stimulation,test
+GAAACTCGTCAACTGT-1,NK,No stimulation,test
+GTAGGCCGTCTTCGTC-1,NK,No stimulation,test
+CGTCTACAGACAGGCT-1,NK,No stimulation,test
+CTGTTTACAGCTCGCA-1,NK,No stimulation,test
+GTCTTCGCAGTCCTTC-1,NK,No stimulation,test
+GATTCAGGTGAGCGAT-1,NK,No stimulation,test
+TAGGCATAGCCACGCT-1,NK,No stimulation,test
+TATCAGGCACAACGCC-1,NK,No stimulation,test
+CTGCCTATCGTTACAG-1,NK,No stimulation,test
+GATGCTAAGAGCTGCA-1,NK,No stimulation,test
+CAGCTGGCAAACTGTC-1,NK,No stimulation,test
+CAGAGAGTCGACGGAA-1,NK,No stimulation,test
+GTCTTCGGTGGGTCAA-1,NK,No stimulation,test
+TTTGGTTTCAGCTTAG-1,NK,No stimulation,test
+GTGTTAGCACCACCAG-1,NK,No stimulation,test
+GCAGTTACACGAAGCA-1,NK,No stimulation,test
+GGAGCAATCAGCAACT-1,NK,No stimulation,test
+TCAGGTAGTTCGTCTC-1,NK,No stimulation,test
+TAGCCGGAGACATAAC-1,NK,No stimulation,test
+CTCGGGAGTTGCTCCT-1,NK,No stimulation,test
+GAAACTCGTAAATGTG-1,NK,No stimulation,test
+TCAGCAAGTAGCGCAA-1,NK,No stimulation,test
+CGGACACAGTGACTCT-1,NK,No stimulation,test
+ACGTCAAGTCTAGTCA-1,NK,No stimulation,test
+AACTCTTCATCACGTA-1,NK,No stimulation,test
+GAAACTCCATCGATGT-1,NK,No stimulation,test
+AAGGCAGAGGGTGTGT-1,NK,No stimulation,test
+CAAGATCTCGTAGGTT-1,NK,No stimulation,test
+GGGTCTGGTTACGCGC-1,NK,No stimulation,test
+ACTTTCAGTAGAGCTG-1,NK,No stimulation,test
+AGTAGTCAGTACTTGC-1,NK,No stimulation,test
+ACGTCAACAGACAGGT-1,NK,No stimulation,test
+CGAGCACCAGTGACAG-1,NK,No stimulation,test
+ATCTGCCGTGAGTATA-1,NK,No stimulation,test
+ACACCGGAGTGCAAGC-1,NK,No stimulation,test
+GACAGAGTCACAATGC-1,NK,No stimulation,test
+CCTTCCCTCACTGGGC-1,NK,No stimulation,test
+CACACCTCAGCTCGAC-1,NK,No stimulation,test
+TGCGTGGCAACACGCC-1,NK,No stimulation,test
+AGGGATGGTTATGCGT-1,NK,No stimulation,test
+CACACCTTCACGCATA-1,NK,No stimulation,test
+TGGACGCGTTATGCGT-1,NK,No stimulation,test
+CTAACTTTCAGAAATG-1,NK,No stimulation,test
+ACGGAGAGTGGTACAG-1,NK,No stimulation,test
+AACCATGCACCACGTG-1,NK,No stimulation,test
+GATCTAGTCAATACCG-1,NK,No stimulation,test
+CTGCTGTTCAGTGTTG-1,NK,No stimulation,test
+TATGCCCAGCGATAGC-1,NK,No stimulation,test
+GGGTTGCAGTCTCCTC-1,NK,No stimulation,test
+GTACTTTCACGGTGTC-1,NK,No stimulation,test
+CCTTTCTGTCCCTACT-1,NK,No stimulation,test
+GATCTAGTCCGCTGTT-1,NK,No stimulation,test
+ATCATGGTCACGACTA-1,NK,No stimulation,test
+TTAGGCACATCAGTAC-1,NK,No stimulation,test
+TTAGGCAGTCCTAGCG-1,NK,No stimulation,test
+CACCACTGTGATGCCC-1,NK,No stimulation,test
+TGCGTGGAGCTCTCGG-1,NK,No stimulation,test
+TTTCCTCGTAAACCTC-1,NK,No stimulation,test
+TCTGGAAGTCATATCG-1,NK,No stimulation,test
+TCAGATGAGGAATCGC-1,NK,No stimulation,test
+GGCGACTCAGATCGGA-1,NK,No stimulation,test
+GAGCAGAGTCCTCTTG-1,NK,No stimulation,test
+CAGTAACGTCCATCCT-1,NK,No stimulation,test
+CCTAAAGGTCGAATCT-1,NK,No stimulation,test
+AGATCTGCAACTGCGC-1,NK,No stimulation,test
+GCATGTAAGGATGTAT-1,NK,No stimulation,test
+ACTTGTTAGGCAGTCA-1,NK,No stimulation,test
+CGGAGCTCAGACAAGC-1,NK,No stimulation,test
+CCTACACCAAAGTGCG-1,NK,No stimulation,test
+ACGGCCAAGAATGTGT-1,NK,No stimulation,test
+GCCTCTACACAGTCGC-1,NK,No stimulation,test
+AGTCTTTAGGTGCAAC-1,NK,No stimulation,test
+CTGTTTACACACAGAG-1,NK,No stimulation,test
+TTGACTTTCAATCACG-1,NK,IFNg,train
+GCATGCGGTTCACGGC-1,NK,IFNg,train
+TCATTTGCAGACGTAG-1,NK,IFNg,train
+GGTGAAGGTACATCCA-1,NK,IFNg,train
+AGGCCGTGTATTCGTG-1,NK,IFNg,train
+TGCCAAACAGGCTGAA-1,NK,IFNg,train
+TTCGAAGAGTAGCCGA-1,NK,IFNg,train
+CATCGAAAGTTGAGAT-1,NK,IFNg,train
+GGCCGATTCGCCAAAT-1,NK,IFNg,train
+TCATTTGGTCTCTTAT-1,NK,IFNg,train
+GGGAGATCACAAGTAA-1,NK,IFNg,train
+ACTGAACGTTCCATGA-1,NK,IFNg,train
+CTTAGGAGTCAGAATA-1,NK,IFNg,train
+TGACGGCGTAGATTAG-1,NK,IFNg,train
+AGCTTGATCATCACCC-1,NK,IFNg,train
+CATCAAGGTCCTCCAT-1,NK,IFNg,train
+TGAGGGAAGACAGACC-1,NK,IFNg,train
+CCAATCCTCACCAGGC-1,NK,IFNg,train
+TGGCCAGGTGGTTTCA-1,NK,IFNg,train
+CTAGCCTCATGAACCT-1,NK,IFNg,train
+GACGTGCCATGCCTAA-1,NK,IFNg,train
+CTACGTCTCTTTAGTC-1,NK,IFNg,train
+AATCGGTTCACATACG-1,NK,IFNg,train
+CGACTTCAGCAGGCTA-1,NK,IFNg,train
+TGATTTCAGTGTGGCA-1,NK,IFNg,train
+CGGAGCTAGAGGTTGC-1,NK,IFNg,train
+GGACATTGTTCCTCCA-1,NK,IFNg,train
+TTGGAACGTTCTCATT-1,NK,IFNg,train
+CTAGTGATCCACGAAT-1,NK,IFNg,train
+TGAGCCGGTTTGCATG-1,NK,IFNg,train
+AGATCTGAGGAATCGC-1,NK,IFNg,train
+CCATTCGAGTAGCCGA-1,NK,IFNg,train
+GACGTGCAGGCAGGTT-1,NK,IFNg,train
+GAATAAGCACCTGGTG-1,NK,IFNg,train
+CAGCTAAAGATCGGGT-1,NK,IFNg,train
+GGCGACTCATCACAAC-1,NK,IFNg,train
+GGAACTTAGTTCGATC-1,NK,IFNg,train
+AGCCTAACAAGCCGCT-1,NK,IFNg,train
+GCGGGTTTCTGATTCT-1,NK,IFNg,train
+CAGTAACAGAGAGCTC-1,NK,IFNg,train
+ACGCCGACATGGGACA-1,NK,IFNg,train
+GCCAAATTCAGGTAAA-1,NK,IFNg,train
+CGATGGCGTAGTACCT-1,NK,IFNg,train
+CCACGGAAGAGGTACC-1,NK,IFNg,train
+CATCCACCACGGCTAC-1,NK,IFNg,train
+TCGTACCTCATGTGGT-1,NK,IFNg,train
+GAACATCGTTCTGTTT-1,NK,IFNg,train
+TTTGCGCCAATACGCT-1,NK,IFNg,train
+CAGTAACTCGTACGGC-1,NK,IFNg,train
+AAATGCCGTGCGGTAA-1,NK,IFNg,train
+ATGCGATCAATGAAAC-1,NK,IFNg,train
+GGAGCAACACGGTAAG-1,NK,IFNg,train
+CTAGCCTGTAGGCATG-1,NK,IFNg,train
+ACGATACCACTAGTAC-1,NK,IFNg,train
+CCCAATCAGGTGACCA-1,NK,IFNg,train
+TGCTGCTCACGGCGTT-1,NK,IFNg,train
+CTACGTCTCAGTACGT-1,NK,IFNg,train
+TAAGAGACACCTATCC-1,NK,IFNg,train
+GATCTAGAGGACTGGT-1,NK,IFNg,train
+AGGGATGAGGAGTACC-1,NK,IFNg,train
+AGCATACCAATCGGTT-1,NK,IFNg,train
+GTAACTGAGCAATCTC-1,NK,IFNg,train
+TACAGTGTCTCTAAGG-1,NK,IFNg,train
+GAACCTACACTAAGTC-1,NK,IFNg,train
+CGACTTCCAAGAGGCT-1,NK,IFNg,train
+AGGCCGTTCAGAGACG-1,NK,IFNg,train
+TGAGCCGTCGCATGGC-1,NK,IFNg,train
+GTACTTTTCAGAAATG-1,NK,IFNg,train
+TGGGAAGTCAGCGATT-1,NK,IFNg,train
+TGGCTGGGTATATCCG-1,NK,IFNg,train
+CACAGTAAGGACAGCT-1,NK,IFNg,train
+GGACAAGCACCGTTGG-1,NK,IFNg,train
+TGAGGGAGTAAGTGTA-1,NK,IFNg,train
+AGAGCTTAGCTAAGAT-1,NK,IFNg,train
+ACACCGGGTCATATGC-1,NK,IFNg,train
+AGATTGCGTCATGCAT-1,NK,IFNg,train
+CAGCCGAAGGATCGCA-1,NK,IFNg,train
+AAGACCTAGCAGGTCA-1,NK,IFNg,train
+CCACTACGTTCGGGCT-1,NK,IFNg,train
+TCCCGATTCTCTTATG-1,NK,IFNg,train
+TTCTTAGCATTTGCTT-1,NK,IFNg,train
+TCTGGAAGTCTTCAAG-1,NK,IFNg,train
+GACTGCGTCTACTCAT-1,NK,IFNg,train
+TTAGTTCCATACTCTT-1,NK,IFNg,train
+TGTTCCGTCTCCAACC-1,NK,IFNg,train
+AACCATGAGGACGAAA-1,NK,IFNg,train
+GAAACTCCATCGGAAG-1,NK,IFNg,train
+GCCAAATCACCAGGCT-1,NK,IFNg,train
+TTGCGTCAGCGGATCA-1,NK,IFNg,train
+TGCCCATGTCGAACAG-1,NK,IFNg,train
+TGGTTAGTCCGATATG-1,NK,IFNg,train
+CGAGCCACAAGAGTCG-1,NK,IFNg,train
+CGATTGAAGACTCGGA-1,NK,IFNg,train
+CGGTTAATCATGCTCC-1,NK,IFNg,train
+GACGGCTTCTCTGCTG-1,NK,IFNg,train
+CTCTGGTAGTGAATTG-1,NK,IFNg,train
+GGAATAATCCTCCTAG-1,NK,IFNg,train
+GTGGGTCAGCCAGGAT-1,NK,IFNg,train
+ATCATGGGTTAAGTAG-1,NK,IFNg,train
+TTTATGCAGCCGATTT-1,NK,IFNg,train
+GCATGCGCAAGAAGAG-1,NK,IFNg,train
+TGAGAGGGTCGTTGTA-1,NK,IFNg,train
+CTGCGGATCTTTAGTC-1,NK,IFNg,train
+AGGGATGTCGTCTGCT-1,NK,IFNg,train
+GGACAAGAGTCATCCA-1,NK,IFNg,train
+GCCAAATCACCCAGTG-1,NK,IFNg,train
+GGACATTCAGTATCTG-1,NK,IFNg,train
+CGCTATCTCAGATAAG-1,NK,IFNg,train
+CGGACACTCCCTTGCA-1,NK,IFNg,train
+TAAGCGTTCAGCGATT-1,NK,IFNg,train
+AGGGATGAGTGGACGT-1,NK,IFNg,train
+AGAATAGGTTCGTTGA-1,NK,IFNg,train
+CGTCACTGTTCGAATC-1,NK,IFNg,train
+CTGCCTATCTATCCCG-1,NK,IFNg,train
+TGGTTCCGTTGTCGCG-1,NK,IFNg,train
+TGCTACCCACGCCAGT-1,NK,IFNg,train
+CGTGTCTTCTTTACGT-1,NK,IFNg,train
+CAGCCGACAGTTAACC-1,NK,IFNg,train
+ACGCAGCAGTGTTTGC-1,NK,IFNg,train
+TTGGAACAGAGACTAT-1,NK,IFNg,train
+CTAATGGAGGATCGCA-1,NK,IFNg,train
+CACATAGAGTGGGATC-1,NK,IFNg,train
+AACACGTTCATCTGCC-1,NK,IFNg,train
+GAAATGACATCTCGCT-1,NK,IFNg,train
+ACGGCCAAGATGTAAC-1,NK,IFNg,train
+GAAACTCTCCTCGCAT-1,NK,IFNg,train
+AGAGTGGTCTGATTCT-1,NK,IFNg,train
+CAAGAAACACCCTATC-1,NK,IFNg,train
+TTAGGCACAAACGTGG-1,NK,IFNg,train
+CGCTATCAGCAGATCG-1,NK,IFNg,train
+GTTACAGGTAGCGATG-1,NK,IFNg,train
+CACTCCATCTGCTGTC-1,NK,IFNg,train
+CCTACACAGTACGATA-1,NK,IFNg,train
+GTACGTATCCCAGGTG-1,NK,IFNg,train
+TGTATTCGTAATCACC-1,NK,IFNg,train
+TCAACGATCCGCGTTT-1,NK,IFNg,train
+CGAACATCACCTCGTT-1,NK,IFNg,train
+AGAGTGGTCTTACCGC-1,NK,IFNg,train
+TGAAAGACAGCCACCA-1,NK,IFNg,train
+TTGACTTTCCAGTAGT-1,NK,IFNg,train
+GTTTCTACAGGATTGG-1,NK,IFNg,train
+TGGGCGTGTTAAGACA-1,NK,IFNg,train
+GGACAAGGTACTCTCC-1,NK,IFNg,train
+ATTCTACAGAACAATC-1,NK,IFNg,train
+GGCTGGTGTTAGATGA-1,NK,IFNg,train
+TATCTCACAAGGGTCA-1,NK,IFNg,train
+GACTGCGGTGCAACTT-1,NK,IFNg,train
+AAGCCGCAGGCCCTCA-1,NK,IFNg,train
+CTGCCTAAGAGGTTGC-1,NK,IFNg,train
+CGTGTCTAGCACCGCT-1,NK,IFNg,train
+GCTGCAGAGTACGACG-1,NK,IFNg,train
+TTTCCTCAGGGATACC-1,NK,IFNg,train
+CACAGGCTCACAGTAC-1,NK,IFNg,train
+ATGTGTGGTGAGCGAT-1,NK,IFNg,train
+GGCAATTGTCACTGGC-1,NK,IFNg,train
+GTGTGCGTCGCGCCAA-1,NK,IFNg,train
+ATCACGAAGTTAGCGG-1,NK,IFNg,train
+CCGGTAGAGTAGATGT-1,NK,IFNg,train
+ATCGAGTCAAAGCGGT-1,NK,IFNg,train
+TGCGCAGTCCAAGCCG-1,NK,IFNg,train
+TTAGGACAGTCGTTTG-1,NK,IFNg,train
+GGCAATTGTGCCTGGT-1,NK,IFNg,train
+GCATACACACCAGATT-1,NK,IFNg,train
+TTCTCAACAGTCGTGC-1,NK,IFNg,train
+GAAATGAGTAGCCTAT-1,NK,IFNg,train
+TCATTTGGTCTAGGTT-1,NK,IFNg,train
+AGCCTAAAGCCAGTTT-1,NK,IFNg,train
+CACCACTTCGCCGTGA-1,NK,IFNg,train
+AAGTCTGGTCTGATTG-1,NK,IFNg,train
+GTGTGCGAGAGGGATA-1,NK,IFNg,train
+GTCATTTGTCTAAACC-1,NK,IFNg,train
+AAGCCGCAGATGTAAC-1,NK,IFNg,train
+GAGCAGAAGGTAGCTG-1,NK,IFNg,train
+CAACCTCAGGTAGCCA-1,NK,IFNg,train
+GAAGCAGTCGGCTACG-1,NK,IFNg,train
+TGGGAAGGTGTTGAGG-1,NK,IFNg,train
+CCTTACGCAACTGCGC-1,NK,IFNg,train
+TCTTCGGCAAGTCATC-1,NK,IFNg,train
+CTCGAAATCCGCAGTG-1,NK,IFNg,train
+ACTGCTCTCACCGTAA-1,NK,IFNg,train
+GCTTCCATCTTGTTTG-1,NK,IFNg,train
+CACATTTCACTACAGT-1,NK,IFNg,train
+TGCCCTAGTACATGTC-1,NK,IFNg,train
+CATTATCAGGTGCACA-1,NK,IFNg,train
+CGCTTCATCGAGAACG-1,NK,IFNg,train
+TAGGCATAGAGACGAA-1,NK,IFNg,train
+TACTCATTCATACGGT-1,NK,IFNg,train
+CTCTAATTCGGCATCG-1,NK,IFNg,train
+CCTACCATCGAATGGG-1,NK,IFNg,train
+ATCATCTGTAAACGCG-1,NK,IFNg,train
+GACGTTAAGCGTGTCC-1,NK,IFNg,train
+CTCGTCACAATCGGTT-1,NK,IFNg,train
+ACAGCCGGTACAGCAG-1,NK,IFNg,train
+AAGGTTCGTTGTCGCG-1,NK,IFNg,train
+GACGTTAAGTTAGCGG-1,NK,IFNg,train
+TTCCCAGTCCCGGATG-1,NK,IFNg,train
+CAACCAACATGCAACT-1,NK,IFNg,train
+AGCATACCAAGGTTTC-1,NK,IFNg,train
+ACATCAGAGCTCAACT-1,NK,IFNg,train
+TGTATTCGTGTAACGG-1,NK,IFNg,train
+CGACTTCCAAAGCGGT-1,NK,IFNg,train
+TAGCCGGAGACCACGA-1,NK,IFNg,train
+GCAGTTAAGCGTCAAG-1,NK,IFNg,train
+GATCTAGCAGCCTATA-1,NK,IFNg,train
+AGCTCTCGTAGCCTCG-1,NK,IFNg,train
+GCTTCCACATCCCACT-1,NK,IFNg,train
+CTCATTATCTTTAGGG-1,NK,IFNg,train
+GTACTTTTCTAGCACA-1,NK,IFNg,train
+ATTTCTGTCGTATCAG-1,NK,IFNg,train
+ACGGAGAAGGAATCGC-1,NK,IFNg,train
+AACCATGGTCTAGTGT-1,NK,IFNg,train
+GCACTCTAGAGCAATT-1,NK,IFNg,train
+ACGGGCTAGGCTAGAC-1,NK,IFNg,train
+CCTTACGCATGGGAAC-1,NK,IFNg,train
+AGCTCCTAGCTAAACA-1,NK,IFNg,train
+ATTGGACCACTCGACG-1,NK,IFNg,train
+CGTCAGGCAGTATAAG-1,NK,IFNg,train
+AAACCTGTCTGGAGCC-1,NK,IFNg,train
+CTCGTCATCTCGTTTA-1,NK,IFNg,train
+CTCCTAGTCGACGGAA-1,NK,IFNg,train
+CGGTTAAAGGAGTTGC-1,NK,IFNg,train
+AGAGCGATCTCGTTTA-1,NK,IFNg,train
+GGTGTTAGTACGCTGC-1,NK,IFNg,train
+CCGTACTAGTACGCCC-1,NK,IFNg,train
+TTTATGCCAGCTGCAC-1,NK,IFNg,train
+GCATACAAGTAGCCGA-1,NK,IFNg,train
+GAGTCCGTCGCTGATA-1,NK,IFNg,train
+GGACGTCTCTCCTATA-1,NK,IFNg,train
+TGACGGCGTCATCGGC-1,NK,IFNg,train
+AGCGTATTCCCAGGTG-1,NK,IFNg,train
+TCAGCAATCAATCACG-1,NK,IFNg,train
+ATGAGGGTCTTCAACT-1,NK,IFNg,train
+CGATTGATCAGTCCCT-1,NK,IFNg,train
+CTCGAGGCACAGAGGT-1,NK,IFNg,train
+AGGCCGTCAAACGTGG-1,NK,IFNg,train
+TTAGTTCGTATTCGTG-1,NK,IFNg,train
+GCTGGGTGTCTTGTCC-1,NK,IFNg,train
+CTTACCGCAGTCTTCC-1,NK,IFNg,train
+TGTGGTAAGCGAGAAA-1,NK,IFNg,train
+AAGGCAGGTTGAGTTC-1,NK,IFNg,train
+AGATCTGAGGGATGGG-1,NK,IFNg,train
+AGCTCTCAGACTTTCG-1,NK,IFNg,train
+GAATGAATCACATACG-1,NK,IFNg,train
+CAAGATCTCCACGACG-1,NK,IFNg,train
+GCTTCCAAGGGCACTA-1,NK,IFNg,train
+CACACCTAGCAGACTG-1,NK,IFNg,train
+GCAGCCAAGCTGAAAT-1,NK,IFNg,train
+ACACCGGAGAAAGTGG-1,NK,IFNg,train
+CAGCAGCGTTCACCTC-1,NK,IFNg,train
+GTACGTATCACTTACT-1,NK,IFNg,train
+CCTCTGAAGATGCGAC-1,NK,IFNg,train
+ACGAGGACATGCCTAA-1,NK,IFNg,train
+GTCACAAAGGAATTAC-1,NK,IFNg,train
+ACGGCCATCGATAGAA-1,NK,IFNg,train
+AAGTCTGTCTTGAGGT-1,NK,IFNg,train
+CGTTCTGCAGTATGCT-1,NK,IFNg,train
+GTACTTTTCTGTCCGT-1,NK,IFNg,train
+CCCAATCCATGCCCGA-1,NK,IFNg,train
+AAGCCGCTCTTCGAGA-1,NK,IFNg,train
+CCCATACGTATGGTTC-1,NK,IFNg,train
+GCTGCGAAGCTAGCCC-1,NK,IFNg,train
+GCATGCGAGCTATGCT-1,NK,IFNg,train
+GTCACAACACATCCGG-1,NK,IFNg,train
+TCGGTAATCATACGGT-1,NK,IFNg,train
+GTACTCCAGACTCGGA-1,NK,IFNg,train
+CTAGAGTGTAGGGTAC-1,NK,IFNg,train
+AACTCCCCATTCCTCG-1,NK,IFNg,train
+CACAGGCAGCCTATGT-1,NK,IFNg,train
+CGGACACTCGAGAGCA-1,NK,IFNg,train
+CACACCTAGGCTCTTA-1,NK,IFNg,train
+CTCGTCATCTTGAGGT-1,NK,IFNg,train
+GTGGGTCGTTCGTGAT-1,NK,IFNg,train
+CTCTAATAGCCCTAAT-1,NK,IFNg,train
+TGTGGTACAATGGTCT-1,NK,IFNg,train
+AGCGGTCGTCTCCATC-1,NK,IFNg,train
+AAACCTGAGTAGGCCA-1,NK,IFNg,train
+CGCTTCACACACATGT-1,NK,IFNg,train
+ACGAGGATCTGAAAGA-1,NK,IFNg,train
+GCTCTGTTCAGTGTTG-1,NK,IFNg,train
+TATCAGGGTGTCCTCT-1,NK,IFNg,train
+ACTTACTGTACGCTGC-1,NK,IFNg,train
+GACCAATTCGTCTGAA-1,NK,IFNg,train
+CACCTTGGTCGCTTCT-1,NK,IFNg,train
+GGCGTGTTCTCTAAGG-1,NK,IFNg,train
+GGTGCGTGTCCAAGTT-1,NK,IFNg,train
+GCGCAACGTTCCTCCA-1,NK,IFNg,train
+CCTACACCATCCGGGT-1,NK,IFNg,train
+AACTTTCAGCCTTGAT-1,NK,IFNg,train
+AGCATACAGGCATGTG-1,NK,IFNg,train
+GTACTCCTCGTAGGTT-1,NK,IFNg,train
+AGCGTCGCACGGACAA-1,NK,IFNg,train
+CGACCTTAGCATGGCA-1,NK,IFNg,train
+GGGCATCAGGCTAGAC-1,NK,IFNg,train
+CATGACAAGATGTGTA-1,NK,IFNg,train
+ACTTACTGTAGGCATG-1,NK,IFNg,train
+TCCACACGTGTGGTTT-1,NK,IFNg,train
+CCACTACTCAACGGGA-1,NK,IFNg,train
+AGGGTGAAGTATGACA-1,NK,IFNg,train
+GCTTGAATCTTCGAGA-1,NK,IFNg,train
+ATCTACTCACGAGAGT-1,NK,IFNg,train
+TATCAGGAGATCCGAG-1,NK,IFNg,train
+TCGTAGAAGGGTCGAT-1,NK,IFNg,train
+GGGATGAGTAAGGATT-1,NK,IFNg,train
+GTACGTAGTCACCCAG-1,NK,IFNg,train
+TTGACTTCATCTCCCA-1,NK,IFNg,train
+CTTACCGCATGTTCCC-1,NK,IFNg,train
+CATCGGGCAGACACTT-1,NK,IFNg,train
+CACCACTGTTAGATGA-1,NK,IFNg,train
+AGGCCACTCTGTCTCG-1,NK,IFNg,train
+GTCCTCAGTTCGTCTC-1,NK,IFNg,train
+TCTGGAATCTCACATT-1,NK,IFNg,train
+AGGTCATTCATTGCGA-1,NK,IFNg,train
+CAAGATCTCAATAAGG-1,NK,IFNg,train
+CCACCTAAGGCCCTTG-1,NK,IFNg,train
+CACCACTGTAAAGGAG-1,NK,IFNg,train
+TTTGGTTGTAGTACCT-1,NK,IFNg,train
+CTGTGCTGTCACACGC-1,NK,IFNg,train
+TGGTTAGCACCACCAG-1,NK,IFNg,train
+GTGGGTCTCACGAAGG-1,NK,IFNg,train
+TGACGGCTCGGCCGAT-1,NK,IFNg,train
+GACAGAGAGGATATAC-1,NK,IFNg,train
+TCAATCTTCCTGCAGG-1,NK,IFNg,train
+AGCATACTCTTCGAGA-1,NK,IFNg,train
+CTGGTCTTCTTGCCGT-1,NK,IFNg,train
+AGATTGCCACGTTGGC-1,NK,IFNg,train
+ACGCCAGTCTGCTGCT-1,NK,IFNg,train
+ACAGCCGCATCCGGGT-1,NK,IFNg,train
+TAGTTGGGTCTCTCTG-1,NK,IFNg,train
+TTATGCTAGTTAGGTA-1,NK,IFNg,train
+AGGGTGAGTAGGGTAC-1,NK,IFNg,train
+ACTGATGTCAAGGCTT-1,NK,IFNg,train
+CGGAGTCCATGAAGTA-1,NK,IFNg,train
+ATTTCTGCACACCGCA-1,NK,IFNg,train
+TGGACGCCATAGGATA-1,NK,IFNg,train
+AACACGTCAATGGTCT-1,NK,IFNg,train
+CGGACGTTCGCATGGC-1,NK,IFNg,train
+ACTGCTCAGAGAACAG-1,NK,IFNg,train
+CCAGCGATCGCTAGCG-1,NK,IFNg,train
+ACGGCCAAGCTAGTTC-1,NK,IFNg,train
+GGTGAAGGTATTCTCT-1,NK,IFNg,train
+GTAGTCAAGGAATCGC-1,NK,IFNg,train
+CCTATTACAGTCGATT-1,NK,IFNg,train
+TCAGCTCGTCTGATTG-1,NK,IFNg,train
+CATCGAACATAAGACA-1,NK,IFNg,train
+GTAGTCACACTATCTT-1,NK,IFNg,train
+CTCGGGACAAGCGAGT-1,NK,IFNg,train
+CCCTCCTTCCACGAAT-1,NK,IFNg,train
+GATGAGGCACCAACCG-1,NK,IFNg,train
+TGGCTGGAGTTGTAGA-1,NK,IFNg,train
+AACTTTCAGCGCCTTG-1,NK,IFNg,train
+GCAATCAAGGAGTACC-1,NK,IFNg,train
+AGATTGCTCACTTACT-1,NK,IFNg,train
+AGAATAGAGTAGCCGA-1,NK,IFNg,train
+TCTGGAAGTGACTCAT-1,NK,IFNg,train
+AGGCCACAGACAGAGA-1,NK,IFNg,train
+CGTGAGCTCTTGAGGT-1,NK,IFNg,train
+AAGGAGCCACGCGAAA-1,NK,IFNg,train
+TAGTTGGAGATCTGAA-1,NK,IFNg,train
+CCCTCCTTCGTTTATC-1,NK,IFNg,train
+GGCTGGTTCCAAAGTC-1,NK,IFNg,train
+AGAATAGGTCATCGGC-1,NK,IFNg,train
+CAGAGAGCACAACGCC-1,NK,IFNg,train
+AGGGATGCAATGGACG-1,NK,IFNg,train
+ACGGGTCAGACTGTAA-1,NK,IFNg,train
+GTGAAGGGTCCAGTGC-1,NK,IFNg,train
+TATGCCCAGTACGTAA-1,NK,IFNg,train
+TAGAGCTCAGATGAGC-1,NK,IFNg,train
+TCAACGACATCATCCC-1,NK,IFNg,train
+TGGCCAGCATCCCACT-1,NK,IFNg,train
+CGTAGCGTCTTGGGTA-1,NK,IFNg,train
+GTGCATAAGGGATCTG-1,NK,IFNg,train
+ACACCAAAGTCCGTAT-1,NK,IFNg,train
+AGAATAGTCTAACTCT-1,NK,IFNg,train
+TCCACACGTCGACTAT-1,NK,IFNg,train
+GTGAAGGCACGCTTTC-1,NK,IFNg,train
+ACGGGTCAGCAATATG-1,NK,IFNg,train
+GACCAATTCTCCGGTT-1,NK,IFNg,train
+TGCACCTCAGCCAGAA-1,NK,IFNg,train
+TCTGGAAAGTGGGCTA-1,NK,IFNg,train
+GTACGTACACATGGGA-1,NK,IFNg,train
+CACACCTCAGTAAGCG-1,NK,IFNg,train
+CGCTTCACACTATCTT-1,NK,IFNg,train
+ACGGCCAAGTAGTGCG-1,NK,IFNg,train
+GACGTGCAGAATTGTG-1,NK,IFNg,train
+GGACAGAGTCAGAATA-1,NK,IFNg,train
+CGTCCATTCTTAACCT-1,NK,IFNg,train
+TGACGGCCAGGATTGG-1,NK,IFNg,train
+CAACCAACACATTAGC-1,NK,IFNg,train
+TGCGTGGGTCCATCCT-1,NK,IFNg,train
+TCTCATACAGTGGAGT-1,NK,IFNg,train
+AACACGTAGCCAACAG-1,NK,IFNg,train
+GCTGCTTAGTTATCGC-1,NK,IFNg,train
+CATCGGGCAGGGTTAG-1,NK,IFNg,train
+CCTCTGACAGCTGTAT-1,NK,IFNg,train
+TGGCCAGTCAATACCG-1,NK,IFNg,train
+GTCATTTAGTCTTGCA-1,NK,IFNg,train
+GGTGTTACACGGTGTC-1,NK,IFNg,train
+AGGGATGTCGGATGTT-1,NK,IFNg,train
+TGCTACCCAACTGGCC-1,NK,IFNg,train
+CGACTTCGTCATGCAT-1,NK,IFNg,train
+CTCTACGCAGTCAGCC-1,NK,IFNg,train
+CGCGTTTTCCCTCAGT-1,NK,IFNg,train
+TGTGGTACACGTAAGG-1,NK,IFNg,train
+ACGATGTAGCGTTGCC-1,NK,IFNg,train
+TCAGGATAGTACGCGA-1,NK,IFNg,train
+GTGCTTCGTTATGCGT-1,NK,IFNg,train
+GCAGTTAAGCCAGTAG-1,NK,IFNg,train
+TCAGGTACAATAACGA-1,NK,IFNg,train
+TCGAGGCCACATGGGA-1,NK,IFNg,train
+CGTTAGACACGAGGTA-1,NK,IFNg,train
+GATGAAACAGGATCGA-1,NK,IFNg,train
+ACCTTTAGTGCAACGA-1,NK,IFNg,train
+TCGCGTTCATAGGATA-1,NK,IFNg,train
+GGGACCTTCTACCTGC-1,NK,IFNg,train
+CCGTTCATCCTTTCGG-1,NK,IFNg,train
+AGAATAGCATCGGAAG-1,NK,IFNg,train
+TGACGGCCACGGATAG-1,NK,IFNg,train
+CCTTACGAGATATGCA-1,NK,IFNg,train
+ATCGAGTTCGCAGGCT-1,NK,IFNg,train
+GTCCTCACAGAGTGTG-1,NK,IFNg,train
+ATGGGAGCACCTGGTG-1,NK,IFNg,train
+TACTCATTCTGAGGGA-1,NK,IFNg,train
+GAAACTCAGGTCATCT-1,NK,IFNg,train
+TCAGCTCCAACAACCT-1,NK,IFNg,train
+TTGCGTCTCATCTGTT-1,NK,IFNg,train
+GTTCGGGTCCCAAGAT-1,NK,IFNg,train
+CATCCACAGAGGGCTT-1,NK,IFNg,train
+TACAGTGCAAATTGCC-1,NK,IFNg,train
+ACTGATGCATCCGGGT-1,NK,IFNg,train
+CACATTTCAGCTTCGG-1,NK,IFNg,train
+TGCTGCTGTTCTGTTT-1,NK,IFNg,train
+TGACAACAGAATTGTG-1,NK,IFNg,train
+ACATCAGTCCGAACGC-1,NK,IFNg,train
+TTTGCGCCATGTTGAC-1,NK,IFNg,train
+ATGAGGGGTACCAGTT-1,NK,IFNg,validation
+AGGTCATCAGACAGGT-1,NK,IFNg,validation
+CAGTCCTTCGCCATAA-1,NK,IFNg,validation
+TGGCTGGAGGTCGGAT-1,NK,IFNg,validation
+CGTCTACCAATACGCT-1,NK,IFNg,validation
+GAACCTAAGTTACCCA-1,NK,IFNg,validation
+GGTGTTAAGATAGTCA-1,NK,IFNg,validation
+CAAGTTGAGCAGCGTA-1,NK,IFNg,validation
+ATAACGCAGGTGCTAG-1,NK,IFNg,validation
+TATTACCGTAAGAGGA-1,NK,IFNg,validation
+TCAATCTTCAATCTCT-1,NK,IFNg,validation
+GATGAGGCAAGTACCT-1,NK,IFNg,validation
+CGTCCATGTAATTGGA-1,NK,IFNg,validation
+GGGCACTTCAGCCTAA-1,NK,IFNg,validation
+CTAATGGCATCGGGTC-1,NK,IFNg,validation
+ACGCAGCAGAAGGGTA-1,NK,IFNg,validation
+CAGCTGGTCCTGCAGG-1,NK,IFNg,validation
+CTCGAAAGTATATGAG-1,NK,IFNg,validation
+CACCTTGTCGTGGACC-1,NK,IFNg,validation
+GAAATGAGTAGTACCT-1,NK,IFNg,validation
+CCGTGGACAGCATACT-1,NK,IFNg,validation
+TATGCCCAGACTAAGT-1,NK,IFNg,validation
+ACTGAACAGAGCTATA-1,NK,IFNg,validation
+GTATTCTAGACCTAGG-1,NK,IFNg,validation
+TCGGTAAGTTATGTGC-1,NK,IFNg,validation
+GACTAACAGCAGCGTA-1,NK,IFNg,validation
+CTCGGGACAGCATGAG-1,NK,IFNg,validation
+CGAATGTGTTCCTCCA-1,NK,IFNg,validation
+AAGTCTGTCTGTGCAA-1,NK,IFNg,validation
+GCTGGGTCACCACGTG-1,NK,IFNg,validation
+CACCAGGGTATGAATG-1,NK,IFNg,validation
+CAGTCCTTCTTATCTG-1,NK,IFNg,validation
+CGAGCCAAGCTAGTGG-1,NK,IFNg,validation
+GAAACTCAGAGACGAA-1,NK,IFNg,validation
+TTCTCCTAGGTCATCT-1,NK,IFNg,validation
+AGCGGTCTCGGACAAG-1,NK,IFNg,validation
+TCAATCTCAGGCGATA-1,NK,IFNg,validation
+TACAGTGGTGCTCTTC-1,NK,IFNg,validation
+CTAATGGTCAGATAAG-1,NK,IFNg,validation
+AGATCTGAGAGCTGGT-1,NK,IFNg,validation
+CCTCAGTAGCCAGAAC-1,NK,IFNg,validation
+CCACCTACAAACCCAT-1,NK,IFNg,validation
+GCGCCAAGTTCAGACT-1,NK,IFNg,validation
+CAAGTTGGTTCTGAAC-1,NK,IFNg,validation
+GCGCAGTAGACGACGT-1,NK,IFNg,validation
+TTGAACGAGTCACGCC-1,NK,IFNg,validation
+TTGACTTAGTGCTGCC-1,NK,IFNg,validation
+GCAATCATCAGGTAAA-1,NK,IFNg,validation
+CCAGCGAGTTCGGCAC-1,NK,IFNg,validation
+CTAGTGAAGACTGTAA-1,NK,IFNg,validation
+ACTATCTTCAATCTCT-1,NK,IFNg,validation
+CTAACTTGTAGCAAAT-1,NK,IFNg,validation
+AGGGAGTTCAGCACAT-1,NK,IFNg,validation
+ACTGAGTAGCGCTCCA-1,NK,IFNg,validation
+ACGCCAGTCCTGCCAT-1,NK,IFNg,validation
+AGGGATGAGTGAAGTT-1,NK,IFNg,validation
+ACGAGGATCACTTACT-1,NK,IFNg,validation
+TTAGGACCACAGCGTC-1,NK,IFNg,validation
+TGCCCTAAGTCGAGTG-1,NK,IFNg,validation
+AAGGTTCGTATCGCAT-1,NK,IFNg,validation
+CAGGTGCAGACCGGAT-1,NK,IFNg,validation
+TACACGAGTCCCTTGT-1,NK,IFNg,validation
+CGTAGGCTCGCTTAGA-1,NK,IFNg,validation
+ACCCACTCAGCTCCGA-1,NK,IFNg,validation
+GCGCAACGTGACTACT-1,NK,IFNg,validation
+CAACCAATCTGCTGTC-1,NK,IFNg,validation
+GCATGCGGTCGCATAT-1,NK,IFNg,validation
+ATAAGAGGTTTACTCT-1,NK,IFNg,validation
+CGATGTAAGCCTTGAT-1,NK,IFNg,validation
+AGACGTTTCAGTACGT-1,NK,IFNg,validation
+GACGGCTGTCGGATCC-1,NK,IFNg,validation
+TTTGCGCTCGTTTATC-1,NK,IFNg,validation
+CCACGGACAGGTCCAC-1,NK,IFNg,validation
+CTCGTCACACATGACT-1,NK,IFNg,validation
+CATCAGATCCAGTATG-1,NK,IFNg,validation
+GTCCTCATCCTCGCAT-1,NK,IFNg,validation
+TGTATTCAGGGCACTA-1,NK,IFNg,validation
+CGTTGGGCAACGATCT-1,NK,IFNg,validation
+CTGATCCAGGCTAGCA-1,NK,IFNg,validation
+TTCGAAGGTTCCACGG-1,NK,IFNg,validation
+CGTCCATCACCCAGTG-1,NK,IFNg,validation
+ATTATCCTCACAGTAC-1,NK,IFNg,validation
+TCAGGATGTCGTTGTA-1,NK,IFNg,validation
+GACGTGCCAACGATGG-1,NK,IFNg,validation
+CACACTCAGTAACCCT-1,NK,IFNg,validation
+TTATGCTAGCGTGAGT-1,NK,IFNg,validation
+ACATACGTCTTTCCTC-1,NK,IFNg,validation
+TGGCTGGTCACCATAG-1,NK,IFNg,validation
+GTTCATTGTTAAGGGC-1,NK,IFNg,validation
+CTTCTCTTCGATGAGG-1,NK,IFNg,validation
+ACATCAGAGGCTAGGT-1,NK,IFNg,validation
+CGCTTCAAGCTAAACA-1,NK,IFNg,validation
+TGGCCAGCAACCGCCA-1,NK,IFNg,validation
+CGTTGGGGTCAGGACA-1,NK,IFNg,test
+CTCATTAAGGCCCTCA-1,NK,IFNg,test
+CATGACAGTAAATGTG-1,NK,IFNg,test
+AGGGATGTCCTAGAAC-1,NK,IFNg,test
+AACTGGTTCATTATCC-1,NK,IFNg,test
+CAGCCGAGTACAAGTA-1,NK,IFNg,test
+AGAGTGGAGATGTAAC-1,NK,IFNg,test
+TTCGGTCCACGAAGCA-1,NK,IFNg,test
+GCATGATAGTAGCGGT-1,NK,IFNg,test
+CCTACCAAGCGATCCC-1,NK,IFNg,test
+TAGAGCTCACGAAACG-1,NK,IFNg,test
+CTCGTCAAGCCACCTG-1,NK,IFNg,test
+CACAGTACATGAAGTA-1,NK,IFNg,test
+GTCGTAATCTCAACTT-1,NK,IFNg,test
+GATGCTAAGCTAAGAT-1,NK,IFNg,test
+GAGTCCGCACCAGGCT-1,NK,IFNg,test
+CGATGTAAGTAAGTAC-1,NK,IFNg,test
+ACGAGCCCAACTGCGC-1,NK,IFNg,test
+ACTGTCCCAAAGAATC-1,NK,IFNg,test
+GTATCTTGTCTGCAAT-1,NK,IFNg,test
+GCTGCTTTCAGCTTAG-1,NK,IFNg,test
+CCCAGTTGTGAGTATA-1,NK,IFNg,test
+TCCCGATGTCTCTCTG-1,NK,IFNg,test
+CTACACCGTTGTTTGG-1,NK,IFNg,test
+CTTAACTGTCAAGCGA-1,NK,IFNg,test
+CTACGTCAGTGTCCAT-1,NK,IFNg,test
+ATTATCCAGGACACCA-1,NK,IFNg,test
+GTTCATTGTCGCCATG-1,NK,IFNg,test
+GTATTCTTCAAACCGT-1,NK,IFNg,test
+GTACGTACAGGAATCG-1,NK,IFNg,test
+GACTAACAGCTGCGAA-1,NK,IFNg,test
+CAGGTGCGTTCCGGCA-1,NK,IFNg,test
+TTATGCTTCAAACGGG-1,NK,IFNg,test
+GTACTCCGTTCCCGAG-1,NK,IFNg,test
+CTCGTACCAGTTAACC-1,NK,IFNg,test
+AGGCCGTTCCTCCTAG-1,NK,IFNg,test
+CCACTACGTACCGGCT-1,NK,IFNg,test
+CGTTGGGCATGGTCAT-1,NK,IFNg,test
+TGAAAGAAGTTTCCTT-1,NK,IFNg,test
+GGACAGACAATAGCGG-1,NK,IFNg,test
+GGACATTCACCGATAT-1,NK,IFNg,test
+TTGACTTTCTGAAAGA-1,NK,IFNg,test
+GCACATACATTGTGCA-1,NK,IFNg,test
+CCACGGACAAGAGGCT-1,NK,IFNg,test
+CTTACCGAGATCTGCT-1,NK,IFNg,test
+CAGTCCTCACCAGGTC-1,NK,IFNg,test
+CATTCGCGTGGTCCGT-1,NK,IFNg,test
+TCTATTGCACGAGAGT-1,NK,IFNg,test
+AACCGCGTCCATGAGT-1,NK,IFNg,test
+GGGCACTTCGCATGAT-1,NK,IFNg,test
+TTCGAAGGTGCATCTA-1,NK,IFNg,test
+TTAACTCCATGCCTTC-1,NK,IFNg,test
+GAGTCCGTCTTACCGC-1,NK,IFNg,test
+CGGACTGTCATTATCC-1,NK,IFNg,test
+AGGGTGAGTCTGATTG-1,NK,IFNg,test
+CTTCTCTAGTACATGA-1,NK,IFNg,test
+TAAGAGAAGTACGTAA-1,NK,IFNg,test
+AGGTCCGGTATAGGGC-1,NK,IFNg,test
+CTGTTTAAGTACATGA-1,NK,IFNg,test
+GAGGTGAAGATATGGT-1,NK,IFNg,test
+GAAGCAGTCATCTGTT-1,NK,IFNg,test
+CATCGAAAGACATAAC-1,NK,IFNg,test
+CGTAGGCAGCAACGGT-1,NK,IFNg,test
+ACTGCTCGTCGGCATC-1,NK,IFNg,test
+GCTGCTTAGATGGCGT-1,NK,IFNg,test
+GTATTCTCATGCCCGA-1,NK,IFNg,test
+GAAGCAGCAACGCACC-1,NK,IFNg,test
+AACCATGTCTTTCCTC-1,NK,IFNg,test
+AATCGGTAGATGTGGC-1,NK,IFNg,test
+GTCTCGTGTGGCAAAC-1,NK,IFNg,test
+TTGGCAATCCTTTCGG-1,NK,IFNg,test
+GTCACGGGTCCATGAT-1,NK,IFNg,test
+CATCAGAAGGTCGGAT-1,NK,IFNg,test
+GTGCGGTAGGGTTTCT-1,NK,IFNg,test
+AGCGGTCTCCAGTAGT-1,NK,IFNg,test
+ACTTACTCAAGTCTAC-1,NK,IFNg,test
+GGAACTTTCTACTTAC-1,NK,IFNg,test
+CTGGTCTAGAGACTTA-1,NK,IFNg,test
+CGTCCATCACAACTGT-1,NK,IFNg,test
+CGTTAGAAGCTGTTCA-1,NK,IFNg,test
+CACAGTAAGGAATTAC-1,NK,IFNg,test
+CCTTCCCAGGGTGTGT-1,NK,IFNg,test
+ACCCACTTCATAACCG-1,NK,IFNg,test
+CGGGTCAGTATAATGG-1,NK,IFNg,test
+GGGATGAGTGGTCTCG-1,NK,IFNg,test
+TTGTAGGGTTAAAGAC-1,NK,IFNg,test
+TTGACTTAGTTGCAGG-1,NK,IFNg,test
+CTACGTCAGACAAAGG-1,NK,IFNg,test
+CATCAAGCACCACCAG-1,NK,IFNg,test
+ACTGATGCATTTGCTT-1,NK,IFNg,test
+CAAGAAAAGAAGGGTA-1,NK,IFNg,test
+CCTTCCCCAAACGCGA-1,NK,IFNg,test
+AGGGATGAGGATTCGG-1,NK,IFNg,test

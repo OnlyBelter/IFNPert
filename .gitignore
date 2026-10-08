@@ -219,7 +219,8 @@ __marimo__/
 
 # Local single-cell analysis inputs and outputs
 /data/*
-/results/cinema_synergy/
-/results/ifn_gamma_mlp/
 /src/config.yaml
-/results/*
+/results/ifn_gamma_mlp_log1p_residual_5000hvg_dropout0.3/*.npz
+/results/ifn_gamma_mlp_log1p_residual_5000hvg_dropout0.3/checkpoints/*
+report.md
+report_template.tex

@@ -14,6 +14,15 @@ import pandas as pd
 
 
 SAMPLE_PLOT_COLORS = ("#0072B2", "#E69F00", "#009E73")
+PEARSON_METHODS = {
+    "mlp": ("MLP", "#0072B2"),
+    "cell_type_mean": ("Cell-type mean", "#E69F00"),
+    "identity": ("Identity", "#009E73"),
+}
+PEARSON_STAGES = (
+    ("population_pretraining", "Population pretraining"),
+    ("cinema_finetuning", "CINEMA-OT fine-tuning"),
+)
 
 
 def _mean_profile_metrics(
@@ -32,6 +41,105 @@ def _mean_profile_metrics(
     valid = denominator > 0
     profile_pearson[valid] = numerator[valid] / denominator[valid]
     return float(profile_rmse.mean()), float(np.nanmean(profile_pearson))
+
+
+def _plot_stage_pearson(metrics: pd.DataFrame, path: Path) -> None:
+    """Plot test Pearson correlations by stage, cell type, and method."""
+    required = {"stage", "cell_type", "method", "mean_profile_pearson_r"}
+    missing = required - set(metrics.columns)
+    if missing:
+        raise ValueError(
+            f"Pearson plot metrics are missing columns: {', '.join(sorted(missing))}."
+        )
+
+    stages = [stage for stage, _ in PEARSON_STAGES]
+    methods = tuple(PEARSON_METHODS)
+    plot_data = metrics.loc[
+        metrics["stage"].isin(stages) & metrics["method"].isin(methods),
+        ["stage", "cell_type", "method", "mean_profile_pearson_r"],
+    ].copy()
+    plot_data["cell_type"] = plot_data["cell_type"].astype(str)
+    plot_data["mean_profile_pearson_r"] = pd.to_numeric(
+        plot_data["mean_profile_pearson_r"],
+        errors="coerce",
+    )
+    cell_types = sorted(plot_data["cell_type"].unique())
+    if not cell_types:
+        raise ValueError("Pearson plot metrics contain no supported stages or methods.")
+
+    key_columns = ["stage", "cell_type", "method"]
+    if plot_data.duplicated(key_columns).any():
+        raise ValueError("Pearson plot metrics contain duplicate stage/type/method rows.")
+    expected_rows = len(PEARSON_STAGES) * len(cell_types) * len(methods)
+    if len(plot_data) != expected_rows:
+        raise ValueError(
+            "Pearson plot metrics must include all three methods for each "
+            "cell type in both stages."
+        )
+
+    finite_values = plot_data["mean_profile_pearson_r"].to_numpy(dtype=float)
+    finite_values = finite_values[np.isfinite(finite_values)]
+    if not len(finite_values):
+        raise ValueError("Pearson plot metrics contain no finite correlation values.")
+    value_min = float(finite_values.min())
+    value_max = float(finite_values.max())
+    padding = max((value_max - value_min) * 0.05, 0.02)
+    y_min = max(-1.0, value_min - padding)
+    y_max = min(1.0, value_max + padding)
+
+    x_positions = np.arange(len(cell_types))
+    offsets = np.linspace(-0.22, 0.22, len(methods))
+    fig, axes = plt.subplots(
+        2,
+        1,
+        figsize=(6, 5),
+        sharex=True,
+        sharey=True,
+        squeeze=False,
+    )
+    axes = axes.ravel()
+    for ax, (stage, stage_label) in zip(axes, PEARSON_STAGES, strict=True):
+        stage_data = plot_data.loc[plot_data["stage"] == stage]
+        for method, offset in zip(methods, offsets, strict=True):
+            method_data = (
+                stage_data.loc[stage_data["method"] == method]
+                .set_index("cell_type")
+                .reindex(cell_types)
+            )
+            label, color = PEARSON_METHODS[method]
+            ax.scatter(
+                x_positions + offset,
+                method_data["mean_profile_pearson_r"].to_numpy(dtype=float),
+                s=58,
+                color=color,
+                edgecolor="white",
+                linewidth=0.7,
+                label=label,
+                zorder=3,
+            )
+        ax.set_title(stage_label)
+        ax.set_ylabel("Mean profile Pearson r")
+        ax.set_ylim(y_min, y_max)
+        for separator in x_positions[:-1] + 0.5:
+            ax.axvline(
+                separator,
+                color="#808080",
+                linestyle=":",
+                linewidth=0.8,
+                alpha=0.65,
+                zorder=1,
+            )
+        ax.grid(axis="y", alpha=0.25, linewidth=0.8)
+        ax.set_axisbelow(True)
+
+    axes[0].tick_params(axis="x", labelbottom=False)
+    axes[-1].set_xticks(x_positions)
+    axes[-1].set_xticklabels(cell_types)
+    # axes[-1].set_xlabel("Cell type")
+    axes[0].legend(loc="upper left", frameon=True, framealpha=0.9)
+    fig.suptitle("Held-out Pearson correlation by stage and cell type", y=0.995)
+    fig.tight_layout(rect=(0, 0, 1, 0.96))
+    _write_figure(fig, path)
 
 
 def _write_figure(fig: plt.Figure, path: Path) -> None:
@@ -167,6 +275,7 @@ def write_report(
     stage_one_plot = output_dir / "stage1_population_test.png"
     stage_two_plot = output_dir / "stage2_cinema_test.png"
     training_plot = output_dir / "training_history.png"
+    pearson_plot = output_dir / "test_pearson_by_cell_type.png"
     metrics_path = output_dir / "test_metrics.csv"
     summary_path = output_dir / "run_summary.md"
 
@@ -216,6 +325,7 @@ def write_report(
         [stage_one["metrics"], stage_two["metrics"]],
         ignore_index=True,
     )
+    _plot_stage_pearson(metrics, pearson_plot)
     metrics.to_csv(metrics_path, index=False)
     test_profiles = len(stage_one["metadata"]) + len(stage_two["metadata"])
     expression_config = config.get("expression", {})
@@ -268,6 +378,7 @@ def write_report(
         "- `stage1_population_test.png`",
         "- `stage2_cinema_test.png`",
         "- `training_history.png`",
+        "- `test_pearson_by_cell_type.png`",
         "",
     ]
     summary_path.write_text("\n".join(lines), encoding="utf-8")
@@ -277,4 +388,5 @@ def write_report(
         "stage1_plot": stage_one_plot,
         "stage2_plot": stage_two_plot,
         "training_plot": training_plot,
+        "pearson_plot": pearson_plot,
     }

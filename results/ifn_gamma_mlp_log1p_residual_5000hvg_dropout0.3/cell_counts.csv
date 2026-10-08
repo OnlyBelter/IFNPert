@@ -1,0 +1,29 @@
+cell_type0528,perturbation,n_cells
+B,IFNb,130
+B,IFNb+ IFNg,133
+B,IFNg,126
+B,No stimulation,96
+CD4 T,IFNb,814
+CD4 T,IFNb+ IFNg,701
+CD4 T,IFNg,377
+CD4 T,No stimulation,569
+CD8 T,IFNb,421
+CD8 T,IFNb+ IFNg,356
+CD8 T,IFNg,325
+CD8 T,No stimulation,309
+Dendritic,IFNb,10
+Dendritic,IFNb+ IFNg,17
+Dendritic,IFNg,16
+Dendritic,No stimulation,4
+Monocyte,IFNb,608
+Monocyte,IFNb+ IFNg,504
+Monocyte,IFNg,473
+Monocyte,No stimulation,602
+NK,IFNb,744
+NK,IFNb+ IFNg,494
+NK,IFNg,620
+NK,No stimulation,673
+Plasma,IFNb,32
+Plasma,IFNb+ IFNg,33
+Plasma,IFNg,7
+Plasma,No stimulation,15
